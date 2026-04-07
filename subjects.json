@@ -1,0 +1,58 @@
+[
+  {
+    "id": "history",
+    "name": "History",
+    "description": "Ancient, Medieval & Modern India",
+    "emoji": "🏛️",
+    "color": "#E65100"
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "description": "Physical, Indian & World Geography",
+    "emoji": "🌏",
+    "color": "#1565C0"
+  },
+  {
+    "id": "polity",
+    "name": "Indian Polity",
+    "description": "Constitution, Governance & Law",
+    "emoji": "⚖️",
+    "color": "#2E7D32"
+  },
+  {
+    "id": "economy",
+    "name": "Economy",
+    "description": "Indian & World Economy",
+    "emoji": "📈",
+    "color": "#6A1B9A"
+  },
+  {
+    "id": "science",
+    "name": "General Science",
+    "description": "Physics, Chemistry & Biology",
+    "emoji": "🔬",
+    "color": "#00838F"
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "description": "Ecology, Biodiversity & Climate",
+    "emoji": "🌿",
+    "color": "#558B2F"
+  },
+  {
+    "id": "art_culture",
+    "name": "Art & Culture",
+    "description": "Indian Art, Architecture & Heritage",
+    "emoji": "🎭",
+    "color": "#AD1457"
+  },
+  {
+    "id": "english",
+    "name": "English",
+    "description": "Grammar, Comprehension & Vocabulary",
+    "emoji": "📝",
+    "color": "#37474F"
+  }
+]
