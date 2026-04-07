@@ -1,0 +1,215 @@
+{
+  "subjectId": "history",
+  "topics": [
+    {
+      "id": "indus_valley_civilization",
+      "title": "Indus Valley Civilization",
+      "notes": "The Indus Valley Civilization (IVC), also known as the Harappan Civilization, flourished around 2600–1900 BCE across present-day Pakistan and northwest India. It is one of the world's earliest urban civilizations, contemporary with ancient Egypt and Mesopotamia. Major sites include Harappa, Mohenjo-daro, Dholavira, Lothal, Kalibangan, and Rakhigarhi. The civilization is notable for its advanced urban planning, with grid-pattern streets, standardized burnt-brick construction, and sophisticated drainage systems.\n\nThe economy of the IVC was based on agriculture (wheat, barley, cotton) and trade. Lothal served as a major port and dockyard, indicating maritime trade with Mesopotamia. Artifacts such as seals, weights, and measures suggest a well-organized commercial system. The famous Pashupati seal, the dancing girl bronze figurine, and the priest-king sculpture are iconic finds from this period.\n\nThe script of the Indus Valley Civilization remains undeciphered, making it difficult to fully understand their society and religion. Evidence suggests a theocratic or merchant-led governance rather than a militaristic one, as no weapons or signs of a standing army have been found. The Great Bath at Mohenjo-daro suggests ritualistic bathing practices.\n\nThe decline of the IVC around 1900 BCE is attributed to multiple factors including climate change, drying of the Saraswati River (identified with the Ghaggar-Hakra river system), flooding, and possibly nomadic invasions. The Late Harappan phase saw migration toward the Ganga plains, contributing to subsequent Indian civilization.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which of the following Indus Valley sites is located in the present-day state of Gujarat, India?",
+          "options": ["Harappa", "Mohenjo-daro", "Lothal", "Kalibangan"],
+          "correctIndex": 2,
+          "explanation": "Lothal is located in the Ahmedabad district of Gujarat. It is famous for its dockyard, which is the world's earliest known, and was a major centre of trade in the Indus Valley Civilization. Harappa and Mohenjo-daro are in present-day Pakistan, while Kalibangan is in Rajasthan."
+        },
+        {
+          "id": "q2",
+          "question": "The 'Great Bath' discovered at Mohenjo-daro is significant because it suggests:",
+          "options": ["Advanced metallurgical practices", "Ritualistic or religious bathing practices", "A system of public taxation", "Military fortification techniques"],
+          "correctIndex": 1,
+          "explanation": "The Great Bath at Mohenjo-daro is a large public bathing structure believed to have been used for ritual purification. It is made watertight with bitumen and is considered one of the earliest public water tanks in the ancient world, indicating the importance of ritual cleanliness in the IVC."
+        },
+        {
+          "id": "q3",
+          "question": "Which crop, not widely cultivated in contemporary civilizations, was first grown by the Indus Valley people?",
+          "options": ["Wheat", "Barley", "Rice", "Cotton"],
+          "correctIndex": 3,
+          "explanation": "The Indus Valley Civilization is among the earliest known to cultivate cotton, earning the Greek name 'Sindon' (from Sindh) for cotton. Evidence of cotton cultivation and use in textiles has been found at Mohenjo-daro and other Harappan sites, predating similar use in other ancient civilizations."
+        },
+        {
+          "id": "q4",
+          "question": "The Indus Valley script has been found on which of the following objects most commonly?",
+          "options": ["Clay tablets", "Stone pillars", "Seals and sealings", "Copper plates"],
+          "correctIndex": 2,
+          "explanation": "The undeciphered Indus script appears most commonly on small square or rectangular seals made of steatite, as well as on sealings (clay impressions of seals). These seals were likely used for trade and administration. The script has not been found on stone pillars or copper plates."
+        },
+        {
+          "id": "q5",
+          "question": "Which river, now largely dried up, is believed to have been central to the Indus Valley Civilization?",
+          "options": ["Indus", "Ganga", "Saraswati", "Yamuna"],
+          "correctIndex": 2,
+          "explanation": "The Saraswati River, identified with the present-day Ghaggar-Hakra river system, is believed to have been a major perennial river that supported a large number of Harappan settlements. Satellite imagery and geological studies show that this river dried up around 2000–1500 BCE, contributing significantly to the decline of the civilization."
+        }
+      ]
+    },
+    {
+      "id": "vedic_age",
+      "title": "Vedic Age",
+      "notes": "The Vedic Age is broadly divided into the Early Vedic Period (1500–1000 BCE) and the Later Vedic Period (1000–600 BCE). The Early Vedic period is associated with the composition of the Rigveda, the oldest of the four Vedas, and the arrival or rise of the Aryans in the Indian subcontinent. The Aryans were pastoral and semi-nomadic, organized into tribal units called 'Jana', led by a chief called 'Rajan'. The early economy was primarily pastoral, with cattle being the primary measure of wealth.\n\nIn the Early Vedic period, the chief deity was Indra (god of thunder and war), followed by Agni (fire) and Varuna (cosmic order). The society was relatively egalitarian, with women participating in religious ceremonies. The Sabha and Samiti were important tribal assemblies that checked the power of the Rajan. The term 'Varna' initially referred to colour and began as a social division based on occupation rather than birth.\n\nThe Later Vedic period saw the composition of the Samaveda, Yajurveda, Atharvaveda, and the Brahmanas, Aranyakas, and Upanishads. There was a transition from a pastoral to an agrarian economy, with the use of iron ploughs (krishna ayas or shyama ayas) enabling settlement of the Ganga plains. The Varna system became more rigid and hereditary during this period, leading to a four-fold division: Brahmin, Kshatriya, Vaishya, and Shudra.\n\nThe Upanishads, also called Vedanta, represent the philosophical culmination of the Vedic age, exploring concepts of Brahman (universal soul) and Atman (individual soul). The Later Vedic period saw the rise of large territorial kingdoms (Mahajanapadas) and increasing dissatisfaction with elaborate Brahminic rituals, which eventually gave rise to reformist movements like Buddhism and Jainism.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which of the following Vedas is the oldest and contains hymns of praise to various deities?",
+          "options": ["Samaveda", "Yajurveda", "Rigveda", "Atharvaveda"],
+          "correctIndex": 2,
+          "explanation": "The Rigveda is the oldest of the four Vedas, composed around 1500–1200 BCE. It consists of 1028 hymns (suktas) organized in 10 mandalas, dedicated to various Aryan deities such as Indra, Agni, Varuna, and Soma. The Samaveda contains melodies, the Yajurveda sacrificial formulas, and the Atharvaveda folk charms."
+        },
+        {
+          "id": "q2",
+          "question": "The tribal assembly in the Vedic period that was open to all members of the tribe, including women, was called:",
+          "options": ["Sabha", "Samiti", "Vidatha", "Parishad"],
+          "correctIndex": 1,
+          "explanation": "The Samiti was a general assembly open to all members of the tribe and wielded considerable power, including electing or deposing the king. The Sabha was a smaller council of elders or nobles. The Vidatha was an assembly associated with war and plunder. Together, the Sabha and Samiti acted as checks on royal authority."
+        },
+        {
+          "id": "q3",
+          "question": "Which metal, introduced during the Later Vedic period, played a crucial role in the expansion of agriculture in the Gangetic plains?",
+          "options": ["Copper", "Bronze", "Iron", "Silver"],
+          "correctIndex": 2,
+          "explanation": "Iron (referred to as 'krishna ayas' or 'shyama ayas' in the Vedic texts) was introduced during the Later Vedic period. Iron-tipped ploughs enabled the clearing of the dense forests of the Gangetic plains and made agriculture more efficient, facilitating the eastward expansion of Aryan settlements and the establishment of larger kingdoms."
+        },
+        {
+          "id": "q4",
+          "question": "The philosophical texts known as Upanishads are also called:",
+          "options": ["Vedanta", "Vedangas", "Aranyakas", "Brahmanas"],
+          "correctIndex": 0,
+          "explanation": "The Upanishads are known as Vedanta, meaning 'end of the Vedas', as they represent the final and philosophical portion of the Vedic literature. They explore abstract concepts such as Brahman (the universal soul) and Atman (the individual soul) and their ultimate unity. There are 108 Upanishads, with 12–13 considered major."
+        },
+        {
+          "id": "q5",
+          "question": "The famous 'Battle of Ten Kings' (Dasharajna) mentioned in the Rigveda was fought on the banks of which river?",
+          "options": ["Ganga", "Yamuna", "Parushni (Ravi)", "Saraswati"],
+          "correctIndex": 2,
+          "explanation": "The Battle of Ten Kings (Dasharajna Yuddha), described in the 7th Mandala of the Rigveda, was fought on the banks of the Parushni River, identified with the modern Ravi River. King Sudas of the Bharata tribe, guided by sage Vasishtha, defeated a confederation of ten kings, establishing Bharata dominance in the Punjab region."
+        }
+      ]
+    },
+    {
+      "id": "maurya_empire",
+      "title": "Maurya Empire",
+      "notes": "The Maurya Empire (322–185 BCE) was the first pan-Indian empire, founded by Chandragupta Maurya with the guidance of his minister Chanakya (Kautilya). Chandragupta overthrew the Nanda dynasty and repelled the invasion of Seleucus Nicator, a general of Alexander the Great, securing vast territories in the northwest. The empire at its peak under Ashoka extended from Afghanistan and Balochistan in the west to Bengal in the east, and from the Himalayas in the north to Karnataka in the south.\n\nChanakya's Arthashastra is a treatise on statecraft, economic policy, and military strategy, providing detailed insight into Mauryan administration. The empire was divided into provinces (Janapadas) governed by princes of the royal family as viceroys. The capital Pataliputra (modern Patna) was a magnificent city described admiringly by the Greek ambassador Megasthenes in his work 'Indica'. A well-organized bureaucracy, secret service (spies called 'Gudhapurushas'), and a large standing army maintained the empire.\n\nAshoka the Great (268–232 BCE) is the most celebrated Mauryan ruler. His Kalinga War (261 BCE) resulted in massive bloodshed, estimated at over 100,000 deaths, which deeply disturbed him and led to his conversion to Buddhism. He propagated the concept of 'Dhamma' — a code of ethical conduct emphasizing non-violence, tolerance, respect for elders, and compassion. He sent Buddhist missionaries to Sri Lanka, Central Asia, West Asia, and the Mediterranean.\n\nAshoka's edicts, inscribed on rocks and polished sandstone pillars across the empire, are among the most important historical documents of ancient India. They are written in Brahmi script (and Kharosthi in the northwest) and Prakrit language. The famous Lion Capital of Ashoka from Sarnath is the national emblem of India, and the Dhamma Chakra from it features on the national flag. The Maurya Empire declined after Ashoka, with weak successors unable to hold the empire together; it was ended by Pushyamitra Shunga in 185 BCE.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Arthashastra, a treatise on statecraft and economic policy, was authored by:",
+          "options": ["Ashoka", "Chandragupta Maurya", "Chanakya (Kautilya)", "Megasthenes"],
+          "correctIndex": 2,
+          "explanation": "The Arthashastra was authored by Chanakya, also known as Kautilya or Vishnugupta, the chief minister and political strategist of Chandragupta Maurya. It covers topics including governance, law, taxation, diplomacy, war, and espionage. It was rediscovered in 1905 by R. Shamasastry and is considered one of the greatest works on political economy from the ancient world."
+        },
+        {
+          "id": "q2",
+          "question": "Which battle caused Emperor Ashoka to renounce war and embrace Buddhism?",
+          "options": ["Battle of Hydaspes", "Battle of Kalinga", "Battle of Pataliputra", "Battle of Tarain"],
+          "correctIndex": 1,
+          "explanation": "The Kalinga War (261 BCE) fought in present-day Odisha resulted in the deaths of approximately 100,000 soldiers and the deportation of 150,000 more. The immense suffering caused Ashoka deep remorse and led him to adopt Buddhism and propagate Dhamma (righteousness). He is described as transforming from 'Chandashoka' (fierce Ashoka) to 'Dharmashoka' (righteous Ashoka)."
+        },
+        {
+          "id": "q3",
+          "question": "The national emblem of India is an adaptation of the capital of an Ashokan pillar found at:",
+          "options": ["Vaishali", "Sanchi", "Sarnath", "Bodh Gaya"],
+          "correctIndex": 2,
+          "explanation": "The Lion Capital of Ashoka, found at Sarnath (near Varanasi), serves as the basis for India's national emblem. It depicts four lions standing back to back on an abacus with a frieze of a horse, bull, lion, and elephant separated by wheels. The Government of India adopted it on 26 January 1950. The Dharma Chakra from this capital also appears on the national flag."
+        },
+        {
+          "id": "q4",
+          "question": "Megasthenes was the Greek ambassador at the court of which Mauryan ruler?",
+          "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Dasharatha"],
+          "correctIndex": 2,
+          "explanation": "Megasthenes was sent as an ambassador to the court of Chandragupta Maurya by Seleucus Nicator around 302 BCE. His work 'Indica' describes the Mauryan capital Pataliputra, its administration, society, and the seven castes of Indian society. Although the original is lost, it survives in fragments quoted by later Greek writers like Strabo and Diodorus."
+        },
+        {
+          "id": "q5",
+          "question": "The Maurya Empire came to an end when Pushyamitra Shunga assassinated the last Mauryan ruler:",
+          "options": ["Samprati", "Salisuka", "Brihadratha", "Devavarman"],
+          "correctIndex": 2,
+          "explanation": "Pushyamitra Shunga, the commander-in-chief of the Mauryan army, assassinated the last Mauryan ruler Brihadratha during a military review in 185 BCE and founded the Shunga dynasty. The Maurya Empire had been weakening due to the partition of the empire and the oppressive tax policies described in later sources, though Ashoka's Buddhist policies are also cited by some historians."
+        }
+      ]
+    },
+    {
+      "id": "medieval_india_delhi_sultanate",
+      "title": "Medieval India & Delhi Sultanate",
+      "notes": "The Delhi Sultanate (1206–1526 CE) was established after Muhammad of Ghor's victories over Prithviraj Chauhan at the Second Battle of Tarain (1192 CE). The sultanate comprised five successive dynasties: the Slave (Mamluk) dynasty, the Khilji dynasty, the Tughlaq dynasty, the Sayyid dynasty, and the Lodi dynasty. The first sultan was Qutb-ud-din Aibak, a slave-general of Muhammad of Ghor, who began construction of the Qutb Minar in Delhi. The sultanate period saw the introduction of the Indo-Islamic architectural style in India.\n\nThe Khilji dynasty (1290–1320) under Alauddin Khilji saw significant administrative and military reforms. Alauddin introduced market reforms (fixing prices of goods), strengthened the revenue system, and successfully repelled the Mongol invasions multiple times. His general Malik Kafur led successful campaigns into the Deccan and South India, extending the sultanate's influence to the furthest south. Alauddin's economic policies, including the token currency experiment, were pragmatic but often harsh.\n\nMuhammad bin Tughlaq (1325–1351) is known for his ambitious but ill-fated experiments: the transfer of the capital from Delhi to Daulatabad (Devagiri), the introduction of token currency (copper coins replacing silver), and the Khorasan expedition. His reign is described by Ibn Battuta, a Moroccan traveler who served in his court. Firuz Shah Tughlaq, his successor, is known for his public works — constructing canals, hospitals, and welfare institutions — but also for reimposing the Jizya tax on non-Muslims.\n\nThe Delhi Sultanate ended when Babur, the founder of the Mughal Empire, defeated Ibrahim Lodi in the First Battle of Panipat in 1526. The sultanate period is significant for: establishing a centralized administrative system, spreading Islam in India, developing the Indo-Persian culture, constructing iconic monuments like Qutb Minar and Alai Darwaza, and fostering the growth of Hindustani music and the Sufi movement, which played a key role in Hindu-Muslim synthesis.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The First Battle of Panipat (1526) was fought between Babur and:",
+          "options": ["Alauddin Khilji", "Ibrahim Lodi", "Sikandar Lodi", "Mahmud of Ghazni"],
+          "correctIndex": 1,
+          "explanation": "The First Battle of Panipat was fought on 21 April 1526 between Babur, the ruler of Kabul, and Ibrahim Lodi, the last sultan of the Delhi Sultanate. Babur's forces used artillery and the 'Tulghuma' strategy, defeating the larger army of Ibrahim Lodi, who died in battle. This battle established the Mughal Empire in India."
+        },
+        {
+          "id": "q2",
+          "question": "Which Sultan of Delhi introduced a comprehensive market control system with fixed prices for goods?",
+          "options": ["Qutb-ud-din Aibak", "Iltutmish", "Alauddin Khilji", "Firuz Shah Tughlaq"],
+          "correctIndex": 2,
+          "explanation": "Alauddin Khilji established four separate markets in Delhi — for grain, cattle/horses, cloth, and miscellaneous goods — each supervised by a controller (Shahna), intelligence officer (Barid), and secret agents. Prices were strictly fixed and violators were severely punished. These measures were primarily aimed at maintaining a large army at low cost."
+        },
+        {
+          "id": "q3",
+          "question": "The famous Moroccan traveler who visited India during the reign of Muhammad bin Tughlaq was:",
+          "options": ["Marco Polo", "Ibn Battuta", "Al-Biruni", "Fa-Hien"],
+          "correctIndex": 1,
+          "explanation": "Ibn Battuta (1333–1347 CE) visited India during the reign of Muhammad bin Tughlaq and served as a Qazi (judge) in Delhi. His travel account 'Rihla' provides valuable information about the administration, society, and economic conditions of 14th-century India. Al-Biruni visited during Mahmud of Ghazni's period, Marco Polo visited South India, and Fa-Hien visited during the Gupta period."
+        },
+        {
+          "id": "q4",
+          "question": "The Qutb Minar in Delhi was begun by which ruler and completed by which ruler?",
+          "options": ["Qutb-ud-din Aibak; Iltutmish", "Iltutmish; Alauddin Khilji", "Muhammad of Ghor; Qutb-ud-din Aibak", "Qutb-ud-din Aibak; Alauddin Khilji"],
+          "correctIndex": 0,
+          "explanation": "Construction of the Qutb Minar was begun by Qutb-ud-din Aibak around 1193 CE, but he only completed the basement storey. It was completed by his successor and son-in-law Iltutmish, who added three more storeys. Firuz Shah Tughlaq later repaired and added the fifth storey. The minar was built to call the faithful to prayer and as a tower of victory."
+        },
+        {
+          "id": "q5",
+          "question": "The 'Iqta' system, a method of revenue assignment introduced in the Delhi Sultanate, is most analogous to which later Mughal system?",
+          "options": ["Mansabdari system", "Jagirdari system", "Ryotwari system", "Zamindari system"],
+          "correctIndex": 1,
+          "explanation": "The Iqta system was a revenue assignment where a holder (Iqtadar or Muqti) was granted the revenues of a territory in lieu of cash salary, in exchange for maintaining troops. This evolved into the Jagirdari system of the Mughal period, where Jagirs (revenue assignments) were granted to Mansabdars. Both systems involved delegation of revenue collection rights rather than outright land ownership."
+        }
+      ]
+    },
+    {
+      "id": "british_rule_freedom_struggle",
+      "title": "British Rule & Freedom Struggle",
+      "notes": "The British East India Company arrived in India in 1600 CE and gradually transformed from a trading entity to a territorial power. The Battle of Plassey (1757), where Robert Clive defeated Siraj-ud-Daula (Nawab of Bengal) with the treachery of Mir Jafar, marked the beginning of British political supremacy. The Battle of Buxar (1764) against a combined force of Mir Qasim, Nawab of Awadh, and the Mughal Emperor strengthened British dominance. The Regulating Act of 1773 was the first step by the British Parliament to regulate the East India Company's affairs in India.\n\nThe 1857 Revolt, often called the First War of Indian Independence, began as a sepoy mutiny at Meerut triggered by the greased cartridge issue (Enfield rifle cartridges allegedly greased with cow and pig fat). It spread across north and central India, with major centers at Delhi, Lucknow, Kanpur, Jhansi, and Bareilly. Key leaders included Bahadur Shah Zafar, Rani Lakshmibai of Jhansi, Nana Sahib, Tantia Tope, and Begum Hazrat Mahal. The revolt was suppressed by 1858, after which the British Crown assumed direct control of India through the Government of India Act 1858.\n\nThe Indian National Congress (INC), founded in 1885 by A.O. Hume, Dadabhai Naoroji, and Dinshaw Wacha, became the primary vehicle of the independence movement. The early phase was dominated by the Moderates (Gopal Krishna Gokhale, Dadabhai Naoroji) who believed in petitions and constitutional methods. The Extremist faction (Bal Gangadhar Tilak, Bipin Chandra Pal, Lala Lajpat Rai — the 'Lal Bal Pal' trio) advocated Swaraj and mass agitation. The Partition of Bengal (1905) by Lord Curzon sparked the Swadeshi Movement and the Boycott Movement.\n\nMahatma Gandhi transformed the freedom struggle into a mass movement. His major campaigns included the Non-Cooperation Movement (1920–22), the Civil Disobedience Movement and Dandi March (1930), and the Quit India Movement (1942). The Rowlatt Act (1919) and Jallianwala Bagh Massacre (April 13, 1919) under General Dyer were pivotal radicalizing events. Subhas Chandra Bose formed the Indian National Army (INA/Azad Hind Fauj) to fight the British. India gained independence on August 15, 1947, with the partition creating India and Pakistan under the Indian Independence Act.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Battle of Plassey (1757) was significant because it:",
+          "options": ["Ended French influence in India", "Established British political supremacy in India", "Led to the annexation of Punjab by the British", "Resulted in the fall of the Maratha Empire"],
+          "correctIndex": 1,
+          "explanation": "The Battle of Plassey on June 23, 1757, fought between the British East India Company under Robert Clive and Siraj-ud-Daula (Nawab of Bengal), was won largely due to the treachery of Mir Jafar. The victory made the Company the de facto ruler of Bengal, the richest province in India, and established British political supremacy, making it a turning point in Indian history."
+        },
+        {
+          "id": "q2",
+          "question": "The famous 'Dandi March' undertaken by Mahatma Gandhi in 1930 was to protest against:",
+          "options": ["The Rowlatt Act", "The Salt Tax", "The Partition of Bengal", "Separate electorates for Muslims"],
+          "correctIndex": 1,
+          "explanation": "The Dandi March (March 12 – April 5, 1930) covered 241 miles from Sabarmati Ashram to Dandi in Gujarat, where Gandhi broke the Salt Law by making salt from seawater. The march launched the Civil Disobedience Movement, protesting the British monopoly on salt manufacture and the heavy tax on salt, which disproportionately burdened the poor."
+        },
+        {
+          "id": "q3",
+          "question": "The Jallianwala Bagh massacre (1919) took place in which city?",
+          "options": ["Lahore", "Delhi", "Amritsar", "Rawalpindi"],
+          "correctIndex": 2,
+          "explanation": "The Jallianwala Bagh massacre occurred on April 13, 1919, in Amritsar, Punjab, when Brigadier-General Reginald Dyer ordered troops to fire on a large crowd gathered for Baisakhi celebrations and to protest the Rowlatt Act. The firing killed at least 379 people (official figure) and wounded over 1,200. This event had a profound impact on Gandhi and Rabindranath Tagore, who returned his knighthood in protest."
+        },
+        {
+          "id": "q4",
+          "question": "Who was the Viceroy of India when the Quit India Movement was launched in 1942?",
+          "options": ["Lord Mountbatten", "Lord Linlithgow", "Lord Wavell", "Lord Irwin"],
+          "correctIndex": 1,
+          "explanation": "The Quit India Movement was launched by the Indian National Congress on August 8, 1942, with Gandhi's call for 'Do or Die' (Karo ya Maro). Lord Linlithgow was the Viceroy of India at that time. He immediately arrested the entire Congress leadership, leading to leaderless mass uprisings. Lord Mountbatten was the last Viceroy (1947), Lord Wavell served 1943–1947, and Lord Irwin served during the Civil Disobedience Movement."
+        },
+        {
+          "id": "q5",
+          "question": "The Indian National Congress was founded in 1885. Who played the key role in its establishment?",
+          "options": ["Bal Gangadhar Tilak", "A.O. Hume", "Gopal Krishna Gokhale", "Surendranath Banerjee"],
+          "correctIndex": 1,
+          "explanation": "Allan Octavian (A.O.) Hume, a retired British civil servant, is credited as the founder of the Indian National Congress. He organized the first session in Bombay (December 1885) with 72 delegates, with Womesh Chandra Bonnerjee as the first president. Hume believed a 'safety valve' organization could channel Indian grievances and prevent a repeat of the 1857 revolt. Dadabhai Naoroji and Dinshaw Wacha also played key roles."
+        }
+      ]
+    }
+  ]
+}
