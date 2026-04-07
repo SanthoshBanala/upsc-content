@@ -1,0 +1,215 @@
+{
+  "subjectId": "english",
+  "topics": [
+    {
+      "id": "parts_of_speech_sentence_structure",
+      "title": "Parts of Speech & Sentence Structure",
+      "notes": "The eight traditional Parts of Speech in English are: Noun (a naming word — person, place, thing, idea: Delhi, courage, table), Pronoun (replaces a noun — he, she, they, it, who), Verb (action or state of being — run, think, is, become), Adjective (modifies a noun or pronoun — tall, beautiful, three), Adverb (modifies a verb, adjective, or another adverb — quickly, very, yesterday), Preposition (shows relationship of a noun/pronoun to another word — in, on, by, with), Conjunction (connects words, phrases, or clauses — and, but, because, although), and Interjection (expresses emotion — Oh!, Alas!, Hurray!). Determiners (a, an, the, this, those, my, some) are sometimes classified as a 9th part of speech.\n\nNouns are classified as: Proper Nouns (specific names — Delhi, Ganges), Common Nouns (general names — city, river), Collective Nouns (names for groups — flock, committee, jury), Abstract Nouns (concepts — beauty, freedom, justice), and Material/Concrete Nouns (physical matter — gold, water). Verbs can be transitive (take an object: 'She reads a book') or intransitive (no object: 'She sleeps'). Verbs can also be main verbs (carry semantic meaning) or auxiliary/helping verbs (do, have, be, can, may, will, shall, should, would, could, must, need, dare — which help form tenses, moods, and voices).\n\nSentence structure refers to how sentences are organized. A simple sentence has one independent clause: Subject + Verb (+ Object/Complement). A compound sentence joins two independent clauses with a coordinating conjunction (FANBOYS: For, And, Nor, But, Or, Yet, So) or a semicolon. A complex sentence has one independent clause and at least one dependent (subordinate) clause joined by a subordinating conjunction (although, because, since, when, if, unless, until, whereas). A compound-complex sentence has at least two independent clauses and one dependent clause.\n\nA phrase is a group of words that functions as a single part of speech but lacks a subject-verb combination (noun phrase, verb phrase, adjective phrase, adverb phrase, prepositional phrase, participial phrase, gerund phrase, infinitive phrase). A clause contains both a subject and a predicate. An independent clause can stand alone as a sentence; a dependent clause cannot stand alone. Common sentence errors include: Run-on sentences (two independent clauses joined without proper punctuation), Comma splices (two independent clauses joined only by a comma), and Sentence fragments (incomplete sentences missing a subject or verb).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "In the sentence 'She runs every morning,' the word 'runs' functions as a:",
+          "options": ["Noun", "Adjective", "Verb", "Adverb"],
+          "correctIndex": 2,
+          "explanation": "'Runs' is the verb in this sentence — it describes the action performed by the subject 'She'. It is an intransitive verb (no direct object). The word 'morning' functions as a noun (object of the preposition 'every' acts as an adjective here), 'every' is a determiner/adjective, and the sentence is a simple sentence with the structure Subject + Verb + Adverbial phrase."
+        },
+        {
+          "id": "q2",
+          "question": "Which of the following sentences is a COMPLEX sentence?",
+          "options": ["She sang and he danced.", "The sun rose, and the birds sang.", "Although it was raining, she went for a walk.", "She is intelligent; she solved the problem."],
+          "correctIndex": 2,
+          "explanation": "A complex sentence has one independent clause and at least one dependent (subordinate) clause. 'Although it was raining, she went for a walk' — 'Although it was raining' is a dependent adverbial clause (cannot stand alone), and 'she went for a walk' is the independent clause. Option A is compound, B is compound (with coordinating conjunction 'and'), and D is compound (with a semicolon joining two independent clauses)."
+        },
+        {
+          "id": "q3",
+          "question": "Identify the type of noun in the sentence: 'The jury delivered its verdict.'",
+          "options": ["Abstract noun", "Proper noun", "Collective noun", "Material noun"],
+          "correctIndex": 2,
+          "explanation": "'Jury' is a collective noun — it names a group of people (jurors) acting as a single unit. Other collective nouns include: flock (of birds/sheep), committee, army, fleet, bunch, pack, pride (of lions), murder (of crows). Notice the pronoun 'its' is used (treating the jury as a single entity). Abstract nouns express concepts (freedom, beauty); Proper nouns are specific names (Delhi); Material nouns refer to physical substances (gold, water)."
+        },
+        {
+          "id": "q4",
+          "question": "The coordinating conjunctions in English are remembered by the acronym FANBOYS. Which of the following is NOT a coordinating conjunction?",
+          "options": ["For", "Although", "But", "Yet"],
+          "correctIndex": 1,
+          "explanation": "The seven coordinating conjunctions are remembered by FANBOYS: For, And, Nor, But, Or, Yet, So. 'Although' is a subordinating conjunction — it introduces a dependent/subordinate clause and is used in complex sentences. Other subordinating conjunctions include: because, since, when, while, unless, until, if, even though, whereas, as soon as. Subordinating conjunctions join a dependent clause to an independent clause."
+        },
+        {
+          "id": "q5",
+          "question": "Which of the following is an example of a 'sentence fragment'?",
+          "options": ["She left early.", "Running through the rain without an umbrella.", "He completed the assignment before the deadline.", "They waited for hours and finally gave up."],
+          "correctIndex": 1,
+          "explanation": "'Running through the rain without an umbrella' is a sentence fragment — it is a phrase (participial phrase) that lacks a main verb and an independent subject-verb structure. It cannot stand alone as a complete sentence. A sentence must have a subject and a finite verb. To correct it: 'She was running through the rain without an umbrella.' The other options are complete sentences with clear subjects and verbs."
+        }
+      ]
+    },
+    {
+      "id": "tenses_verb_forms",
+      "title": "Tenses & Verb Forms",
+      "notes": "English has three primary time frames — Past, Present, and Future — each with four aspects: Simple, Continuous (Progressive), Perfect, and Perfect Continuous. This gives 12 main tenses. The Simple tenses express habitual actions or facts (She reads daily / She read yesterday / She will read tomorrow). The Continuous tenses express ongoing actions at a specific time (She is reading now / She was reading at 5 pm / She will be reading at 5 pm). The Perfect tenses link a past action to a later time (She has read this book / She had read before the film / She will have read by then). Perfect Continuous tenses express ongoing actions with emphasis on duration (She has been reading for two hours).\n\nVerb forms: Every verb has five principal forms: Base form (write), Third-person singular present (writes), Simple past (wrote), Past participle (written), and Present participle (writing). Regular verbs form the past and past participle by adding -ed (walk → walked → walked). Irregular verbs change their form unpredictably (go → went → gone; break → broke → broken; cut → cut → cut). The principal parts must be memorized for irregular verbs. Auxiliary verbs (be, have, do, modals) combine with main verbs to form tenses, voices, moods, and negatives.\n\nModal verbs (can, could, may, might, shall, should, will, would, must, need, dare, ought to, used to) express ability, possibility, permission, obligation, etc. They are always followed by the base form of the verb. Key uses: Can (present ability/permission), Could (past ability/polite request/possibility), May (formal permission/possibility), Might (less certain possibility), Must (strong obligation/logical necessity), Should (advice/moral obligation), Would (past habit/polite request/conditional), Will (future/strong determination). 'Must' and 'have to' both express obligation, but 'must' is internal compulsion while 'have to' is external obligation.\n\nSubject-Verb Agreement: The verb must agree with its subject in number (singular or plural). Key rules: A singular subject takes a singular verb (The boy plays); A plural subject takes a plural verb (The boys play). With 'either...or / neither...nor,' the verb agrees with the nearer subject. Collective nouns (team, family, government) take singular verbs in American English but can take plural in British English. Indefinite pronouns (everyone, nobody, each, either, neither, something) take singular verbs. 'The number of' takes a singular verb; 'a number of' takes a plural verb.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which tense is used in the sentence: 'By the time she arrived, he had already left'?",
+          "options": ["Simple Past in both clauses", "Past Perfect for the main clause, Simple Past for the subordinate clause", "Simple Past for the main clause, Past Perfect for the subordinate clause", "Past Continuous for both clauses"],
+          "correctIndex": 2,
+          "explanation": "In this sentence, 'arrived' is Simple Past (the action that happened later), while 'had already left' is Past Perfect (the action that happened BEFORE 'arrived'). The Past Perfect is used to show that one past action occurred before another past action. When narrating two past events in sequence, the earlier one uses Past Perfect and the later one uses Simple Past. Correct: 'Simple Past for arriving (main/later action), Past Perfect for leaving (earlier action).'"
+        },
+        {
+          "id": "q2",
+          "question": "Identify the correct sentence with respect to Subject-Verb Agreement:",
+          "options": ["The team are playing well this season.", "Each of the students have completed the assignment.", "Neither the manager nor the employees was present.", "The number of complaints has increased."],
+          "correctIndex": 3,
+          "explanation": "'The number of complaints has increased' is correct — 'The number of' is treated as a singular subject and takes a singular verb (has). 'A number of' (meaning 'many') takes a plural verb. Option B is wrong ('each' is singular: 'has completed'); Option C is wrong (with 'neither...nor,' the verb agrees with the nearer subject: 'employees were'); Option A uses plural for a collective noun (acceptable in British English but not standard in formal writing)."
+        },
+        {
+          "id": "q3",
+          "question": "Which modal verb correctly fills the blank in: 'You __ submit the report before noon; it is mandatory.'",
+          "options": ["might", "could", "must", "would"],
+          "correctIndex": 2,
+          "explanation": "'Must' expresses strong necessity or obligation and is the correct choice here since submission is described as mandatory. 'Might' expresses weak possibility (unlikely choice for a mandatory action). 'Could' expresses ability or polite possibility, not compulsion. 'Would' expresses willingness, habitual past action, or conditional. For mandatory/compulsory obligation, use 'must' (internal compulsion) or 'have to' (external obligation from rules). 'Must not' expresses prohibition."
+        },
+        {
+          "id": "q4",
+          "question": "The Past Participle of the irregular verb 'break' is:",
+          "options": ["Breaked", "Broke", "Broken", "Breaking"],
+          "correctIndex": 2,
+          "explanation": "The five principal parts of 'break' are: Base form (break), Third-person singular (breaks), Simple Past (broke), Past Participle (broken), Present Participle (breaking). 'Broken' is used with auxiliary 'have/has/had' to form perfect tenses ('She has broken the glass') and with 'be' to form passive voice ('The glass was broken'). 'Breaked' is non-standard/incorrect; 'Broke' is simple past only; 'Breaking' is present participle."
+        },
+        {
+          "id": "q5",
+          "question": "Which sentence correctly uses the Present Perfect tense?",
+          "options": ["She has gone to the market yesterday.", "She went to the market since morning.", "She has been going to the market three times.", "She has gone to the market twice this week."],
+          "correctIndex": 3,
+          "explanation": "'She has gone to the market twice this week' correctly uses Present Perfect — it describes an action completed in a time period still ongoing ('this week'). Present Perfect is used with time expressions like today, this week/month/year, recently, just, already, yet, ever, never, so far. Option A is wrong because 'yesterday' is a completed past time (requires Simple Past: 'She went'). Option B mixes Simple Past with 'since morning' (requires Perfect). Option C should use 'She has gone to the market three times.'"
+        }
+      ]
+    },
+    {
+      "id": "active_passive_voice",
+      "title": "Active & Passive Voice",
+      "notes": "Voice in grammar refers to whether the subject of the sentence performs the action (Active Voice) or receives the action (Passive Voice). In Active Voice, the subject is the doer: 'The committee approved the proposal' — the committee (subject) is doing the approving. In Passive Voice, the subject is the receiver: 'The proposal was approved by the committee' — the proposal (subject) receives the action. Passive voice uses a form of 'be' (is, are, was, were, has been, have been, will be, etc.) + Past Participle of the main verb.\n\nRules for forming the Passive Voice: (1) The object of the active sentence becomes the subject of the passive sentence. (2) The subject of the active sentence becomes the 'agent' (preceded by 'by') and can be omitted if unknown or irrelevant. (3) The tense is preserved — change the main verb to the appropriate form of 'be' + past participle: Simple Present: is/are + past participle; Simple Past: was/were + past participle; Present Continuous: is/are being + past participle; Past Continuous: was/were being + past participle; Present Perfect: has/have been + past participle; Past Perfect: had been + past participle; Future Simple: will be + past participle; Modal: modal + be + past participle.\n\nPassive voice is used when: the doer of the action is unknown ('The window was broken'); the doer is unimportant or obvious (in scientific writing: 'The solution was heated to 100°C'); we want to emphasize the action or the receiver rather than the doer ('Mahatma Gandhi was assassinated in 1948'); formal or impersonal tone is required; or we want to be deliberately vague about the doer. However, overuse of passive voice makes writing wordy and unclear — active voice is generally preferred for clarity and directness.\n\nSpecial cases: Only transitive verbs (those taking an object) can be made passive. Intransitive verbs (no object) cannot be made passive ('She sleeps' — no passive form). For sentences with two objects (direct and indirect), either object can become the subject: 'The teacher gave the students books' → 'The students were given books by the teacher' OR 'Books were given to the students by the teacher.' Verbs like 'know,' 'resemble,' 'suit,' 'contain,' 'lack,' 'have' do not normally form passives. Questions and imperative sentences follow special rules for passive conversion.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which of the following correctly converts 'The government has announced a new policy' into Passive Voice?",
+          "options": ["A new policy was announced by the government.", "A new policy is announced by the government.", "A new policy has been announced by the government.", "A new policy had been announced by the government."],
+          "correctIndex": 2,
+          "explanation": "The original sentence is in Present Perfect Active: 'has announced.' The Present Perfect Passive is formed with 'has/have been + past participle'. Therefore: 'A new policy has been announced by the government.' Option A (was announced) is Simple Past Passive; Option B (is announced) is Simple Present Passive; Option D (had been announced) is Past Perfect Passive. The tense must remain Present Perfect."
+        },
+        {
+          "id": "q2",
+          "question": "Which of the following sentences CANNOT be converted into Passive Voice?",
+          "options": ["She wrote a letter.", "The teacher explained the concept.", "The child is sleeping.", "They have completed the project."],
+          "correctIndex": 2,
+          "explanation": "'The child is sleeping' cannot be made passive because 'sleep' is an intransitive verb — it does not take a direct object. Passive voice requires a transitive verb (one that acts on a direct object). The object of the active sentence becomes the subject of the passive sentence; without an object, there is nothing to become the passive subject. All other options use transitive verbs: 'wrote' (letter), 'explained' (concept), 'completed' (project) — all can be made passive."
+        },
+        {
+          "id": "q3",
+          "question": "The Passive Voice form of 'Someone is following us' is:",
+          "options": ["We are followed by someone.", "We were being followed.", "We are being followed.", "We have been followed."],
+          "correctIndex": 2,
+          "explanation": "The original sentence is in Present Continuous Active tense ('is following'). Present Continuous Passive = is/are + being + past participle. 'Us' (object) becomes 'We' (subject). 'Someone' is dropped (unknown/unimportant). Result: 'We are being followed.' Option A is Simple Present Passive; Option B is Past Continuous Passive; Option D is Present Perfect Passive. The tense (continuous) must be preserved in the passive conversion."
+        },
+        {
+          "id": "q4",
+          "question": "In which situation is the use of Passive Voice most appropriate?",
+          "options": ["When emphasizing that the subject took a heroic action", "When the doer of the action is unknown or unimportant", "When writing informal conversational text", "When using simple short sentences"],
+          "correctIndex": 1,
+          "explanation": "Passive voice is most appropriately used when the doer of the action is unknown ('The car was stolen'), unimportant ('The experiment was conducted for three hours' — in scientific writing), or when we deliberately want to avoid mentioning the doer. It also emphasizes the receiver of the action rather than the doer. Active voice is preferred for clarity, directness, and most informal writing. Overuse of passive can make writing impersonal, indirect, and wordy."
+        },
+        {
+          "id": "q5",
+          "question": "Convert to Passive Voice: 'They will inform you of the results tomorrow.'",
+          "options": ["You are informed of the results by them tomorrow.", "You will be informed of the results tomorrow.", "You would be informed of the results tomorrow.", "You shall have been informed of the results tomorrow."],
+          "correctIndex": 1,
+          "explanation": "The active sentence is in Future Simple tense ('will inform'). The object 'you' becomes the passive subject. Future Simple Passive = will + be + past participle: 'You will be informed of the results tomorrow.' The agent 'by them' is omitted as it is not essential. Option A is Simple Present Passive (wrong tense); Option C (would be) suggests conditionality, not simple future; Option D is unnecessarily complex and wrong for a simple future."
+        }
+      ]
+    },
+    {
+      "id": "reading_comprehension_strategies",
+      "title": "Reading Comprehension Strategies",
+      "notes": "Reading Comprehension (RC) is a critical component of competitive exams like UPSC and tests the ability to understand, interpret, and critically evaluate a written passage. Effective reading requires distinguishing between literal comprehension (what is directly stated) and inferential comprehension (what is implied or suggested beyond the literal text). Key strategies include: Skimming (reading quickly to get the main idea/gist without focusing on every word), Scanning (reading quickly to locate specific information — names, dates, keywords), and Intensive reading (careful, detailed reading for complete understanding).\n\nBefore reading a comprehension passage: (1) Read the questions first to know what information to look for — this makes your reading targeted. (2) Identify the topic and predict the content from the title and first paragraph. (3) Note the type of passage (expository/informative, argumentative/persuasive, narrative, descriptive) to calibrate your reading approach. While reading: (1) Identify the Central Idea/Main Theme — often stated in the opening and concluding sentences of the passage. (2) Identify the tone (formal, informal, sarcastic, critical, appreciative, objective, pessimistic, optimistic) — important for questions about author's attitude.\n\nTypes of RC questions: (1) Factual/Direct questions — answer is directly stated in the passage (use scanning). (2) Inference questions — require reading between the lines; the answer is implied but not stated. (3) Vocabulary in context — choose the meaning of a word/phrase as used in the passage (not necessarily the dictionary meaning). (4) Main idea/Central theme questions. (5) Title questions — the title should reflect the central theme. (6) Tone/Attitude questions. (7) True/False/Not Stated questions. For UPSC specifically, RC passages often cover themes like governance, science, environment, economics, and international affairs.\n\nCommon mistakes in RC: (1) Answering based on general knowledge rather than the passage — always base answers on what the passage says, even if it conflicts with your prior knowledge. (2) Being misled by partially correct options — wrong answer choices often contain elements from the passage combined with incorrect information. (3) Confusing the author's view with views attributed to others in the passage. (4) Spending too long on difficult questions — move on and return. (5) Not reading the passage actively — underline or mentally note key words, transitions (however, therefore, although, despite), and topic sentences of each paragraph.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "In Reading Comprehension, 'skimming' a passage means:",
+          "options": ["Reading every word slowly and carefully for complete understanding", "Reading quickly to get the overall main idea or gist", "Reading rapidly to locate specific facts, dates, or names", "Re-reading difficult sections multiple times"],
+          "correctIndex": 1,
+          "explanation": "Skimming is a reading strategy where you move quickly through the text to get the main idea, theme, or overall structure without focusing on every word. You typically read the first and last paragraphs carefully, and then the first and last sentences of each middle paragraph. It is useful for previewing a passage before detailed reading. Scanning (locating specific information) is the strategy in Option C. Intensive reading (Option A) is for thorough understanding."
+        },
+        {
+          "id": "q2",
+          "question": "For Reading Comprehension questions in competitive exams, when you encounter a vocabulary-in-context question, you should:",
+          "options": ["Always choose the most common dictionary meaning of the word", "Identify the meaning of the word as it is specifically used in the context of the passage", "Choose the synonym that sounds most formal", "Look for the definition provided earlier in the passage"],
+          "correctIndex": 1,
+          "explanation": "Vocabulary-in-context questions test how a word is used in the specific context of the passage, not its general dictionary meaning. A word may have multiple meanings, and the correct answer reflects the meaning appropriate to the passage's context. Strategy: read the sentence containing the word, and then read one sentence before and after it. Substitute each option in place of the word and choose the one that best fits the meaning of the passage."
+        },
+        {
+          "id": "q3",
+          "question": "When answering inference questions in Reading Comprehension, the student should:",
+          "options": ["Only use information explicitly stated in the passage", "Draw logical conclusions suggested by but not directly stated in the passage", "Apply outside knowledge and general awareness to supplement the passage", "Focus on the title and opening sentence only"],
+          "correctIndex": 1,
+          "explanation": "Inference questions require reading between the lines — identifying what is logically implied or suggested by the passage but not directly stated. Valid inferences must be strongly supported by evidence in the text, not just possible or loosely connected. Option A describes factual questions, not inference. Option C is a common mistake — you should not use outside knowledge; all answers must be grounded in the passage. Option D is insufficient for inference."
+        },
+        {
+          "id": "q4",
+          "question": "The 'tone' of a passage in Reading Comprehension refers to:",
+          "options": ["The main subject matter of the passage", "The logical argument presented by the author", "The author's attitude, emotion, or mood conveyed through language", "The organizational structure of the passage"],
+          "correctIndex": 2,
+          "explanation": "Tone in literary and academic terms refers to the author's attitude toward the subject matter or audience, conveyed through word choice (diction), sentence structure, and style. Examples of tone: objective/neutral, critical, appreciative, sarcastic, ironic, pessimistic, optimistic, alarmed, nostalgic, enthusiastic, detached. Tone questions ask things like: 'The author's tone in the passage is best described as...' Word choice is the most reliable indicator of tone."
+        },
+        {
+          "id": "q5",
+          "question": "Which is the BEST strategy for answering 'True / False / Not Stated' type questions in Reading Comprehension?",
+          "options": ["Choose 'Not Stated' whenever you cannot find the exact wording in the passage", "Mark something as 'True' if it matches your general knowledge", "Locate the relevant section of the passage and check whether the statement is confirmed, contradicted, or neither mentioned", "Read only the first and last paragraphs to find the answer"],
+          "correctIndex": 2,
+          "explanation": "For True/False/Not Stated questions: True — information clearly stated or directly implied in the passage; False — information directly contradicted by the passage; Not Stated — information neither confirmed nor contradicted. Always locate the specific sentence/paragraph in the passage to verify. Option A is wrong — many 'Not Stated' answers are tempting because they seem plausible. Option B is the most dangerous mistake. Option D is insufficient for detailed fact-checking."
+        }
+      ]
+    },
+    {
+      "id": "vocabulary_word_formation",
+      "title": "Vocabulary & Word Formation",
+      "notes": "A rich vocabulary is essential for success in competitive exams like UPSC. Words can be understood better through morphology — the study of word formation using roots, prefixes, and suffixes. A root is the core part of a word carrying its primary meaning (Latin/Greek roots are common in English): vid/vis (see — video, vision), port (carry — portable, import), dict (say — dictate, predict), rupt (break — rupture, interrupt, corrupt), scrib/script (write — describe, scripture), geo (earth — geography, geology), bio (life — biology, biography), phon (sound — phonetics, telephone). Knowing even 50 common roots can help decode hundreds of unfamiliar words.\n\nPrefixes (added to the beginning of a word) modify meaning: anti- (against — antidote, antibiotics), pre- (before — precede, predict), post- (after — postpone, postscript), mis- (wrongly — misguide, misuse), dis- (not/opposite — disagree, disconnect), un- (not — unable, unfair), re- (again — rebuild, reconsider), sub- (under — submarine, subordinate), super- (above — superior, supernatural), inter- (between — international, intervene), intra- (within — intramural, intravenous), trans- (across — transport, transcend), bene- (good — benefit, benevolent), mal- (bad — malice, malfunction). Suffixes (added to the end): -tion/-sion (action — creation, tension), -ity (state — equality, clarity), -ous/-ious (having — curious, courageous), -ful (full of — careful, hopeful), -less (without — careless), -ment (action/result — achievement), -ness (state — happiness).\n\nSynonyms are words with similar meanings; Antonyms are words with opposite meanings. For UPSC vocabulary, emphasis is on precise meaning and usage in context. Words commonly confused (Homophones, near-synonyms): Affect (verb — to influence) vs. Effect (noun — result); Complement (to complete) vs. Compliment (to praise); Principle (a rule) vs. Principal (head/primary); Eminent (distinguished) vs. Imminent (about to happen) vs. Immanent (inherent); Assure (to promise) vs. Ensure (to make certain) vs. Insure (to cover with insurance); Infer (to conclude from evidence) vs. Imply (to suggest/hint).\n\nIdioms and Phrases are expressions whose meaning differs from the literal meanings of their component words. They enrich writing and speech. Examples: 'Beat around the bush' (avoid the main topic), 'Break the ice' (initiate conversation in a new/awkward situation), 'Burn the midnight oil' (work late into the night), 'A blessing in disguise' (something that seems bad at first but turns out good), 'Hit the nail on the head' (be precisely accurate), 'Bite the bullet' (endure painful situation with courage), 'Let the cat out of the bag' (reveal a secret accidentally), 'Put all eggs in one basket' (risk everything on one venture), 'Bite off more than you can chew' (take on more than you can manage). Phrasal verbs (verb + preposition/adverb) are also important: 'call off' (cancel), 'put off' (postpone), 'make up for' (compensate), 'give in' (yield).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Latin root 'dict' (as in 'dictate,' 'verdict,' 'predict') means:",
+          "options": ["Write", "See", "Say/Speak", "Carry"],
+          "correctIndex": 2,
+          "explanation": "The Latin root 'dict/dic' means 'to say' or 'to speak'. It appears in: dictate (to speak authoritatively), verdict (ver = true + dict = say: a true saying/judgment), predict (pre = before + dict = say: to say beforehand), contradict (contra = against + dict: to say against), diction (manner of speaking), dictionary (a book of words/sayings), edict (official order proclaimed), and jurisdiction (juris = law + dict: to say the law). The root 'scrib/script' means write; 'vid/vis' means see; 'port' means carry."
+        },
+        {
+          "id": "q2",
+          "question": "Which of the following correctly uses 'affect' and 'effect'?",
+          "options": ["The medicine effected her recovery. The affect was immediate.", "The rain affected the match. The final effect was a cancellation.", "The policy will effect the poor. The affect on economy is unknown.", "His speech had a great affect. It will effect permanent change."],
+          "correctIndex": 1,
+          "explanation": "'Affect' is typically a verb meaning 'to influence or have an impact on'; 'Effect' is typically a noun meaning 'result or outcome'. In Option B: 'affected' (verb — influenced) and 'effect' (noun — result) are both used correctly. Option A has them reversed. Option C uses 'effect' incorrectly as a verb (though 'to effect change' is a valid but rare formal usage meaning 'to bring about,' it is not standard for this context). Option D uses 'affect' as a noun, which is wrong."
+        },
+        {
+          "id": "q3",
+          "question": "The prefix 'mal-' in words like 'malfunction,' 'malice,' and 'malnutrition' means:",
+          "options": ["Good or beneficial", "Before or prior", "Bad, wrong, or ill", "Between or among"],
+          "correctIndex": 2,
+          "explanation": "The prefix 'mal-' (from Latin 'malus' meaning bad) means bad, wrong, or ill. Words: malfunction (to function badly), malice (bad feeling/intent to harm), malnutrition (poor nutrition), malpractice (improper practice), malicious (having bad intent), maladministration (bad administration). Compare with 'bene-' (good: benefit, benevolent) and 'eu-' (good/true: euphoria, euthanasia). 'Pre-' means before; 'inter-' means between."
+        },
+        {
+          "id": "q4",
+          "question": "What does the idiom 'Bite the bullet' mean?",
+          "options": ["To eat hastily", "To endure a painful or difficult situation with courage", "To be extremely careful about spending money", "To reveal a carefully guarded secret"],
+          "correctIndex": 1,
+          "explanation": "'Bite the bullet' means to endure a painful, difficult, or unpleasant situation with stoicism and courage, rather than trying to avoid it. Its origin is attributed to early surgery/dentistry before anaesthesia, when patients were given a bullet to bite down on to cope with the pain. Example: 'The reforms will be painful, but we must bite the bullet and implement them.' 'Spill the beans' or 'let the cat out of the bag' means to reveal a secret."
+        },
+        {
+          "id": "q5",
+          "question": "Which of the following sentences correctly uses 'Eminent' and 'Imminent'?",
+          "options": ["The eminent storm will destroy the crops. An imminent scientist discovered the cure.", "An eminent jurist delivered the lecture. A storm was imminent.", "The lecture was given by an imminent professor. Danger is eminent.", "The eminent danger required evacuation. The imminent scholar was awarded."],
+          "correctIndex": 1,
+          "explanation": "'Eminent' means distinguished, prominent, or well-known (especially in a profession). 'Imminent' means about to happen very soon, impending. In Option B: 'eminent jurist' (a distinguished legal expert — correct) and 'storm was imminent' (storm was about to happen — correct). Option A reverses the usage. Option C: 'imminent professor' is wrong (an eminent/distinguished professor is correct). Option D: 'eminent danger' is wrong (imminent danger is correct) and 'imminent scholar' is wrong (eminent scholar is correct)."
+        }
+      ]
+    }
+  ]
+}

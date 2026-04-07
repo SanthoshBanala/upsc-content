@@ -1,0 +1,215 @@
+{
+  "subjectId": "science",
+  "topics": [
+    {
+      "id": "laws_of_motion_mechanics",
+      "title": "Laws of Motion & Mechanics",
+      "notes": "Isaac Newton's three Laws of Motion, published in Principia Mathematica (1687), form the foundation of classical mechanics. First Law (Law of Inertia): A body at rest remains at rest, and a body in uniform motion continues in uniform motion in a straight line, unless acted upon by an external net force. Inertia is the tendency of a body to resist change in its state. Mass is the measure of inertia — heavier objects have greater inertia. Second Law (Law of Acceleration): Force = Mass × Acceleration (F = ma). The rate of change of momentum of a body is directly proportional to the net force applied and occurs in the direction of the force.\n\nThird Law (Law of Action-Reaction): For every action, there is an equal and opposite reaction. These forces act on two different bodies simultaneously (Newton's 3rd Law pairs). Examples include: a rocket expelling gas downward to move upward, a gun recoiling when fired, and a swimmer pushing water backward to move forward. The Third Law is fundamental to understanding rocket propulsion, jet engines, and even walking (we push back on the ground; ground pushes us forward).\n\nGravitation: Newton's Universal Law of Gravitation states that every particle in the universe attracts every other particle with a force directly proportional to the product of their masses and inversely proportional to the square of the distance between them (F = Gm₁m₂/r²), where G is the Universal Gravitational Constant (6.674 × 10⁻¹¹ N·m²/kg²). The acceleration due to gravity (g) on Earth's surface is approximately 9.8 m/s². The value of g decreases with altitude and depth and is lowest at the equator (due to Earth's bulge and rotation) and highest at the poles.\n\nWork, Energy, and Power: Work = Force × Displacement × cos θ (where θ is the angle between force and displacement). Work done is zero when force is perpendicular to displacement (e.g., centripetal force on circular motion). Kinetic Energy = ½mv². Potential Energy (gravitational) = mgh. The Law of Conservation of Energy states that energy can neither be created nor destroyed, only converted from one form to another. Power = Work/Time. 1 Watt = 1 Joule/second. 1 Horsepower = 746 Watts.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "A passenger in a bus tends to fall forward when the bus brakes suddenly. This is an example of:",
+          "options": ["Newton's Third Law of Motion", "Newton's Second Law of Motion", "Newton's First Law of Motion (Law of Inertia)", "The Law of Conservation of Momentum"],
+          "correctIndex": 2,
+          "explanation": "This phenomenon demonstrates Newton's First Law (Law of Inertia). The passenger's body is in motion along with the bus. When the bus suddenly brakes (applies a backward force), the bus decelerates, but the passenger's body tends to continue moving forward due to inertia of motion. The passenger's body maintains its state of motion until an external force (seat or seatbelt) stops it. Inertia of motion causes the forward lurch."
+        },
+        {
+          "id": "q2",
+          "question": "According to Newton's Second Law, if the mass of a body is doubled and the force applied is also doubled, the acceleration will:",
+          "options": ["Double", "Halve", "Remain the same", "Quadruple"],
+          "correctIndex": 2,
+          "explanation": "Newton's Second Law: F = ma, so a = F/m. If both F and m are doubled: a = 2F/2m = F/m. The acceleration remains the same. The acceleration is directly proportional to force and inversely proportional to mass. Doubling both force and mass in equal proportions keeps acceleration constant. This shows why larger vehicles need more powerful engines just to maintain the same acceleration as smaller vehicles."
+        },
+        {
+          "id": "q3",
+          "question": "The value of the acceleration due to gravity (g) is maximum at which location on Earth?",
+          "options": ["At the equator", "At the poles", "At sea level on the equator", "On top of Mount Everest"],
+          "correctIndex": 1,
+          "explanation": "The value of g is maximum at the poles for two reasons: (1) Earth is slightly flattened at the poles, making the poles closer to Earth's centre, so g = GM/R² is larger; (2) There is no centrifugal effect at the poles (unlike at the equator where Earth's rotation creates an outward centrifugal effect that reduces effective g). The equator is farthest from Earth's centre and has the highest centrifugal effect, giving the lowest g."
+        },
+        {
+          "id": "q4",
+          "question": "The unit of Power in the SI system is:",
+          "options": ["Joule", "Newton", "Watt", "Pascal"],
+          "correctIndex": 2,
+          "explanation": "Power is the rate of doing work (Power = Work/Time = Energy/Time). Its SI unit is the Watt (W), named after James Watt. 1 Watt = 1 Joule per second = 1 kg·m²/s³. The Joule is the unit of energy/work. The Newton is the unit of force. The Pascal is the unit of pressure. Other common units of power include kilowatt (kW), megawatt (MW), and horsepower (1 hp = 746 W)."
+        },
+        {
+          "id": "q5",
+          "question": "A rocket moves forward by expelling gas backward. This is an application of:",
+          "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Conservation of Energy"],
+          "correctIndex": 2,
+          "explanation": "Rocket propulsion is a classic application of Newton's Third Law. The rocket exerts a force on the exhaust gases, pushing them backward (action). The gases exert an equal and opposite force on the rocket, pushing it forward (reaction). The rocket works even in the vacuum of space because it does not need an external medium — it carries its own fuel and oxidizer. This is why chemical rockets can work in space."
+        }
+      ]
+    },
+    {
+      "id": "electricity_magnetism",
+      "title": "Electricity & Magnetism",
+      "notes": "Electric current is the flow of electric charge (electrons) through a conductor. The SI unit of current is the Ampere (A). Ohm's Law states that the current flowing through a conductor is directly proportional to the potential difference (voltage) across it, provided temperature and other physical conditions remain constant: V = IR, where V is voltage (Volts), I is current (Amperes), and R is resistance (Ohms). Resistance depends on the material (resistivity), length (longer wire = more resistance), and cross-sectional area (thicker wire = less resistance) of the conductor.\n\nIn series circuits, the same current flows through all components; total resistance R = R₁ + R₂ + R₃; total voltage is divided among components. In parallel circuits, voltage is the same across all components; total resistance is given by 1/R = 1/R₁ + 1/R₂ + 1/R₃; current is divided. Household circuits are connected in parallel so each appliance receives full voltage and can be switched independently. Electric Power P = VI = I²R = V²/R. The kilowatt-hour (kWh or 'unit') is the practical unit of electrical energy (1 kWh = 3.6 × 10⁶ Joules).\n\nMagnetism: Magnets have two poles — north and south — that cannot be separated (no magnetic monopole). Like poles repel and unlike poles attract. The Earth itself acts as a giant magnet with a magnetic south pole near the geographic north pole (which is why the north pole of a compass needle points north — it is attracted to Earth's magnetic south). The relationship between electricity and magnetism was established by Oersted (current in a wire creates a magnetic field), Faraday (changing magnetic field induces current — electromagnetic induction), and Maxwell (unified theory of electromagnetism).\n\nElectromagnetic Induction (Faraday's Law): An electromotive force (EMF) is induced in a conductor when the magnetic flux through it changes. This is the principle behind generators (mechanical energy to electrical energy) and transformers (changing voltage levels using alternating current). A step-up transformer increases voltage and decreases current; a step-down transformer decreases voltage and increases current. Power is transmitted at high voltage and low current to minimize I²R losses. Semiconductors like silicon and germanium have conductivity between conductors and insulators and are the basis of transistors, diodes, and integrated circuits (microchips).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "In a parallel circuit with three resistors, if one resistor fails (open circuit), what happens to the other two resistors?",
+          "options": ["All three stop working", "The other two continue to work normally", "The other two receive double the voltage", "The circuit becomes a series circuit"],
+          "correctIndex": 1,
+          "explanation": "In a parallel circuit, each component is connected directly across the supply voltage. If one branch opens (resistor fails), the other two branches continue to operate independently at the same voltage. This is why household wiring uses parallel circuits — if one appliance fails, others continue working. In a series circuit, if one component fails (open), the entire circuit breaks and all components stop working."
+        },
+        {
+          "id": "q2",
+          "question": "The unit 'kilowatt-hour' (kWh) is a unit of:",
+          "options": ["Electric Power", "Electric Current", "Electric Energy", "Electric Resistance"],
+          "correctIndex": 2,
+          "explanation": "Kilowatt-hour (kWh) is a unit of electrical energy (not power). It is the energy consumed by an appliance of 1 kilowatt power rating operating for 1 hour. 1 kWh = 3.6 × 10⁶ Joules = 3.6 MJ. Electricity bills charge for the number of kWh consumed (called 'units'). Power is measured in Watts or kilowatts, current in Amperes, and resistance in Ohms."
+        },
+        {
+          "id": "q3",
+          "question": "Oersted's experiment demonstrated that:",
+          "options": ["A changing magnetic field induces an electric current", "An electric current in a wire creates a magnetic field around it", "Like poles of a magnet repel each other", "Electric charge flows from high potential to low potential"],
+          "correctIndex": 1,
+          "explanation": "Hans Christian Oersted's discovery (1820) that a current-carrying conductor deflects a compass needle placed near it demonstrated that an electric current produces a magnetic field around the wire. This was the first evidence of a link between electricity and magnetism, launching the field of electromagnetism. Faraday's law (electromagnetic induction) showed the reverse — a changing magnetic field induces an electric current."
+        },
+        {
+          "id": "q4",
+          "question": "Why is electrical power transmitted over long distances at high voltage?",
+          "options": ["To increase the speed of electricity", "To reduce the current and minimize power losses (I²R)", "Because transformers only work at high voltage", "To prevent theft of electricity"],
+          "correctIndex": 1,
+          "explanation": "Power loss in transmission lines = I²R, where I is current and R is resistance of the line. For the same power (P = VI), if voltage is increased 10 times, current decreases 10 times (I = P/V). Power loss I²R decreases by 100 times. Therefore, high-voltage transmission drastically reduces energy losses as heat in the transmission wires. Step-up transformers increase voltage at the generation end; step-down transformers reduce it for consumers."
+        },
+        {
+          "id": "q5",
+          "question": "A fuse wire melts and breaks the circuit when current exceeds the safe limit. The property of the fuse that enables this is its:",
+          "options": ["High resistance and high melting point", "Low resistance and high melting point", "High resistance and low melting point", "Low resistance and low melting point"],
+          "correctIndex": 3,
+          "explanation": "A fuse wire must have LOW resistance (to not impede normal current flow) and LOW melting point (so it melts quickly when excessive current flows). Fuses are typically made of lead-tin alloys (or copper for higher ratings). When current exceeds the rated value, I²R heating raises the temperature above the fuse's melting point, melting it and breaking the circuit, protecting appliances and wiring from damage due to overcurrent."
+        }
+      ]
+    },
+    {
+      "id": "chemical_reactions_bonding",
+      "title": "Chemical Reactions & Bonding",
+      "notes": "A chemical reaction involves the breaking of bonds in reactants and formation of new bonds in products. The Law of Conservation of Mass (Lavoisier's Law) states that mass can neither be created nor destroyed in a chemical reaction — the total mass of reactants equals the total mass of products. Chemical reactions are classified as: Combination (A + B → AB), Decomposition (AB → A + B — opposite of combination, requires energy), Displacement (A + BC → AC + B — more reactive element displaces less reactive), Double Displacement/Metathesis (AB + CD → AD + CB), Redox (simultaneous oxidation and reduction), Exothermic (releases heat — combustion, respiration), and Endothermic (absorbs heat — photosynthesis, dissolution of ammonium nitrate).\n\nAcids, Bases, and Salts: Acids produce H⁺ ions in solution, taste sour, turn blue litmus red, and have pH < 7. Bases produce OH⁻ ions, taste bitter, feel soapy, turn red litmus blue, and have pH > 7. pH 7 is neutral. The pH scale runs from 0 to 14. Strong acids (HCl, H₂SO₄, HNO₃) fully ionize; weak acids (CH₃COOH) partially ionize. Neutralisation reaction: Acid + Base → Salt + Water. Common acids in daily life: citric acid (citrus fruits), lactic acid (curd), acetic acid (vinegar), oxalic acid (tomatoes, spinach). Bleaching powder is Ca(OCl)Cl (calcium oxychloride) — used as disinfectant and bleaching agent.\n\nChemical Bonding: Ionic Bond (formed by complete transfer of electrons between atoms — typically between metals and non-metals — e.g., NaCl, MgO). Covalent Bond (formed by sharing of electron pairs between atoms — typically between non-metals — e.g., H₂O, CO₂, CH₄). Metallic Bond (sharing of electrons in a 'sea of electrons' among metal atoms — explains electrical conductivity, malleability, and ductility of metals). Hydrogen Bond (weak electrostatic attraction between a hydrogen atom bonded to an electronegative atom and another electronegative atom) — responsible for water's high boiling point, surface tension, and the structure of DNA.\n\nImportant chemical compounds and their uses: NaCl (common salt — preservative, food), Na₂CO₃ (washing soda — cleaning agent, glass making), NaHCO₃ (baking soda — baking, fire extinguishers, antacid), Ca(OH)₂ (slaked lime — whitewash, treating acidic soil), CaCO₃ (limestone/marble — building material, chalk), CaO (quicklime — cement making), H₂SO₄ (sulphuric acid — 'king of chemicals' — fertilizers, batteries, detergents), Plaster of Paris (CaSO₄·½H₂O — obtained from gypsum by heating, used in dental work and making casts).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Baking soda (Sodium bicarbonate) has the chemical formula:",
+          "options": ["Na₂CO₃", "NaHCO₃", "NaOH", "Na₂SO₄"],
+          "correctIndex": 1,
+          "explanation": "Baking soda is sodium bicarbonate (NaHCO₃). When heated or mixed with an acid, it releases CO₂ gas which causes dough to rise. Na₂CO₃ is washing soda (sodium carbonate), NaOH is caustic soda (sodium hydroxide), and Na₂SO₄ is sodium sulphate. Baking soda is also used as an antacid to neutralize excess stomach acid, in fire extinguishers, and as a mild cleaning agent."
+        },
+        {
+          "id": "q2",
+          "question": "In a redox reaction, the species that gains electrons is said to be:",
+          "options": ["Oxidised and acts as a reducing agent", "Reduced and acts as an oxidising agent", "Oxidised and acts as an oxidising agent", "Reduced and acts as a reducing agent"],
+          "correctIndex": 1,
+          "explanation": "In a redox (reduction-oxidation) reaction: Oxidation = loss of electrons (or gain of oxygen, loss of hydrogen). Reduction = gain of electrons (or loss of oxygen, gain of hydrogen). The species that gains electrons is REDUCED, and it acts as an OXIDISING agent (it accepts electrons from others, causing them to be oxidised). The species that loses electrons is oxidised and acts as a REDUCING agent. Mnemonic: OIL RIG — Oxidation Is Loss, Reduction Is Gain (of electrons)."
+        },
+        {
+          "id": "q3",
+          "question": "Which of the following acids is found in vinegar?",
+          "options": ["Citric acid", "Lactic acid", "Acetic acid", "Tartaric acid"],
+          "correctIndex": 2,
+          "explanation": "Acetic acid (CH₃COOH, or ethanoic acid) is found in vinegar at a concentration of about 5–8%. It is a weak acid produced by the fermentation of ethanol by acetic acid bacteria (Acetobacter). Citric acid is found in citrus fruits (lemons, oranges), lactic acid in curd and sour milk, and tartaric acid in grapes and tamarind. Acetic acid is also used as a food preservative and in the manufacture of various chemicals."
+        },
+        {
+          "id": "q4",
+          "question": "Ionic bonds are typically formed between:",
+          "options": ["Two non-metal atoms", "Two metal atoms", "A metal and a non-metal", "Two noble gases"],
+          "correctIndex": 2,
+          "explanation": "Ionic bonds are formed by the complete transfer of one or more electrons from a metal atom to a non-metal atom. Metals have low ionization energy (easily lose electrons to form positive ions/cations), while non-metals have high electron affinity (easily gain electrons to form negative ions/anions). The electrostatic attraction between oppositely charged ions forms the ionic bond. Examples: NaCl (Na⁺ and Cl⁻), MgO (Mg²⁺ and O²⁻), CaCl₂ (Ca²⁺ and 2Cl⁻)."
+        },
+        {
+          "id": "q5",
+          "question": "Plaster of Paris is obtained from which mineral by partial dehydration?",
+          "options": ["Limestone (CaCO₃)", "Gypsum (CaSO₄·2H₂O)", "Dolomite", "Marble"],
+          "correctIndex": 1,
+          "explanation": "Plaster of Paris (POP) — calcium sulphate hemihydrate (CaSO₄·½H₂O) — is obtained by heating gypsum (CaSO₄·2H₂O) to about 120°C: 2CaSO₄·2H₂O → 2CaSO₄·H₂O + 3H₂O. When water is added, POP solidifies by absorbing water (reversal). It is used in making surgical casts for broken bones, dental molds, fire protection, and sculpture. Limestone (CaCO₃) is used to make quicklime (CaO) and cement."
+        }
+      ]
+    },
+    {
+      "id": "human_body_systems",
+      "title": "Human Body Systems",
+      "notes": "The human body consists of several organ systems working together. The Digestive System breaks down food into absorbable nutrients. Digestion begins in the mouth with salivary amylase (breaks down starch). In the stomach, pepsin (activated by HCl) digests proteins. The small intestine (site of maximal absorption) receives bile from the liver (emulsifies fats) and pancreatic juices (trypsin for proteins, lipase for fats, amylase for starch). The large intestine absorbs water and forms faeces. The liver (largest gland) also detoxifies blood, produces bile, stores glycogen, and synthesizes plasma proteins.\n\nThe Circulatory System: The heart (a four-chambered muscular pump — 2 atria and 2 ventricles) pumps blood through two circuits. Pulmonary circulation: right ventricle → pulmonary artery → lungs (oxygenation) → pulmonary vein → left atrium. Systemic circulation: left ventricle → aorta → body tissues (oxygen delivery, CO₂ collection) → venae cavae → right atrium. Arteries carry blood away from the heart (usually oxygenated, except pulmonary artery); veins carry blood toward the heart (usually deoxygenated, except pulmonary veins). Capillaries are the sites of exchange of O₂, CO₂, nutrients, and wastes. Normal human heart rate: 70–72 beats/min; blood pressure: 120/80 mmHg.\n\nThe Respiratory System: Breathing involves the movement of air in (inhalation) and out (exhalation) of the lungs. The diaphragm (main respiratory muscle) contracts and flattens during inhalation, increasing lung volume and reducing pressure, causing air to flow in. Gas exchange occurs in the alveoli (tiny air sacs) — O₂ diffuses from alveoli into blood; CO₂ diffuses from blood into alveoli. Haemoglobin (in red blood cells) carries O₂. CO₂ is carried mainly as bicarbonate ions (HCO₃⁻) in the plasma. Lung capacity: Total Lung Capacity ~6 litres; Tidal Volume (normal breathing) ~0.5 litres.\n\nThe Nervous System has two main divisions: Central Nervous System (CNS — brain and spinal cord) and Peripheral Nervous System (PNS — cranial and spinal nerves). The brain has three main regions: Cerebrum (largest, responsible for thought, memory, sensory processing, voluntary movement), Cerebellum (coordinates muscle movements, balance), and Medulla Oblongata (controls involuntary functions — breathing, heartbeat, blood pressure). The Endocrine System regulates the body through hormones. Key glands: Pituitary (master gland), Thyroid (thyroxine — metabolism), Pancreas (insulin — lowers blood glucose; glucagon — raises blood glucose), Adrenal (adrenaline — 'fight or flight' response), and Gonads (sex hormones).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which enzyme in saliva begins the digestion of starch in the mouth?",
+          "options": ["Pepsin", "Trypsin", "Salivary Amylase", "Lipase"],
+          "correctIndex": 2,
+          "explanation": "Salivary amylase (ptyalin) is the enzyme present in saliva that catalyses the hydrolysis of starch (a polysaccharide) into maltose (a disaccharide). Digestion of carbohydrates thus begins in the mouth. Pepsin (secreted in the stomach) digests proteins; trypsin (from pancreas) also digests proteins in the small intestine; lipase (from pancreas) digests fats in the small intestine. The alkaline pH of saliva (6.8–7.4) is optimal for amylase."
+        },
+        {
+          "id": "q2",
+          "question": "The pulmonary artery carries blood from the heart to the lungs. What is unique about this artery?",
+          "options": ["It carries oxygenated blood, unlike other arteries", "It carries deoxygenated blood, unlike other arteries which carry oxygenated blood", "It has thicker walls than all other arteries", "It is the largest artery in the body"],
+          "correctIndex": 1,
+          "explanation": "The pulmonary artery is unique because it carries deoxygenated blood from the right ventricle to the lungs for oxygenation. By convention, arteries carry blood AWAY from the heart — but the generalization that 'arteries carry oxygenated blood' applies to systemic arteries, not the pulmonary artery. Similarly, the pulmonary veins carry oxygenated blood from the lungs back to the left atrium, making them unique among veins. The aorta is the largest artery."
+        },
+        {
+          "id": "q3",
+          "question": "Which part of the brain controls involuntary actions like heartbeat and breathing?",
+          "options": ["Cerebrum", "Cerebellum", "Medulla Oblongata", "Thalamus"],
+          "correctIndex": 2,
+          "explanation": "The Medulla Oblongata (or medulla) is the lowest part of the brainstem, located at the junction of the brain and spinal cord. It controls vital involuntary functions including heartbeat (cardiac center), breathing rate (respiratory center), blood pressure, swallowing, coughing, vomiting, and sneezing. Damage to the medulla can be fatal. The Cerebrum controls voluntary actions and cognition; the Cerebellum coordinates balance and movement."
+        },
+        {
+          "id": "q4",
+          "question": "Insulin is a hormone secreted by which organ to regulate blood glucose levels?",
+          "options": ["Liver", "Kidney", "Pancreas", "Thyroid gland"],
+          "correctIndex": 2,
+          "explanation": "Insulin is secreted by the beta cells of the islets of Langerhans in the pancreas. It lowers blood glucose levels by promoting the uptake of glucose by cells and stimulating the conversion of glucose to glycogen (glycogenesis) in the liver and muscles. Glucagon (secreted by alpha cells of the pancreas) has the opposite effect — it raises blood glucose by promoting glycogen breakdown. Deficiency or resistance to insulin causes diabetes mellitus."
+        },
+        {
+          "id": "q5",
+          "question": "Oxygen is transported in the blood primarily by:",
+          "options": ["White blood cells (Leucocytes)", "Blood plasma", "Haemoglobin in Red Blood Cells", "Platelets (Thrombocytes)"],
+          "correctIndex": 2,
+          "explanation": "Approximately 97% of oxygen in the blood is transported bound to haemoglobin (a protein in red blood cells/erythrocytes), forming oxyhaemoglobin. The remaining ~3% is dissolved in plasma. Haemoglobin contains iron (Fe²⁺ in haem groups) that binds reversibly to O₂. Carbon monoxide (CO) binds to haemoglobin 200 times more strongly than O₂, displacing oxygen and causing CO poisoning. Anaemia (low haemoglobin) reduces oxygen-carrying capacity."
+        }
+      ]
+    },
+    {
+      "id": "cell_biology_genetics",
+      "title": "Cell Biology & Genetics",
+      "notes": "The Cell Theory (proposed by Schleiden, Schwann, and Virchow) states: (1) all living organisms are made of cells; (2) the cell is the basic structural and functional unit of life; (3) all cells arise from pre-existing cells. Prokaryotic cells (bacteria, archaea) lack a membrane-bound nucleus and membrane-bound organelles — the DNA is present as a nucleoid in the cytoplasm. Eukaryotic cells (plants, animals, fungi, protists) have a true membrane-bound nucleus and organelles. Animal cells lack cell walls and chloroplasts; plant cells have cell walls (cellulose), chloroplasts, and a large central vacuole.\n\nKey organelles and their functions: Nucleus (contains DNA, the hereditary material; controls cell activity — the 'control centre'); Mitochondria (site of cellular respiration and ATP synthesis — the 'powerhouse of the cell'); Chloroplasts (site of photosynthesis in plant cells — contain chlorophyll); Ribosomes (site of protein synthesis — found on rough ER or free in cytoplasm); Endoplasmic Reticulum — Rough ER (protein synthesis and transport), Smooth ER (lipid synthesis); Golgi Apparatus (protein modification, packaging, and secretion — the 'post office'); Lysosomes (contain digestive enzymes — the 'garbage disposal' or 'suicide bags'); and Cell Membrane (selectively permeable lipid bilayer controlling entry and exit of substances).\n\nGenetics: DNA (Deoxyribonucleic Acid) is the genetic material, structured as a double helix (Watson and Crick, 1953). It is made of nucleotides, each containing a sugar (deoxyribose), a phosphate group, and a nitrogenous base (Adenine, Thymine, Guanine, Cytosine). Base pairing: A pairs with T; G pairs with C. A gene is a segment of DNA that codes for a specific protein. The Central Dogma of molecular biology: DNA → (Transcription) → mRNA → (Translation) → Protein. RNA (Ribonucleic Acid) uses Uracil instead of Thymine.\n\nMendel's Laws of Inheritance: Mendel discovered the principles of heredity through experiments on pea plants. Law of Segregation: each organism carries two alleles for each trait, which segregate (separate) during gamete formation, so each gamete carries only one allele. Law of Independent Assortment: alleles of different genes assort independently during gamete formation (applies to genes on different chromosomes). Human beings have 46 chromosomes (23 pairs) in diploid cells — 44 autosomes + 2 sex chromosomes (XX in females, XY in males). Sex of offspring is determined by the sex chromosome from the father (sperm): X-bearing sperm → girl; Y-bearing sperm → boy.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The organelle known as the 'powerhouse of the cell' because it produces ATP is the:",
+          "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Apparatus"],
+          "correctIndex": 2,
+          "explanation": "Mitochondria are called the powerhouse of the cell because they are the site of cellular respiration, the process by which glucose and oxygen are converted into ATP (adenosine triphosphate) — the cell's energy currency. Mitochondria have their own DNA and ribosomes (supporting the endosymbiotic theory of their origin). Cells with high energy demands (like cardiac muscle cells) have more mitochondria."
+        },
+        {
+          "id": "q2",
+          "question": "In DNA, which base pairs with Adenine (A)?",
+          "options": ["Cytosine (C)", "Guanine (G)", "Thymine (T)", "Uracil (U)"],
+          "correctIndex": 2,
+          "explanation": "In DNA, Adenine (A) pairs with Thymine (T) via two hydrogen bonds (A=T), and Guanine (G) pairs with Cytosine (C) via three hydrogen bonds (G≡C). This complementary base pairing (Chargaff's Rules) is fundamental to DNA replication, transcription, and repair. In RNA, Uracil (U) replaces Thymine, so during transcription, DNA's Adenine pairs with RNA's Uracil. The G-C pair is stronger due to three hydrogen bonds."
+        },
+        {
+          "id": "q3",
+          "question": "The Central Dogma of molecular biology describes the flow of genetic information as:",
+          "options": ["Protein → RNA → DNA", "DNA → Protein → RNA", "RNA → DNA → Protein", "DNA → RNA → Protein"],
+          "correctIndex": 3,
+          "explanation": "The Central Dogma of molecular biology (Francis Crick, 1958) describes the flow of genetic information: DNA is transcribed into mRNA (messenger RNA) in the nucleus; mRNA then moves to the ribosomes where it is translated into a protein. In some viruses (retroviruses like HIV), the reverse process occurs — RNA is reverse-transcribed into DNA using the enzyme reverse transcriptase. The Central Dogma states that once information passes from protein back to nucleic acids, it cannot."
+        },
+        {
+          "id": "q4",
+          "question": "What is the total number of chromosomes in normal human somatic (body) cells?",
+          "options": ["23", "44", "46", "48"],
+          "correctIndex": 2,
+          "explanation": "Normal human somatic (non-reproductive) cells are diploid and contain 46 chromosomes (23 pairs): 22 pairs of autosomes and 1 pair of sex chromosomes (XX in females, XY in males). Gametes (sperm and egg cells) are haploid, containing only 23 chromosomes (one from each pair). Down syndrome is caused by trisomy 21 (47 chromosomes), Turner syndrome by 45,X (45 chromosomes), and Klinefelter syndrome by 47,XXY."
+        },
+        {
+          "id": "q5",
+          "question": "Mendel's Law of Segregation states that:",
+          "options": ["Two alleles for different traits are inherited together", "Each organism carries two alleles per trait, and they separate during gamete formation", "Environmental factors determine the expression of genes", "Acquired traits are passed on to offspring"],
+          "correctIndex": 1,
+          "explanation": "Mendel's Law of Segregation (First Law) states that each organism possesses two alleles for each heritable trait, and these alleles segregate (separate) from each other during the formation of gametes (reproductive cells). As a result, each gamete carries only one allele for each trait. This was a fundamental insight because genes exist in pairs in diploid organisms but are present singly in gametes, explaining how traits are passed from parents to offspring."
+        }
+      ]
+    }
+  ]
+}

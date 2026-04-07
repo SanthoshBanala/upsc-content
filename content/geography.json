@@ -1,0 +1,215 @@
+{
+  "subjectId": "geography",
+  "topics": [
+    {
+      "id": "physical_features_of_india",
+      "title": "Physical Features of India",
+      "notes": "India's physical landscape is broadly divided into five major physiographic divisions: the Himalayan Mountains, the Northern Plains, the Peninsular Plateau, the Coastal Plains, and the Islands. The Himalayas form a great arc of young fold mountains stretching 2,500 km from the Indus Gorge in the northwest to the Brahmaputra Gorge in the northeast. They are divided longitudinally into three parallel ranges: the Great Himalayas (Himadri), the Lesser Himalayas (Himachal), and the Outer Himalayas (Shiwaliks). The highest peak in India is Kangchenjunga (8,586 m) in Sikkim.\n\nThe Northern Plains, also called the Indo-Gangetic Plain, are formed by the alluvial deposits of the Indus, Ganga, and Brahmaputra river systems. Covering approximately 7 lakh sq km, these plains are among the most fertile and densely populated regions in the world. The plains are further divided into the Bhabar (coarse gravels along the Himalayan foothills), Terai (swampy belt), Bhangar (older alluvium forming terraces), and Khadar (newer alluvium on floodplains).\n\nThe Peninsular Plateau is an ancient landmass and part of the Gondwana supercontinent. It consists of the Central Highlands (north of the Narmada River, including the Malwa Plateau, Vindhyas, and Satpuras) and the Deccan Plateau (south of the Narmada). The Western Ghats (Sahyadri) run parallel to the west coast, while the Eastern Ghats run parallel to the east coast. The Western Ghats are higher (average 1,000–1,600 m) and act as a barrier to the southwest monsoon.\n\nIndia's coastline stretches for about 7,516 km — the west coast (Konkan, Karnataka, and Malabar) is straight with few natural harbors, while the east coast (Coromandel) is broader and has river deltas and lagoons. India has two groups of islands: the Lakshadweep Islands (coral islands in the Arabian Sea) and the Andaman and Nicobar Islands (a chain of 572 islands in the Bay of Bengal, of volcanic origin). The Great Nicobar Island is closest to Indonesia (Sumatra), about 150 km away.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The highest peak entirely within Indian territory is:",
+          "options": ["Mount Everest", "Kangchenjunga", "Nanda Devi", "Karakoram (K2)"],
+          "correctIndex": 2,
+          "explanation": "Nanda Devi (7,816 m) in Uttarakhand is the highest peak entirely within Indian territory. Kangchenjunga (8,586 m) is located on the India-Nepal border. Mount Everest (8,849 m) is in Nepal, and K2 (8,611 m) is in Pakistan-administered Kashmir. Nanda Devi is part of the Nanda Devi National Park and Biosphere Reserve, a UNESCO World Heritage Site."
+        },
+        {
+          "id": "q2",
+          "question": "The Bhangar is a term used for which type of soil/land in the Northern Plains?",
+          "options": ["New alluvium deposited by floods", "Older alluvium forming elevated terraces", "Coarse gravels along Himalayan foothills", "Swampy land with tall grasses"],
+          "correctIndex": 1,
+          "explanation": "Bhangar refers to the older alluvium that forms elevated terraces above the floodplain level in the Northern Plains. It contains calcareous concretions called Kankars and is generally less fertile than Khadar. Khadar is the new alluvium deposited annually by floods, Bhabar is coarse gravel at the Himalayan foothills, and Terai is the swampy belt south of Bhabar."
+        },
+        {
+          "id": "q3",
+          "question": "Which of the following is NOT correctly matched (Mountain Pass — State)?",
+          "options": ["Rohtang Pass — Himachal Pradesh", "Nathu La — Sikkim", "Zoji La — Jammu & Kashmir", "Shipki La — Uttarakhand"],
+          "correctIndex": 3,
+          "explanation": "Shipki La is located in Himachal Pradesh (on the Hindustan-Tibet Road), not Uttarakhand. Rohtang Pass (3,978 m) is in Himachal Pradesh connecting Kullu to Lahaul-Spiti. Nathu La is in Sikkim on the India-China border. Zoji La is in Jammu & Kashmir connecting Srinagar to Leh. Uttarakhand's major passes include Mana Pass and Lipu Lekh."
+        },
+        {
+          "id": "q4",
+          "question": "The Western Ghats act as a major orographic barrier. What does 'orographic' mean in the context of rainfall?",
+          "options": ["Rainfall caused by convection over hot surfaces", "Rainfall caused when moist air is forced upwards by mountains", "Rainfall caused by the mixing of warm and cold air masses", "Rainfall caused by cyclonic depressions"],
+          "correctIndex": 1,
+          "explanation": "Orographic (or relief) rainfall occurs when moisture-laden winds are forced to rise over a mountain barrier. As the air rises, it cools adiabatically, causing condensation and precipitation on the windward side. The Western Ghats force the southwest monsoon winds to rise, causing heavy rainfall on the western slopes (windward side) and creating a rain shadow zone on the eastern (leeward) side — the Deccan Plateau."
+        },
+        {
+          "id": "q5",
+          "question": "The Lakshadweep Islands are formed by:",
+          "options": ["Volcanic activity", "Coral reefs and atolls", "Submergence of a coastal plain", "Tectonic uplift"],
+          "correctIndex": 1,
+          "explanation": "The Lakshadweep Islands (meaning '100,000 islands' in Malayalam/Sanskrit) are coral islands — atolls and reefs — located in the Arabian Sea. They are built up from coral polyp skeletons on submerged platforms. There are 36 islands in the group, of which only 11 are inhabited. Kavaratti is the capital. In contrast, the Andaman and Nicobar Islands are of volcanic and structural origin."
+        }
+      ]
+    },
+    {
+      "id": "climate_of_india",
+      "title": "Climate of India",
+      "notes": "India has a monsoon type of climate influenced by the Himalayas (which block cold Siberian winds from entering India) and the Indian Ocean (which provides moisture). The climate is classified as 'tropical monsoon' for most of the country, with distinct seasons: Winter (December–February), Summer/Pre-monsoon (March–May), Advancing monsoon/Southwest monsoon (June–September), and Retreating monsoon/Northeast monsoon (October–November). The Tropic of Cancer divides India into roughly equal halves — tropical in the south and subtropical in the north.\n\nThe Southwest Monsoon (June–September) accounts for about 75% of India's annual rainfall. It enters India in two branches: the Arabian Sea branch (hits the Western Ghats first, then moves northeast) and the Bay of Bengal branch (enters through northeast India and the Ganga plains). The monsoon 'bursts' over Kerala around June 1 each year. Cherrapunji (Sohra) in Meghalaya receives the highest annual rainfall (about 11,000 mm), making it one of the wettest places on Earth, due to orographic rainfall from the Bay of Bengal branch.\n\nThe Northeast Monsoon (or retreating monsoon) blows from the land toward the sea after October. While most of India receives little rain during this period, the Tamil Nadu coast and Andhra Pradesh receive significant rainfall as these winds pick up moisture while crossing the Bay of Bengal. Chennai receives most of its annual rainfall during this period (October–December). The Western Rajasthan desert receives less than 150 mm of annual rainfall due to the rain shadow of the Aravallis and distance from moisture sources.\n\nIndia experiences several local winds: Loo (hot and dry wind in Punjab, Haryana, UP during summer), Mango showers (pre-monsoon rains in Karnataka/Kerala beneficial for mango crops), Kaal Baisakhi/Nor'westers (violent thunderstorms in West Bengal during April–May), and Blossom showers (in Kerala beneficial for coffee plants). El Niño — the warming of Central Pacific Ocean waters — is associated with weakening or failure of the Indian monsoon, while La Niña is often associated with above-normal monsoon rainfall.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which station in India receives the highest average annual rainfall?",
+          "options": ["Mawsynram", "Cherrapunji", "Agumbe", "Mahabaleshwar"],
+          "correctIndex": 0,
+          "explanation": "Mawsynram in the East Khasi Hills of Meghalaya holds the record for the highest average annual rainfall in the world, receiving approximately 11,871 mm per year — slightly more than the nearby Cherrapunji (Sohra), which used to hold the record. Both receive extreme rainfall due to orographic lifting of Bay of Bengal monsoon winds by the funnel-shaped hills."
+        },
+        {
+          "id": "q2",
+          "question": "The 'Loo' is a local wind associated with which season and region?",
+          "options": ["A cold dry wind in winter over Rajasthan", "A hot dry wind in summer over the Indo-Gangetic Plains", "A moist wind in monsoon over Kerala", "A cold wind over the Western Ghats in winter"],
+          "correctIndex": 1,
+          "explanation": "The Loo is a strong, hot, and dry westerly wind that blows during summer (May–June) over the Indo-Gangetic Plains of India and Pakistan. Surface temperatures can reach 40–48°C during Loo conditions, causing heat stroke (Loo lagana). It is especially severe in Rajasthan, Haryana, Punjab, and Uttar Pradesh."
+        },
+        {
+          "id": "q3",
+          "question": "Which of the following is the correct sequence of the Southwest Monsoon's entry into India?",
+          "options": ["Andaman Islands → Kerala → Mumbai → Delhi", "Kerala → Mumbai → Andaman Islands → Delhi", "Mumbai → Kerala → Andaman Islands → Delhi", "Andaman Islands → Mumbai → Kerala → Delhi"],
+          "correctIndex": 0,
+          "explanation": "The Southwest Monsoon typically arrives first over the Andaman and Nicobar Islands (around May 20), then reaches Kerala (around June 1), followed by Mumbai (around June 10), and finally Delhi (around June 29–July 1). This is the typical sequence of monsoon advancement from south to north across the Indian subcontinent."
+        },
+        {
+          "id": "q4",
+          "question": "El Niño affects the Indian monsoon primarily by:",
+          "options": ["Strengthening it due to increased moisture from the Pacific", "Weakening it due to disruption of sea surface temperature gradients", "Shifting its trajectory toward the Western Ghats", "Extending the monsoon season into December"],
+          "correctIndex": 1,
+          "explanation": "El Niño refers to the anomalous warming of central and eastern equatorial Pacific Ocean waters. It disrupts the Walker Circulation (east-west atmospheric circulation over the tropics) and weakens the pressure gradient between the Indian Ocean and the Indian subcontinent that drives the monsoon. Historically, major El Niño years (1877, 1918, 1972, 1987, 2002, 2015) have been associated with droughts in India."
+        },
+        {
+          "id": "q5",
+          "question": "The 'Kaal Baisakhi' or Nor'westers are violent thunderstorms that occur in which region of India?",
+          "options": ["Rajasthan and Gujarat", "West Bengal and Assam", "Kerala and Tamil Nadu", "Uttarakhand and Himachal Pradesh"],
+          "correctIndex": 1,
+          "explanation": "Kaal Baisakhi (meaning 'calamity of Baisakh') are violent pre-monsoon thunderstorms that occur in West Bengal, Assam, and the northeastern states during April and May. They blow from the northwest to the southeast and are caused by the clash of hot dry northwesterlies with moist Bay of Bengal air. Despite their destructive nature, they provide relief from summer heat and are beneficial for jute and rice cultivation."
+        }
+      ]
+    },
+    {
+      "id": "rivers_of_india",
+      "title": "Rivers of India",
+      "notes": "India's rivers are classified into two major groups based on their origin: Himalayan rivers (perennial, fed by snow and glaciers in addition to monsoon rainfall) and Peninsular rivers (largely seasonal/rain-fed, with shorter and shallower courses). The Himalayan river system includes three main river basins: the Indus system, the Ganga system, and the Brahmaputra system. The Ganga is the most sacred river in India, originating from Gangotri Glacier in Uttarakhand and flowing 2,525 km to the Bay of Bengal, forming the world's largest delta — the Sundarbans — with the Brahmaputra.\n\nThe Ganga's major tributaries from the Himalayas include the Yamuna, Ghaghara, Gandak, and Kosi (from the north), and the Son, Chambal, Betwa, and Ken (from the south/Peninsular side). The Yamuna, originating from Yamunotri glacier, is the longest tributary of the Ganga. The Brahmaputra originates in Tibet as the Tsangpo, enters India through the Dihang Gorge in Arunachal Pradesh, flows westward through Assam, and joins the Ganga-Padma system in Bangladesh. It is known for its wide braided channels and annual floods.\n\nThe Peninsular rivers flow in two directions based on their source: rivers west of the Western Ghats (like Periyar, Bharathapuzha) are short and flow west into the Arabian Sea; the major Peninsular rivers (Mahanadi, Godavari, Krishna, Cauvery, Narmada, Tapi) originate from the Deccan Plateau. The Narmada and Tapi are unique as they flow westward in rift valleys (graben structures) into the Arabian Sea, while the Godavari (the 'Dakshina Ganga' or Ganges of the south, 1,465 km) is the longest peninsular river.\n\nThe Cauvery River, originating from Talakaveri in the Brahmagiri Hills of Karnataka, is the source of the long-standing Cauvery water dispute between Karnataka and Tamil Nadu. The Indus River originates from the Mansarovar Lake in Tibet (near Kailash Parbat), flows through Ladakh (where it is joined by the Zanskar and Shyok rivers) and then Pakistan. Under the Indus Waters Treaty (1960) between India and Pakistan, brokered by the World Bank, the three western rivers (Indus, Jhelum, Chenab) were allocated to Pakistan and the three eastern rivers (Ravi, Beas, Sutlej) to India.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Sundarbans delta, the world's largest mangrove forest, is formed by which two rivers?",
+          "options": ["Ganga and Yamuna", "Ganga and Brahmaputra", "Brahmaputra and Meghna", "Mahanadi and Godavari"],
+          "correctIndex": 1,
+          "explanation": "The Sundarbans delta is formed by the confluence of the Ganga (Padma in Bangladesh) and the Brahmaputra (Jamuna in Bangladesh), along with the Meghna river. It spans the delta of these rivers across Bangladesh and West Bengal. The delta is known for the Royal Bengal Tiger and mangrove forests, and is a UNESCO World Heritage Site. It is the world's largest delta (~80,000 sq km)."
+        },
+        {
+          "id": "q2",
+          "question": "Under the Indus Waters Treaty (1960), which rivers were allocated to India?",
+          "options": ["Indus, Jhelum, Chenab", "Ravi, Beas, Sutlej", "Indus, Ravi, Beas", "Jhelum, Chenab, Sutlej"],
+          "correctIndex": 1,
+          "explanation": "The Indus Waters Treaty (1960), signed between India and Pakistan and brokered by the World Bank, allocated the three eastern rivers — Ravi, Beas, and Sutlej — to India, and the three western rivers — Indus, Jhelum, and Chenab — to Pakistan. India was also granted limited use of western rivers for domestic, non-consumptive, and run-of-the-river hydroelectric uses."
+        },
+        {
+          "id": "q3",
+          "question": "Which peninsular river is known as the 'Dakshina Ganga' (Ganga of the South)?",
+          "options": ["Cauvery", "Krishna", "Mahanadi", "Godavari"],
+          "correctIndex": 3,
+          "explanation": "The Godavari River, originating from Trimbakeshwar in Nashik district of Maharashtra, is called the 'Dakshina Ganga' (Ganga of the South) due to its large size, religious significance, and the fact that it flows through important pilgrimage sites. At 1,465 km, it is the longest peninsular river in India. It forms a large delta in Andhra Pradesh before flowing into the Bay of Bengal."
+        },
+        {
+          "id": "q4",
+          "question": "The rivers Narmada and Tapi are unusual among Peninsular rivers because they:",
+          "options": ["Flow northward and join the Ganga", "Flow westward in rift valleys into the Arabian Sea", "Originate in the Eastern Ghats", "Form large deltas on the east coast"],
+          "correctIndex": 1,
+          "explanation": "Unlike most major peninsular rivers that flow eastward toward the Bay of Bengal, the Narmada and Tapi (Tapti) flow westward into the Arabian Sea. They flow through rift valleys — structural troughs formed by the sinking of land between parallel faults — rather than valleys eroded by rivers. The Vindhya and Satpura ranges form the rift bounding the Narmada valley."
+        },
+        {
+          "id": "q5",
+          "question": "Which of the following rivers does NOT originate in India?",
+          "options": ["Ganga", "Brahmaputra", "Godavari", "Beas"],
+          "correctIndex": 1,
+          "explanation": "The Brahmaputra originates on the northern slopes of the Himalayas in Tibet (China) as the Yarlung Tsangpo/Tsangpo near the Angsi Glacier. It flows eastward through Tibet, then makes a dramatic U-turn (a hairpin bend) around the Namcha Barwa peak, enters India through the Dihang Gorge in Arunachal Pradesh, and then flows westward through Assam as the Brahmaputra. The Ganga, Godavari, and Beas all originate within India."
+        }
+      ]
+    },
+    {
+      "id": "natural_vegetation_wildlife",
+      "title": "Natural Vegetation & Wildlife",
+      "notes": "India is one of the world's mega-biodiversity countries, home to about 8% of the world's biodiversity despite covering only 2.4% of the world's land area. India has 18 biodiversity hotspots as per Conservation International, with the Western Ghats and Sri Lanka, and the Indo-Burma (Eastern Himalayas) being the major ones. The country's natural vegetation is broadly classified into: Tropical Evergreen Forests, Tropical Deciduous Forests (the largest type in India), Tropical Thorn Forests, Montane Forests, and Mangrove Forests.\n\nTropical Wet Evergreen Forests are found in areas receiving more than 200 cm of rainfall — Western Ghats, Andaman and Nicobar Islands, and parts of the northeast (Assam, Meghalaya). They are multi-layered forests with trees like rosewood, mahogany, ebony, and rubber. Tropical Dry Deciduous Forests (rainfall 70–200 cm) cover the largest area in India including the Indo-Gangetic Plains and parts of peninsular India. Teak (the most commercially important tree), sal, and bamboo are characteristic species. Tropical Thorn Forests (rainfall less than 70 cm) are found in Rajasthan, Gujarat, and semi-arid parts of the Deccan.\n\nIndia is home to iconic wildlife species: Royal Bengal Tiger (Project Tiger, 1973 — India has about 3,167 tigers as per the 2022 census), Asiatic Lion (Gir National Park, Gujarat — the only wild habitat), Indian Elephant, Indian Rhinoceros (Kaziranga National Park, Assam — about 2,613 rhinos), Snow Leopard (Himalayas), and various endemic species. India has 106 National Parks, 567 Wildlife Sanctuaries, and 18 Biosphere Reserves (2024).\n\nMangrove forests are found along sheltered coastlines, tidal estuaries, and lagoons. India has the world's largest mangrove ecosystem in the Sundarbans (shared with Bangladesh). Other major mangrove areas include the Bhitarkanika in Odisha, the Andaman and Nicobar Islands, and the Gulf of Kutch in Gujarat. Mangroves act as natural buffers against cyclones and tsunamis, serve as nurseries for marine species, and help in carbon sequestration. They are under threat from coastal development, aquaculture expansion, and sea-level rise due to climate change.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Asiatic Lion is found exclusively in the wild at which national park in India?",
+          "options": ["Kanha National Park, Madhya Pradesh", "Ranthambore National Park, Rajasthan", "Gir National Park, Gujarat", "Sariska National Park, Rajasthan"],
+          "correctIndex": 2,
+          "explanation": "The Asiatic Lion (Panthera leo persica) has its last wild population in the Gir Forest National Park and Wildlife Sanctuary in Saurashtra, Gujarat. The population has recovered from about 20 lions in the early 20th century to over 674 lions as per the 2020 census. The lion is classified as Endangered on the IUCN Red List. There are ongoing debates about establishing a second population at Kuno National Park, Madhya Pradesh."
+        },
+        {
+          "id": "q2",
+          "question": "Which type of forest covers the largest area in India?",
+          "options": ["Tropical Wet Evergreen Forests", "Tropical Dry Deciduous Forests", "Tropical Thorn Forests", "Montane Forests"],
+          "correctIndex": 1,
+          "explanation": "Tropical Dry Deciduous Forests cover the largest area in India, extending over much of the Indo-Gangetic Plains, the Deccan Plateau, and parts of peninsular India where rainfall ranges from 70 to 200 cm. Trees like teak, sal, bamboo, and shisham are characteristic. They shed their leaves in the dry season to conserve moisture. They are economically the most important forests in India."
+        },
+        {
+          "id": "q3",
+          "question": "Kaziranga National Park in Assam is primarily known for the conservation of which animal?",
+          "options": ["Royal Bengal Tiger", "Snow Leopard", "Indian One-horned Rhinoceros", "Asiatic Elephant"],
+          "correctIndex": 2,
+          "explanation": "Kaziranga National Park, a UNESCO World Heritage Site in Assam, is home to the world's largest population of the Indian One-horned Rhinoceros (Rhinoceros unicornis). It holds about two-thirds of the world's great one-horned rhinoceros population (over 2,600). The park is also home to the world's highest density of tigers and is a significant habitat for elephants, wild water buffalo, and swamp deer."
+        },
+        {
+          "id": "q4",
+          "question": "Project Tiger was launched in India in which year?",
+          "options": ["1969", "1973", "1980", "1985"],
+          "correctIndex": 1,
+          "explanation": "Project Tiger was launched on April 1, 1973, by Prime Minister Indira Gandhi, initially with 9 tiger reserves. The project was a response to the declining tiger population (estimated at 1,827 in the 1972 census). It is administered by the National Tiger Conservation Authority (NTCA), established under the Wildlife Protection Act. India now has 54 tiger reserves (as of 2024). The 2022 tiger census estimated 3,167 tigers."
+        },
+        {
+          "id": "q5",
+          "question": "Which of the following is a UNESCO World Heritage Site known for its mangrove ecosystem?",
+          "options": ["Bhitarkanika, Odisha", "Sundarbans, West Bengal", "Gulf of Mannar, Tamil Nadu", "Chilika Lake, Odisha"],
+          "correctIndex": 1,
+          "explanation": "The Sundarbans National Park in West Bengal was declared a UNESCO World Heritage Site in 1987. It is the world's largest tidal halophytic mangrove forest, shared between India and Bangladesh. It is home to the Royal Bengal Tiger, estuarine crocodile, Irrawaddy dolphin, and numerous migratory birds. The name 'Sundarbans' is derived from the Sundari tree (Heritiera fomes), the dominant mangrove species."
+        }
+      ]
+    },
+    {
+      "id": "world_geography_basics",
+      "title": "World Geography Basics",
+      "notes": "The world's continents, from largest to smallest by area, are: Asia (44.6 million sq km), Africa (30.4 million sq km), North America (24.7 million sq km), South America (17.8 million sq km), Antarctica (14 million sq km), Europe (10.5 million sq km), and Australia/Oceania (7.7 million sq km). The world's oceans, from largest to smallest, are: Pacific (largest, covering about 46% of the world's water surface), Atlantic, Indian, Southern (Antarctic), and Arctic Ocean. The Pacific Ocean is also the deepest, with the Mariana Trench reaching 10,994 m (Challenger Deep).\n\nMajor world mountain ranges include the Himalayas (home to 9 of the world's 10 highest peaks), the Andes (longest mountain range, South America), the Rockies (North America), the Alps (Europe), and the Urals (dividing Europe and Asia). The Amazon River (South America) has the largest discharge of any river, while the Nile (Africa) is considered the longest river. The Amazon basin contains the world's largest tropical rainforest. Deserts cover about 33% of the Earth's land surface; the Sahara is the world's largest hot desert, and Antarctica is the world's largest cold desert.\n\nThe International Date Line (IDL) is an imaginary line at approximately 180° longitude that separates two consecutive calendar dates. The Prime Meridian (0° longitude) passes through Greenwich, England. The Equator (0° latitude) passes through 13 countries including Ecuador, Brazil, Gabon, Congo, Kenya, and Indonesia. The Tropics of Cancer (23.5°N) and Capricorn (23.5°S) define the tropical zone. The Arctic and Antarctic Circles are at 66.5°N and 66.5°S respectively.\n\nImportant straits of the world include: Strait of Malacca (between Malaysia and Indonesia — busiest shipping lane), Strait of Hormuz (between Iran and Oman — key oil tanker route, controls 20% of world's oil trade), Strait of Gibraltar (between Spain and Morocco — connects Atlantic and Mediterranean), and Palk Strait (between India and Sri Lanka). Key water bodies like the Suez Canal (connecting Mediterranean and Red Sea) and the Panama Canal (connecting Atlantic and Pacific) are critical to international shipping.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Strait of Hormuz is of global strategic importance because:",
+          "options": ["It connects the Mediterranean Sea to the Red Sea", "It is the route for about 20% of the world's oil trade", "It is the world's busiest shipping lane by vessel count", "It connects the North Sea to the Baltic Sea"],
+          "correctIndex": 1,
+          "explanation": "The Strait of Hormuz, located between Iran and Oman/UAE, is a critical chokepoint through which approximately 20–21 million barrels of oil (about 20% of global oil consumption) pass daily via tankers from the Persian Gulf to world markets. Any disruption here would have enormous global energy implications. The Suez Canal connects Mediterranean to Red Sea; the Strait of Malacca is the busiest by vessel count."
+        },
+        {
+          "id": "q2",
+          "question": "The Mariana Trench, the deepest point in the world's oceans, is located in the:",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Southern Ocean"],
+          "correctIndex": 2,
+          "explanation": "The Mariana Trench is located in the western Pacific Ocean, east of the Mariana Islands. Its deepest point, the Challenger Deep, reaches approximately 10,994 metres (36,070 feet) below sea level — the deepest known point on Earth. It was first measured by HMS Challenger in 1875. The Pacific Ocean is both the largest and deepest ocean on Earth."
+        },
+        {
+          "id": "q3",
+          "question": "Which of the following countries does the Tropic of Cancer NOT pass through?",
+          "options": ["India", "China", "Egypt", "Brazil"],
+          "correctIndex": 2,
+          "explanation": "The Tropic of Cancer (23.5°N) does not pass through Egypt — it passes through the southern Sahara in Algeria, Libya, and Sudan. In Asia, it passes through India (through Rajasthan, Gujarat, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram), China, Bangladesh, and Myanmar. In the Americas, it passes through Mexico, Bahamas, and Brazil. Egypt is north of the Tropic of Cancer."
+        },
+        {
+          "id": "q4",
+          "question": "Which is the longest mountain range in the world?",
+          "options": ["Himalayas", "Rocky Mountains", "Andes", "Alps"],
+          "correctIndex": 2,
+          "explanation": "The Andes mountain range in South America is the world's longest continental mountain range, stretching approximately 7,000 km from Venezuela and Colombia in the north to Argentina and Chile in the south. The Himalayas are the world's highest mountain range by average elevation. The Andes are also one of the world's youngest mountain ranges, formed by the subduction of the Nazca Plate under the South American Plate."
+        },
+        {
+          "id": "q5",
+          "question": "The Suez Canal connects which two water bodies?",
+          "options": ["Mediterranean Sea and Persian Gulf", "Red Sea and Arabian Sea", "Mediterranean Sea and Red Sea", "Atlantic Ocean and Pacific Ocean"],
+          "correctIndex": 2,
+          "explanation": "The Suez Canal, opened in 1869 and located in Egypt, connects the Mediterranean Sea (at Port Said) to the Red Sea (at Suez). It is about 193 km long and eliminates the need to navigate around Africa via the Cape of Good Hope, significantly reducing the shipping distance between Europe and Asia. The Panama Canal connects the Atlantic and Pacific Oceans."
+        }
+      ]
+    }
+  ]
+}

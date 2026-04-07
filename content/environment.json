@@ -1,0 +1,215 @@
+{
+  "subjectId": "environment",
+  "topics": [
+    {
+      "id": "ecosystem_food_chains",
+      "title": "Ecosystem & Food Chains",
+      "notes": "An ecosystem is a functional unit of nature where living organisms (biotic components) interact with each other and with their non-living environment (abiotic components — sunlight, water, air, soil, temperature). The term 'ecosystem' was coined by A.G. Tansley in 1935. Ecosystems can be aquatic (ponds, lakes, rivers, coral reefs, oceans) or terrestrial (forests, grasslands, deserts). The biotic components are classified as: Producers (autotrophs — plants, algae, phytoplankton that produce food through photosynthesis), Consumers (heterotrophs — herbivores, carnivores, omnivores), and Decomposers (bacteria, fungi — break down dead organic matter, recycling nutrients).\n\nA food chain is a linear sequence showing the flow of energy and matter from one organism to the next through feeding relationships. Example: Grass → Grasshopper → Frog → Snake → Hawk. Each feeding position in a food chain is called a Trophic Level (TL): TL-1 = Producers; TL-2 = Primary consumers (herbivores); TL-3 = Secondary consumers; TL-4 = Tertiary consumers. Energy flows unidirectionally from producers to consumers, and at each trophic level, about 90% of energy is lost as heat during metabolism and respiration. Only about 10% of energy is available to the next trophic level — this is the 10% Law (Lindemann's Law, 1942).\n\nA food web is a network of interconnected food chains, providing a more realistic picture of feeding relationships in an ecosystem. Food webs provide stability — if one species is removed, energy can flow through alternate pathways. Ecological pyramids represent the quantitative relationships between trophic levels: Pyramid of Numbers (number of organisms at each level), Pyramid of Biomass (total dry weight of organisms at each level), and Pyramid of Energy (amount of energy at each level). The Pyramid of Energy is always upright; Pyramids of Numbers and Biomass can be inverted.\n\nBiogeochemical Cycles recycle essential elements through the ecosystem: Carbon Cycle (photosynthesis, respiration, decomposition, combustion); Nitrogen Cycle (nitrogen fixation by bacteria like Rhizobium in legume roots; nitrification, denitrification, ammonification); Oxygen Cycle; Water/Hydrological Cycle; and Phosphorus Cycle (no gaseous phase — weathering, absorption by plants, excretion/decomposition). Biomagnification (or bioaccumulation) is the increase in concentration of a toxic substance (e.g., DDT, mercury) as it moves up the food chain — apex predators accumulate the highest concentrations.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The '10% Law' in ecology, proposed by Lindemann, states that:",
+          "options": ["Only 10% of an ecosystem's area should be developed", "10% of solar energy is captured by producers", "Only about 10% of energy is transferred from one trophic level to the next", "10% of species should be protected in each ecosystem"],
+          "correctIndex": 2,
+          "explanation": "Lindemann's 10% Law (1942) states that at each trophic level in a food chain, only about 10% of the energy is transferred to the next level; the remaining 90% is lost as heat through metabolism, respiration, and life processes. This explains why food chains rarely have more than 4–5 trophic levels (energy available becomes too little) and why animal-based diets are energetically less efficient than plant-based diets."
+        },
+        {
+          "id": "q2",
+          "question": "Biomagnification refers to the process by which:",
+          "options": ["Large predators have larger body sizes than prey", "Concentration of certain chemicals increases as they move up the food chain", "Microorganisms break down large organic molecules", "Certain chemicals prevent plant growth"],
+          "correctIndex": 1,
+          "explanation": "Biomagnification (biological magnification) is the progressive increase in the concentration of persistent toxic substances (like DDT, PCBs, mercury, lead) at successively higher trophic levels in a food chain. This occurs because the toxin is not metabolized or excreted but accumulates in fatty tissues. Apex predators like eagles, sharks, and humans accumulate the highest concentrations. The thinning of bald eagle eggshells due to DDT accumulation is a classic example."
+        },
+        {
+          "id": "q3",
+          "question": "Which of the following bacteria is responsible for nitrogen fixation in the root nodules of leguminous plants?",
+          "options": ["Nitrosomonas", "Nitrobacter", "Rhizobium", "Pseudomonas"],
+          "correctIndex": 2,
+          "explanation": "Rhizobium is a symbiotic nitrogen-fixing bacterium that lives in root nodules of leguminous plants (beans, peas, groundnut, soya). It converts atmospheric nitrogen (N₂) into ammonia (NH₃) — a process called biological nitrogen fixation — using the enzyme nitrogenase. The plant provides carbohydrates, and the bacteria provide fixed nitrogen. Nitrosomonas and Nitrobacter are nitrifying bacteria; Pseudomonas is a denitrifying bacterium."
+        },
+        {
+          "id": "q4",
+          "question": "The Pyramid of Energy in an ecosystem is always:",
+          "options": ["Inverted (narrow base, wide top)", "Diamond-shaped", "Upright (wide base, narrow top)", "Variable — can be upright or inverted"],
+          "correctIndex": 2,
+          "explanation": "The Pyramid of Energy is always upright because energy always decreases from lower to higher trophic levels — the 10% law ensures that there is always less energy at higher trophic levels. Pyramids of Numbers and Biomass can be inverted (e.g., a single oak tree can support thousands of insects; or in a marine ecosystem, phytoplankton biomass can be less than zooplankton biomass due to rapid turnover). The Pyramid of Energy is the most fundamental and always upright."
+        },
+        {
+          "id": "q5",
+          "question": "The term 'ecosystem' was coined by which scientist?",
+          "options": ["Charles Darwin", "Alexander von Humboldt", "A.G. Tansley", "Ernst Haeckel"],
+          "correctIndex": 2,
+          "explanation": "The term 'ecosystem' was coined by British ecologist Arthur George Tansley in 1935 in his paper in the journal Ecology. He described it as 'the whole system, including not only the organism-complex, but also the whole complex of physical factors forming what we call the environment.' Ernst Haeckel coined the term 'ecology' in 1866. Darwin is known for evolution; Humboldt for biogeography."
+        }
+      ]
+    },
+    {
+      "id": "biodiversity_conservation",
+      "title": "Biodiversity & Conservation",
+      "notes": "Biodiversity refers to the variety and variability of life on Earth. It is studied at three levels: Genetic Diversity (variation in genes within a species), Species Diversity (variety of species within a habitat or region), and Ecosystem Diversity (variety of ecosystems in a given area). India is one of the 17 mega-biodiverse countries in the world, hosting about 8% of global biodiversity (7–8% of recorded species) on just 2.4% of Earth's area. India has 4 of the world's 36 biodiversity hotspots: Eastern Himalayas (Indo-Burma), Western Ghats & Sri Lanka, Sundaland (Andaman & Nicobar Islands), and Himalayas.\n\nThreat to biodiversity comes from the 'HIPPO' factors: Habitat destruction (the leading cause — deforestation, urbanization, agricultural expansion), Invasive Species (alien species that outcompete native species), Pollution (air, water, soil), Population growth, and Over-exploitation (hunting, fishing, logging). The IUCN Red List classifies threatened species into: Extinct, Extinct in the Wild, Critically Endangered (CR), Endangered (EN), Vulnerable (VU), Near Threatened (NT), Least Concern (LC), and Data Deficient. India's snow leopard, Indian wild ass, and great Indian bustard are critically endangered.\n\nConservation strategies: In-situ Conservation (protecting species in their natural habitat) includes Biosphere Reserves, National Parks, Wildlife Sanctuaries, Sacred Groves, and Ramsar Sites (wetlands of international importance). Ex-situ Conservation (protecting species outside their natural habitat) includes Zoos, Botanical Gardens, Seed Banks, Cryopreservation, and Gene Banks. India has 18 Biosphere Reserves (7 in UNESCO's World Network of Biosphere Reserves), 106 National Parks, 567 Wildlife Sanctuaries, and 75 Ramsar sites (as of 2024).\n\nInternational conventions on biodiversity: Convention on Biological Diversity (CBD, 1992 — 'Earth Summit' in Rio de Janeiro, entered into force 1993) with three objectives: conservation of biodiversity, sustainable use, and fair sharing of benefits from genetic resources. The Nagoya Protocol (2010) specifically addresses 'Access and Benefit Sharing' from genetic resources. CITES (Convention on International Trade in Endangered Species) regulates international wildlife trade — Appendix I (trade banned), Appendix II (regulated). The Kunming-Montreal Global Biodiversity Framework (COP-15, 2022) set the '30x30' target — protecting 30% of land and oceans by 2030.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which of the following is NOT an in-situ conservation method?",
+          "options": ["National Parks", "Biosphere Reserves", "Botanical Gardens", "Wildlife Sanctuaries"],
+          "correctIndex": 2,
+          "explanation": "Botanical Gardens are ex-situ conservation facilities where plants are maintained and studied outside their natural habitat. Ex-situ conservation includes zoos, botanical gardens, aquaria, seed banks, and gene banks. In-situ conservation protects species in their natural habitats and includes National Parks, Wildlife Sanctuaries, Biosphere Reserves, Sacred Groves, and Marine Protected Areas. In-situ is generally preferred as it conserves entire ecosystems, not just individual species."
+        },
+        {
+          "id": "q2",
+          "question": "The IUCN Red List category 'Critically Endangered' means the species:",
+          "options": ["Has not been assessed for its conservation status", "Is at extremely high risk of extinction in the wild in the immediate future", "May become extinct in the near future if threats continue", "Is on the verge of complete extinction globally"],
+          "correctIndex": 1,
+          "explanation": "A species classified as Critically Endangered (CR) by the IUCN Red List faces an extremely high risk of extinction in the wild, based on criteria involving population size decline, geographic range, quantitative analysis, or very small population size. It is the highest category for still-existing species (Extinct in the Wild and Extinct are for species with no wild populations). Examples: Sumatran orangutan, hawksbill turtle, Indian vulture."
+        },
+        {
+          "id": "q3",
+          "question": "The Convention on Biological Diversity (CBD) was adopted at the 'Earth Summit' held in which city in 1992?",
+          "options": ["Stockholm", "Nairobi", "Rio de Janeiro", "Johannesburg"],
+          "correctIndex": 2,
+          "explanation": "The Convention on Biological Diversity (CBD) was adopted at the United Nations Conference on Environment and Development (UNCED), popularly known as the 'Earth Summit', held in Rio de Janeiro, Brazil in June 1992. It entered into force on December 29, 1993. The CBD has three main objectives: conservation of biological diversity, sustainable use of its components, and fair and equitable sharing of benefits from genetic resources."
+        },
+        {
+          "id": "q4",
+          "question": "India has how many biodiversity hotspots as recognized by Conservation International?",
+          "options": ["2", "3", "4", "5"],
+          "correctIndex": 2,
+          "explanation": "India has 4 of the world's 36 biodiversity hotspots recognized by Conservation International: (1) Eastern Himalayas (part of the Indo-Burma hotspot), (2) Western Ghats and Sri Lanka, (3) Sundaland (Andaman and Nicobar Islands are part), and (4) Himalaya (sometimes counted separately). A biodiversity hotspot must have at least 1,500 endemic vascular plant species AND have lost at least 70% of its original habitat. India's hotspots are among the most diverse and threatened globally."
+        },
+        {
+          "id": "q5",
+          "question": "CITES regulates the international trade of endangered species. Species in CITES Appendix I are those for which:",
+          "options": ["Trade is completely banned as they are highly threatened", "Trade is permitted with permits and monitoring", "Trade is unregulated but recorded", "Trade is permitted only between developing countries"],
+          "correctIndex": 0,
+          "explanation": "CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) Appendix I lists species threatened with extinction where commercial international trade is prohibited (trade for primarily commercial purposes is banned). Appendix II lists species not necessarily threatened but where trade must be controlled to avoid exploitation that could threaten survival. Appendix III lists species protected in at least one country that has requested assistance in controlling their trade."
+        }
+      ]
+    },
+    {
+      "id": "climate_change_global_warming",
+      "title": "Climate Change & Global Warming",
+      "notes": "The Greenhouse Effect is a natural process where certain gases in Earth's atmosphere (water vapour, CO₂, methane, N₂O, ozone) trap heat from the sun, keeping Earth's average temperature at about 15°C (without it, Earth would be about -18°C). Human activities since the Industrial Revolution (burning of fossil fuels, deforestation, agriculture, industry) have significantly enhanced the greenhouse effect by increasing concentrations of greenhouse gases (GHGs). CO₂ has increased from 280 ppm (pre-industrial) to over 420 ppm (2023). This enhanced greenhouse effect causes Global Warming — the rise in Earth's average surface temperature.\n\nGlobal Warming Potentials (GWP, relative to CO₂ over 100 years): CO₂ = 1 (reference); Methane (CH₄) = 28–36 (produced by cattle, rice paddies, landfills, natural gas leaks); Nitrous Oxide (N₂O) = 265–298 (fertilizers, livestock, combustion); Hydrofluorocarbons (HFCs) = thousands (refrigerants); SF₆ (sulphur hexafluoride) = ~23,500. Despite CH₄'s higher GWP, CO₂ is the most important contributor to climate change due to its large quantities emitted. The Kyoto Protocol (1997) and Paris Agreement (2015) are the key international frameworks addressing GHG emissions.\n\nThe Paris Agreement (2015, COP21) aims to limit global average temperature rise to well below 2°C above pre-industrial levels, with efforts to limit it to 1.5°C. Countries submit Nationally Determined Contributions (NDCs) — their own climate action pledges. India's NDC pledges include: achieving 50% of cumulative electric power capacity from non-fossil fuel sources by 2030, reducing emissions intensity of GDP by 45% by 2030 (from 2005 levels), and creating an additional carbon sink of 2.5–3 billion tonnes of CO₂ equivalent through forests. India launched the International Solar Alliance (ISA) with France at COP21.\n\nConsequences of climate change: melting of polar ice caps and glaciers (raising sea levels — threatening low-lying islands and coastal cities); increased frequency of extreme weather events (floods, droughts, cyclones, heat waves); ocean acidification (CO₂ dissolving in ocean water forms carbonic acid, threatening coral reefs and marine life); shifting of climate zones and species ranges; threats to food security (changing monsoon patterns, reduced crop yields). The Intergovernmental Panel on Climate Change (IPCC), established in 1988, provides scientific assessments on climate change through its Assessment Reports.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Paris Agreement (2015) aims to limit global temperature rise to:",
+          "options": ["1°C above pre-industrial levels", "Well below 2°C, with efforts to limit to 1.5°C", "3°C above pre-industrial levels", "Within the current temperature range"],
+          "correctIndex": 1,
+          "explanation": "The Paris Agreement, adopted at COP21 in Paris on December 12, 2015, aims to hold the increase in global average temperature to well below 2°C above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5°C above pre-industrial levels. The 1.5°C target was included after pressure from vulnerable developing nations. Countries submit Nationally Determined Contributions (NDCs) — voluntary pledges to reduce emissions."
+        },
+        {
+          "id": "q2",
+          "question": "Which greenhouse gas has the highest Global Warming Potential (GWP) per unit mass over 100 years?",
+          "options": ["Carbon dioxide (CO₂)", "Methane (CH₄)", "Nitrous oxide (N₂O)", "Sulphur hexafluoride (SF₆)"],
+          "correctIndex": 3,
+          "explanation": "Sulphur hexafluoride (SF₆) has a GWP of approximately 23,500 over 100 years — the highest of any greenhouse gas. It is used as an electrical insulator in high-voltage equipment. However, its total contribution to climate change is small due to relatively low emission volumes. CO₂ contributes most to climate change by quantity, with a GWP of 1. CH₄ has GWP ~28–36 and N₂O ~265–298."
+        },
+        {
+          "id": "q3",
+          "question": "Ocean acidification is caused by the ocean absorbing excess:",
+          "options": ["Sulphur dioxide (SO₂)", "Carbon dioxide (CO₂)", "Methane (CH₄)", "Nitrogen dioxide (NO₂)"],
+          "correctIndex": 1,
+          "explanation": "Ocean acidification occurs when CO₂ from the atmosphere is absorbed by the ocean, reacting with water to form carbonic acid (H₂CO₃), which then dissociates into hydrogen ions and bicarbonate. This lowers the ocean's pH (makes it more acidic). The ocean has absorbed about 30% of CO₂ emitted by humans. Acidification harms shell-forming organisms (coral, oysters, mussels) by dissolving calcium carbonate. Ocean pH has dropped from 8.2 to about 8.1 since industrialization."
+        },
+        {
+          "id": "q4",
+          "question": "The IPCC (Intergovernmental Panel on Climate Change) was established in which year?",
+          "options": ["1972", "1980", "1988", "1992"],
+          "correctIndex": 2,
+          "explanation": "The IPCC was established in 1988 by the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP). It does not conduct original research but assesses and synthesizes existing scientific literature on climate change. It produces Assessment Reports approximately every 5–7 years (the Sixth Assessment Report was released in 2021–2022). The IPCC shared the 2007 Nobel Peace Prize with Al Gore."
+        },
+        {
+          "id": "q5",
+          "question": "India launched the International Solar Alliance (ISA) in partnership with which country at COP21 in 2015?",
+          "options": ["Germany", "USA", "France", "Japan"],
+          "correctIndex": 2,
+          "explanation": "The International Solar Alliance (ISA) was jointly launched by India's Prime Minister Narendra Modi and France's President François Hollande at COP21 in Paris on November 30, 2015. The ISA is an alliance of sunshine-rich countries (initially between the Tropics of Cancer and Capricorn) aimed at promoting solar energy to meet energy needs. Its headquarters is in Gurugram, India. The Framework Agreement entered into force in December 2017, and ISA now has 124 member countries."
+        }
+      ]
+    },
+    {
+      "id": "environmental_laws_india",
+      "title": "Environmental Laws in India",
+      "notes": "India's constitutional provisions for environmental protection include Article 48A (Directive Principle — state shall protect and improve the environment and safeguard forests and wildlife, added by 42nd Amendment 1976) and Article 51A(g) (Fundamental Duty of every citizen to protect and improve the natural environment including forests, lakes, rivers, and wildlife, added by 42nd Amendment 1976). The Supreme Court has also derived the right to a clean environment from Article 21 (Right to Life) through judicial interpretation.\n\nMajor environmental legislations in India: The Environment (Protection) Act, 1986 (the umbrella legislation enacted after the Bhopal Gas Tragedy 1984) empowers the Central Government to take measures for protecting and improving environmental quality; The Water (Prevention and Control of Pollution) Act, 1974 — established Central and State Pollution Control Boards; The Air (Prevention and Control of Pollution) Act, 1981; The Wildlife Protection Act, 1972 — provides for the protection of wildlife and their habitats, regulates hunting, and established wildlife sanctuaries and national parks (amended in 2022); The Forest Conservation Act, 1980 — restricts diversion of forest land for non-forest purposes (requires Central Government approval); The Biological Diversity Act, 2002 — implements CBD provisions, established National Biodiversity Authority.\n\nInstitutional mechanisms: Central Pollution Control Board (CPCB) — apex body for pollution monitoring and control, set standards, advises government; State Pollution Control Boards (SPCBs) for state-level implementation; National Green Tribunal (NGT) — established by the National Green Tribunal Act, 2010, is a specialized court for environmental disputes (can impose fines and compensation); Ministry of Environment, Forest and Climate Change (MoEFCC). Environmental Impact Assessment (EIA) under EIA Notification 2006 requires prior environmental clearance for projects likely to cause significant environmental impact.\n\nInternational environmental agreements India is party to: United Nations Framework Convention on Climate Change (UNFCCC, 1992) and its Kyoto Protocol and Paris Agreement; Convention on Biological Diversity (CBD, 1992) and its Cartagena Protocol (biosafety) and Nagoya Protocol (access and benefit sharing); CITES (1973); Ramsar Convention on Wetlands (1971, India joined 1982 — now has 75 Ramsar sites); Vienna Convention on the Ozone Layer (1985) and Montreal Protocol (1987) for phase-out of ozone-depleting substances (CFC phase-out); Basel Convention on hazardous wastes; Stockholm Convention on Persistent Organic Pollutants (POPs).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The National Green Tribunal (NGT) was established under which Act?",
+          "options": ["Environment (Protection) Act, 1986", "National Green Tribunal Act, 2010", "Wildlife Protection Act, 1972", "Water (Prevention and Control of Pollution) Act, 1974"],
+          "correctIndex": 1,
+          "explanation": "The National Green Tribunal (NGT) was established on October 18, 2010, under the National Green Tribunal Act, 2010. It is a specialized fast-track court for the effective and expeditious disposal of civil cases relating to environment protection, conservation of forests, and enforcement of rights related to the environment. The NGT can award compensation to victims of pollution and impose penalties on polluters. Its principal bench is in New Delhi."
+        },
+        {
+          "id": "q2",
+          "question": "The Environment (Protection) Act, 1986 was enacted primarily in response to which disaster?",
+          "options": ["Chernobyl Nuclear Disaster", "Bhopal Gas Tragedy", "Minamata Disease (mercury poisoning)", "Exxon Valdez Oil Spill"],
+          "correctIndex": 1,
+          "explanation": "The Environment (Protection) Act, 1986 was enacted in the wake of the Bhopal Gas Tragedy of December 2–3, 1984, when a methyl isocyanate (MIC) gas leak from the Union Carbide India Limited pesticide plant in Bhopal killed thousands (official count ~3,787; estimates range much higher) and injured over 500,000 people. The tragedy exposed the lack of a comprehensive environmental protection framework in India. The Act provides for the protection and improvement of the environment."
+        },
+        {
+          "id": "q3",
+          "question": "Under which constitutional provision was the duty to protect the environment made a Fundamental Duty of Indian citizens?",
+          "options": ["Article 21", "Article 48A", "Article 51A(g)", "Article 19(1)(a)"],
+          "correctIndex": 2,
+          "explanation": "Article 51A(g) of the Indian Constitution, added by the 42nd Constitutional Amendment (1976), declares it a Fundamental Duty of every citizen 'to protect and improve the natural environment including forests, lakes, rivers and wildlife and to have compassion for living creatures.' Article 48A is the corresponding Directive Principle (for the State). Article 21 (Right to Life) has been interpreted by the Supreme Court to include the right to a clean environment."
+        },
+        {
+          "id": "q4",
+          "question": "The Montreal Protocol (1987) deals with the phase-out of:",
+          "options": ["Greenhouse gases causing climate change", "Ozone-depleting substances like CFCs", "Persistent organic pollutants (POPs)", "Hazardous chemical waste"],
+          "correctIndex": 1,
+          "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer (1987) is an international treaty designed to protect the ozone layer by phasing out the production and consumption of ozone-depleting substances (ODS), primarily chlorofluorocarbons (CFCs), halons, and HCFCs. It is considered one of the most successful environmental treaties — the ozone hole over Antarctica has been gradually healing. The Kigali Amendment (2016) to the Montreal Protocol also phases down HFCs (potent greenhouse gases)."
+        },
+        {
+          "id": "q5",
+          "question": "The Forest Conservation Act, 1980 requires Central Government approval for:",
+          "options": ["Felling of trees for domestic fuel purposes", "Diversion of forest land for non-forest purposes", "Creation of new plantations in non-forest land", "Import and export of timber"],
+          "correctIndex": 1,
+          "explanation": "The Forest Conservation Act (FCA), 1980 was enacted to check rapid deforestation caused by diversion of forest land for agriculture, industry, and other uses. It requires prior approval of the Central Government (through the Forest Advisory Committee) for any diversion of forest land to non-forest purposes such as mining, road construction, dams, industries, etc. Without this approval, state governments and private parties cannot divert forest land for non-forest use."
+        }
+      ]
+    },
+    {
+      "id": "pollution_types_effects",
+      "title": "Pollution — Types & Effects",
+      "notes": "Pollution is the introduction of harmful substances or energy into the natural environment, causing adverse change. Air Pollution: The National Ambient Air Quality Standards (NAAQS) in India monitor pollutants including Particulate Matter (PM10 and PM2.5), SO₂, NO₂, CO, ozone, lead, benzene, and ammonia. PM2.5 (fine particles with diameter < 2.5 micrometers) is the most dangerous as it penetrates deep into the lungs and enters the bloodstream. Major sources include vehicular emissions, industrial effluents, burning of crop stubble (Parali burning in Punjab/Haryana), construction dust, and coal-fired power plants. The Air Quality Index (AQI) in India has 6 categories from Good (0–50) to Severe (401–500).\n\nWater Pollution: Major sources include industrial effluents (heavy metals like chromium, mercury, lead; toxic chemicals), sewage discharge (BOD — Biochemical Oxygen Demand measures organic pollution; high BOD = low dissolved oxygen = fish kills), agricultural runoff (pesticides, fertilizers causing eutrophication — excessive algal growth followed by oxygen depletion), and oil spills. Eutrophication is a significant problem in water bodies — excess nutrients (nitrogen, phosphorus from fertilizers and detergents) cause algal blooms that block sunlight and consume oxygen, creating 'dead zones'. The Ganga Action Plan (GAP, 1985) and National Mission for Clean Ganga (NMCG) / Namami Gange project (2014) aim to clean the Ganga River.\n\nSoil Pollution: Major causes include excessive use of chemical fertilizers and pesticides, industrial waste dumping, mining activities, and improper solid waste disposal. Persistent chemicals like organochlorine pesticides (DDT, aldrin, dieldrin) remain in the soil for decades. The use of plastic bags, bottles, and packaging is a major contributor to soil and water pollution. Single-use plastics were banned in India from July 1, 2022. Soil erosion, salinization (from improper irrigation), and desertification are land degradation issues threatening agricultural productivity.\n\nNoise Pollution and Light Pollution are other emerging concerns. The permissible noise level in India is 45 dB in residential areas (daytime) as per the Noise Pollution (Regulation and Control) Rules, 2000. Noise above 85 dB can cause permanent hearing loss. Radioactive pollution from nuclear plants, medical wastes, and nuclear testing poses long-term health risks including cancer and genetic mutations. E-waste (electronic waste) is one of the fastest-growing waste streams globally, containing hazardous materials like lead, cadmium, and mercury. The E-waste Management Rules, 2022 in India mandate extended producer responsibility (EPR).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "PM2.5 refers to particulate matter with a diameter of less than 2.5 micrometers. Why is it more dangerous than PM10?",
+          "options": ["It is more chemically reactive", "It can penetrate deep into the lungs and enter the bloodstream", "It stays in the atmosphere longer than PM10", "It is invisible and thus undetectable"],
+          "correctIndex": 1,
+          "explanation": "PM2.5 (fine particulate matter with diameter < 2.5 micrometers) is more dangerous than PM10 because its tiny size allows it to bypass the nose and throat's natural filtering system, penetrate deep into the alveoli of the lungs, and even enter the bloodstream. It causes cardiovascular diseases, stroke, lung cancer, chronic respiratory diseases, and premature death. Long-term exposure to PM2.5 is linked to cognitive decline. PM10 particles are larger and mostly filtered in the upper respiratory tract."
+        },
+        {
+          "id": "q2",
+          "question": "Eutrophication of water bodies is primarily caused by excess input of which elements?",
+          "options": ["Carbon and Oxygen", "Nitrogen and Phosphorus", "Sulphur and Chlorine", "Calcium and Magnesium"],
+          "correctIndex": 1,
+          "explanation": "Eutrophication is the process by which excess nutrients — primarily nitrogen (N) and phosphorus (P) from agricultural fertilizers, sewage, and detergents — enrich water bodies, causing explosive growth of algae (algal blooms). When algae die and decompose, bacteria consume oxygen, drastically lowering dissolved oxygen levels (hypoxia), suffocating aquatic life and creating 'dead zones'. The Gulf of Mexico dead zone is one of the world's largest, caused by agricultural runoff from the Mississippi River."
+        },
+        {
+          "id": "q3",
+          "question": "The Biochemical Oxygen Demand (BOD) of water is used to measure:",
+          "options": ["The amount of dissolved oxygen in water", "The level of organic pollution in water", "The concentration of heavy metals", "The pH of the water body"],
+          "correctIndex": 1,
+          "explanation": "BOD (Biochemical Oxygen Demand) measures the amount of oxygen consumed by microorganisms in decomposing organic matter in water over a specific time period (usually 5 days at 20°C). High BOD indicates high organic pollution — more microorganisms are using up oxygen to decompose the organic waste, leaving less dissolved oxygen for aquatic life. Clean water has BOD < 2 mg/L; moderately polluted water 5–10 mg/L; heavily polluted water > 20 mg/L."
+        },
+        {
+          "id": "q4",
+          "question": "The 'Namami Gange' programme was launched in India in which year to rejuvenate the Ganga river?",
+          "options": ["2009", "2012", "2014", "2017"],
+          "correctIndex": 2,
+          "explanation": "Namami Gange (meaning 'I bow to the Ganga') is an Integrated Conservation Mission launched in June 2014 by the Union Government with a budget outlay of Rs. 20,000 crore. It aims to accomplish the twin objectives of effective abatement of pollution and conservation and rejuvenation of the Ganga River. Key activities include sewage treatment plant construction, industrial effluent treatment, riverfront development, afforestation, and public awareness."
+        },
+        {
+          "id": "q5",
+          "question": "India banned the use of single-use plastics from which date?",
+          "options": ["January 1, 2020", "October 2, 2019", "July 1, 2022", "April 5, 2023"],
+          "correctIndex": 2,
+          "explanation": "India banned the manufacture, sale, and use of identified single-use plastic items from July 1, 2022, under the Plastic Waste Management Amendment Rules, 2021. Banned items include earbuds, balloons with plastic sticks, plastic flags, candy sticks, ice cream sticks, plastic plates, cups, glasses, cutlery, straws, trays, and plastic bags below 75 micron thickness. This was part of India's commitment to eliminate plastic pollution and is aligned with the UN Sustainable Development Goals."
+        }
+      ]
+    }
+  ]
+}

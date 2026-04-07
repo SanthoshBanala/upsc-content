@@ -1,0 +1,215 @@
+{
+  "subjectId": "economy",
+  "topics": [
+    {
+      "id": "basic_concepts_of_economics",
+      "title": "Basic Concepts of Economics",
+      "notes": "Economics is the social science that studies how individuals, firms, and societies allocate scarce resources to satisfy unlimited wants. It is broadly divided into Microeconomics (study of individual units — households, firms, markets) and Macroeconomics (study of the economy as a whole — GDP, inflation, unemployment, monetary and fiscal policy). The fundamental economic problem is scarcity — resources are limited while human wants are unlimited, necessitating choice and leading to the concept of opportunity cost (the value of the next best alternative foregone when making a decision).\n\nMarkets are of several types: Perfect Competition (many buyers and sellers, homogeneous product, free entry/exit — e.g., agricultural markets), Monopoly (single seller, no close substitutes — e.g., public utilities), Oligopoly (few large sellers — e.g., automobile, telecom), and Monopolistic Competition (many sellers, differentiated products — e.g., FMCG brands). Price is determined by the interaction of demand and supply. The Law of Demand states that quantity demanded increases as price falls (inverse relationship), while the Law of Supply states that quantity supplied increases as price rises (direct relationship).\n\nElasticity measures responsiveness. Price Elasticity of Demand (PED) measures how responsive quantity demanded is to a change in price. Essential goods (salt, basic medicines) have inelastic demand (PED < 1); luxury goods (cars, jewellery) have elastic demand (PED > 1). Income Elasticity helps classify goods: Normal goods (demand increases with income), Inferior goods (demand decreases with income — e.g., coarse grains), and Giffen goods (demand paradoxically increases with price increases — a special case of inferior goods).\n\nIndian economic planning began with the First Five-Year Plan (1951–56) under the Planning Commission, chaired by the Prime Minister. India followed a mixed economy model combining public sector (state enterprises) and private sector. The Planning Commission was dissolved in 2014 and replaced by NITI Aayog (National Institution for Transforming India) on January 1, 2015. Unlike the Planning Commission, NITI Aayog is a think tank without the power to allocate funds to states. The 12th Five-Year Plan ended in 2017, and India has moved to a three-year action plan system.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "NITI Aayog replaced which body in India in 2015?",
+          "options": ["Reserve Bank of India", "Planning Commission", "Finance Commission", "Economic Advisory Council"],
+          "correctIndex": 1,
+          "explanation": "NITI Aayog (National Institution for Transforming India) was established on January 1, 2015, replacing the Planning Commission (established in 1950). The key difference is that the Planning Commission had the power to allocate funds to states, making it a powerful body. NITI Aayog is a policy think tank and advisory body without fund allocation powers. The Prime Minister chairs NITI Aayog, while states are partners rather than recipients."
+        },
+        {
+          "id": "q2",
+          "question": "The term 'opportunity cost' in economics refers to:",
+          "options": ["The monetary cost of producing a good", "The value of the next best alternative foregone when a choice is made", "The cost of lost opportunities due to unemployment", "The additional cost of producing one more unit"],
+          "correctIndex": 1,
+          "explanation": "Opportunity cost is the value of the next best alternative that must be sacrificed when a choice is made. It is a fundamental concept in economics because resources are scarce. For example, if a student spends time studying economics instead of history, the opportunity cost is the benefit that would have been gained by studying history. This concept underpins rational decision-making and cost-benefit analysis."
+        },
+        {
+          "id": "q3",
+          "question": "Which of the following is an example of an 'Inferior Good' in economic terminology?",
+          "options": ["Gold jewellery", "Luxury cars", "Jowar (sorghum) as a staple grain", "Smartphones"],
+          "correctIndex": 2,
+          "explanation": "An inferior good is one whose demand decreases as consumer income increases. As people become wealthier, they switch to superior substitutes. Jowar (sorghum), bajra, and other coarse cereals are classic examples in India — as incomes rise, consumers shift to wheat and rice. Gold, luxury cars, and smartphones are normal or luxury goods where demand increases with income."
+        },
+        {
+          "id": "q4",
+          "question": "In which type of market structure does a single seller dominate the entire market with no close substitutes for the product?",
+          "options": ["Perfect Competition", "Oligopoly", "Monopoly", "Monopolistic Competition"],
+          "correctIndex": 2,
+          "explanation": "Monopoly is a market structure where there is a single seller (monopolist) of a product with no close substitutes, and there are significant barriers to entry. The monopolist is a price-maker (sets the price rather than accepting a market price). Examples include natural monopolies like railways, water supply, and electricity distribution in many regions. Government policy generally aims to regulate or break up monopolies to protect consumer interests."
+        },
+        {
+          "id": "q5",
+          "question": "Price Elasticity of Demand for essential goods like salt is typically:",
+          "options": ["Perfectly elastic (PED = infinity)", "Elastic (PED > 1)", "Inelastic (PED < 1)", "Unitary elastic (PED = 1)"],
+          "correctIndex": 2,
+          "explanation": "Essential goods like salt, medicine, and basic food have inelastic demand (PED < 1) — a percentage change in price causes a smaller percentage change in quantity demanded. People continue to buy essentials even when prices rise because there are no close substitutes and they are necessities. In contrast, luxury goods have elastic demand (PED > 1) because consumers can easily forgo them or find substitutes when prices rise."
+        }
+      ]
+    },
+    {
+      "id": "national_income_gdp",
+      "title": "National Income & GDP",
+      "notes": "National Income is the total monetary value of all final goods and services produced by the residents of a country in one year. The key measures are: Gross Domestic Product (GDP) — market value of all final goods and services produced within a country's borders in a given period (includes output by foreigners working in India, excludes output by Indians abroad); Gross National Product (GNP) = GDP + Net Factor Income from Abroad (NFIA); Net National Product (NNP) = GNP - Depreciation; and National Income (NI at Factor Cost) = NNP at Market Price - Indirect Taxes + Subsidies.\n\nGDP can be measured using three equivalent approaches: Expenditure Method (GDP = C + I + G + (X-M), where C = Private Consumption, I = Gross Investment, G = Government Expenditure, X-M = Net Exports); Income Method (sum of all factor incomes — wages, rent, interest, profit); and Production/Value-Added Method (sum of value added at each stage of production). The Central Statistics Office (CSO), now part of the National Statistical Office (NSO) under MoSPI, is responsible for releasing GDP estimates in India.\n\nReal GDP vs Nominal GDP: Nominal GDP uses current year prices and thus includes the effect of inflation. Real GDP is calculated using constant base year prices, eliminating the inflation effect. The GDP Deflator = (Nominal GDP / Real GDP) × 100 measures the change in price levels. India changed its base year for GDP calculation to 2011–12 (from 2004–05) in 2015. Per Capita Income = National Income / Population; it is a better indicator of living standards than total GDP.\n\nIndia's GDP composition (approximate): Services sector contributes about 54–55% of GDP; Industry (including manufacturing, construction, mining) contributes about 26–27%; Agriculture contributes about 17–18% of GDP but employs about 42–45% of the workforce, indicating low agricultural productivity. India is the 5th largest economy in the world by nominal GDP (approximately USD 3.7 trillion, 2024) and the 3rd largest by Purchasing Power Parity (PPP). The GDP growth rate target under India's Vision 2047 (Amrit Kaal) is 8%+ sustained growth to become a developed nation by 2047.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which of the following correctly defines Gross National Product (GNP)?",
+          "options": ["GNP = GDP - Net Factor Income from Abroad", "GNP = GDP + Net Factor Income from Abroad", "GNP = GDP - Depreciation", "GNP = NNP + Indirect Taxes - Subsidies"],
+          "correctIndex": 1,
+          "explanation": "GNP = GDP + Net Factor Income from Abroad (NFIA). NFIA is the difference between income earned by residents abroad and income earned by foreigners within the country. If Indian citizens working abroad remit more income than foreigners earn in India, GNP > GDP. India typically has a positive NFIA due to large remittances from the Indian diaspora. GNP - Depreciation = NNP (Net National Product)."
+        },
+        {
+          "id": "q2",
+          "question": "The difference between GDP at Market Price and GDP at Factor Cost is:",
+          "options": ["Depreciation", "Net Factor Income from Abroad", "Net Indirect Taxes (Indirect Taxes minus Subsidies)", "Transfer Payments"],
+          "correctIndex": 2,
+          "explanation": "GDP at Factor Cost = GDP at Market Price - Net Indirect Taxes (Indirect Taxes - Subsidies). Net Indirect Taxes are added to factor cost to get market price because market prices include taxes (which add to the price paid by consumers) but exclude subsidies (which reduce the price). GDP at Factor Cost reflects the actual earnings of factors of production (land, labour, capital, enterprise)."
+        },
+        {
+          "id": "q3",
+          "question": "Real GDP differs from Nominal GDP in that Real GDP:",
+          "options": ["Includes services but Nominal GDP does not", "Is adjusted for inflation using a base year price", "Measures only domestic production", "Excludes government expenditure"],
+          "correctIndex": 1,
+          "explanation": "Real GDP is calculated at constant prices of a base year, removing the effect of price changes (inflation). This allows meaningful comparisons of economic output across different time periods. Nominal GDP is calculated at current market prices and reflects both output changes and price changes. Real GDP growth (not nominal) is the actual measure of economic growth. India currently uses 2011–12 as the base year for calculating Real GDP."
+        },
+        {
+          "id": "q4",
+          "question": "Which sector contributes the highest share to India's GDP?",
+          "options": ["Agriculture", "Industry", "Services", "Manufacturing alone"],
+          "correctIndex": 2,
+          "explanation": "The Services sector is the largest contributor to India's GDP, accounting for approximately 54–55% of GDP (2023–24). This includes trade, hotels and restaurants, transport, communication, financial services, real estate, public administration, and defence. Industry contributes about 26–27% and Agriculture about 17–18%. However, agriculture remains the largest employer, engaging about 42–45% of the workforce."
+        },
+        {
+          "id": "q5",
+          "question": "Per Capita Income is a better indicator of living standards than total GDP because:",
+          "options": ["It measures the inequality of income distribution", "It accounts for the size of the population", "It is adjusted for purchasing power parity", "It excludes government income"],
+          "correctIndex": 1,
+          "explanation": "Per Capita Income (= National Income / Population) is considered a better measure of living standards than total GDP because it accounts for population size. A country with a very high total GDP but enormous population may have low living standards for most citizens. For example, China has a higher total GDP than Switzerland, but Switzerland has a much higher per capita income. However, Per Capita Income does not measure income distribution or inequality within a country."
+        }
+      ]
+    },
+    {
+      "id": "money_banking_financial_system",
+      "title": "Money Banking & Financial System",
+      "notes": "Money is anything generally accepted as a medium of exchange, unit of account, store of value, and standard of deferred payment. The evolution of money went from barter (direct exchange of goods, limited by the 'double coincidence of wants'), to commodity money, to metallic money, to paper money, and finally to credit/plastic/digital money. M0 (Reserve Money/High-Powered Money = Currency in Circulation + Cash Reserves of Banks + Other Deposits with RBI), M1 (Narrow Money = Currency + Demand Deposits), M2, and M3 (Broad Money = M1 + Time Deposits with Banks) are the monetary aggregates used in India.\n\nThe Reserve Bank of India (RBI), established on April 1, 1935 under the RBI Act 1934, is the central bank of India. It was nationalised in 1949. The RBI has multiple functions: monetary authority (controls money supply and credit through monetary policy), issuer of currency (except one rupee coin and note, issued by the Government of India), banker to banks (maintains CRR, SLR; provides refinance), banker to government, regulator and supervisor of the banking system, and manager of foreign exchange reserves. The Governor of RBI is appointed by the Central Government.\n\nMonetary Policy tools used by the RBI include: Repo Rate (rate at which RBI lends to commercial banks for short term — key policy rate; lower repo rate = cheaper credit = more money in economy); Reverse Repo Rate (rate at which RBI borrows from commercial banks); Cash Reserve Ratio (CRR — minimum percentage of net demand and time liabilities that banks must maintain as cash with RBI); Statutory Liquidity Ratio (SLR — minimum percentage of net demand and time liabilities that banks must maintain in liquid assets like gold and government securities); and Open Market Operations (OMO — buying/selling government securities to inject/absorb liquidity).\n\nThe financial system in India comprises banking institutions (commercial banks, cooperative banks, RRBs), non-banking financial companies (NBFCs), insurance sector (regulated by IRDAI), securities market (regulated by SEBI — Securities and Exchange Board of India, established 1988, given statutory status 1992), and pension sector (regulated by PFRDA). India's banking sector was nationalised in two phases: 14 major banks in 1969 and 6 more in 1980, under Indira Gandhi's government. The Insolvency and Bankruptcy Code (IBC), 2016 was a major reform for resolving NPAs (Non-Performing Assets) and corporate insolvency.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Cash Reserve Ratio (CRR) refers to the minimum percentage of a bank's net demand and time liabilities that must be kept as:",
+          "options": ["Gold and silver with the bank", "Government securities in the bank's vault", "Cash with the Reserve Bank of India", "Loans to priority sector borrowers"],
+          "correctIndex": 2,
+          "explanation": "CRR is the minimum percentage of a commercial bank's net demand and time liabilities (NDTL) that it must maintain as cash with the Reserve Bank of India. It is an important quantitative monetary policy tool — when RBI raises CRR, banks have less funds to lend, reducing money supply and controlling inflation. Banks earn no interest on CRR balances. The current CRR is set by the RBI Monetary Policy Committee and is typically around 4%."
+        },
+        {
+          "id": "q2",
+          "question": "SEBI (Securities and Exchange Board of India) was established as a statutory body in which year?",
+          "options": ["1988", "1990", "1992", "1996"],
+          "correctIndex": 2,
+          "explanation": "SEBI was initially set up as a non-statutory body in 1988. It was given statutory powers through the SEBI Act, 1992, and became a statutory regulator with quasi-legislative, quasi-executive, and quasi-judicial powers. SEBI's mandate is to protect the interests of investors in securities, promote the development of the securities market, and regulate it. Its headquarters is in Mumbai."
+        },
+        {
+          "id": "q3",
+          "question": "The Repo Rate is the rate at which:",
+          "options": ["Commercial banks lend to each other overnight", "RBI lends to commercial banks against collateral", "Commercial banks accept deposits from the public", "RBI borrows from commercial banks"],
+          "correctIndex": 1,
+          "explanation": "The Repo Rate (Repurchase Rate) is the rate at which the Reserve Bank of India lends money to commercial banks for short durations (usually overnight) against government securities as collateral. It is the key policy rate used by the RBI Monetary Policy Committee (MPC) to control inflation and liquidity. A reduction in Repo Rate makes borrowing cheaper, stimulating economic activity. The reverse repo rate (lower than repo) is the rate at which RBI borrows from banks."
+        },
+        {
+          "id": "q4",
+          "question": "In which year were 14 major commercial banks nationalised in India?",
+          "options": ["1955", "1969", "1980", "1991"],
+          "correctIndex": 1,
+          "explanation": "On July 19, 1969, Prime Minister Indira Gandhi announced the nationalisation of 14 major commercial banks (each with deposits over Rs. 50 crore) through an ordinance. This was done to extend banking to rural areas, priority sectors, and the common man. A second round of nationalisation of 6 more banks occurred in 1980 (banks with deposits over Rs. 200 crore). The State Bank of India was nationalised earlier, in 1955."
+        },
+        {
+          "id": "q5",
+          "question": "M3 (Broad Money) in India is defined as:",
+          "options": ["Currency in circulation + Cash reserves of banks", "Currency + Demand deposits with banks", "M1 + Time deposits with banks", "M2 + Foreign currency deposits"],
+          "correctIndex": 2,
+          "explanation": "M3 (Broad Money) = M1 (Narrow Money: Currency with public + Demand Deposits with banks + Other deposits with RBI) + Time Deposits with banks. M3 is the broadest measure of money supply in India and is used as the monetary target by the RBI. M0 is the monetary base (Reserve Money), M1 is narrow money, M2 = M1 + Savings deposits of post offices, and M3 is the most commonly used measure for policy purposes."
+        }
+      ]
+    },
+    {
+      "id": "agriculture_in_india",
+      "title": "Agriculture in India",
+      "notes": "Agriculture is the backbone of the Indian economy, contributing about 17–18% of GDP and employing approximately 42–45% of the workforce. India is the world's largest producer of milk, pulses, spices, and jute, and one of the top producers of wheat, rice, sugarcane, and cotton. The Green Revolution (mid-1960s), led by agricultural scientist M.S. Swaminathan in India and Norman Borlaug internationally, transformed India from a food-deficit to a food-surplus nation through the introduction of High Yielding Varieties (HYV) of wheat and rice, increased use of fertilizers, pesticides, and irrigation. It was most successful in Punjab, Haryana, and western Uttar Pradesh.\n\nLand tenure reforms after independence included: Zamindari Abolition (abolition of the intermediary system between the state and cultivators), Tenancy Reform (providing security of tenure and regulating rents for tenant farmers), and Land Ceiling Acts (fixing maximum landholding limits to redistribute surplus land to landless poor). Despite these reforms, land distribution remains skewed. The average farm size in India is very small (about 1.08 hectares in 2015–16) and has been declining due to fragmentation.\n\nCrop seasons in India: Kharif crops are sown at the beginning of the southwest monsoon (June–July) and harvested in September–October. Major Kharif crops include rice, maize, cotton, groundnut, jowar, bajra, and sugarcane. Rabi crops are sown in winter (October–December) and harvested in spring (March–April). Major Rabi crops include wheat, barley, mustard, peas, and gram. Zaid crops are grown between Rabi and Kharif seasons (March–June) using irrigation — vegetables, fruits, watermelon, etc.\n\nGovernment support to agriculture: Minimum Support Price (MSP) — the government announces MSPs for about 23 crops to protect farmers from distress selling; Procurement agencies like FCI (Food Corporation of India) buy at MSP. The PM-KISAN scheme provides direct income support of Rs. 6,000 per year to farmer families. The Pradhan Mantri Fasal Bima Yojana (PMFBY) provides crop insurance. The National Agriculture Market (e-NAM) is an online trading platform integrating APMCs (Agricultural Produce Market Committees). The Soil Health Card scheme provides farmers with information about soil nutrient status and fertilizer recommendations.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Green Revolution in India was primarily associated with increasing the production of which crops?",
+          "options": ["Cotton and Jute", "Wheat and Rice", "Pulses and Oilseeds", "Sugarcane and Tea"],
+          "correctIndex": 1,
+          "explanation": "The Green Revolution (1960s–70s) in India primarily focused on wheat and rice production through High Yielding Variety (HYV) seeds developed by Norman Borlaug (wheat: Mexican varieties like Lerma Rojo and Sonora) and M.S. Swaminathan in India. India's wheat production increased from 11 million tonnes (1960) to 17 million tonnes (1968). The revolution was most successful in Punjab, Haryana, and western UP, making India food self-sufficient."
+        },
+        {
+          "id": "q2",
+          "question": "Which of the following is a Kharif crop?",
+          "options": ["Wheat", "Barley", "Mustard", "Cotton"],
+          "correctIndex": 3,
+          "explanation": "Cotton is a Kharif crop — sown at the beginning of the southwest monsoon (June–July) and harvested in October–December. Other Kharif crops include rice, maize, jowar, bajra, groundnut, jute, and sugarcane. Wheat, barley, and mustard are Rabi crops — sown in October–December (after the monsoon) and harvested in March–April. India is the world's largest producer of cotton and a leading exporter."
+        },
+        {
+          "id": "q3",
+          "question": "The Minimum Support Price (MSP) in India is recommended by which body?",
+          "options": ["Reserve Bank of India (RBI)", "NITI Aayog", "Commission for Agricultural Costs and Prices (CACP)", "Agricultural and Processed Food Products Export Development Authority (APEDA)"],
+          "correctIndex": 2,
+          "explanation": "The Commission for Agricultural Costs and Prices (CACP), established in 1965, is a statutory body that recommends MSPs for about 23 major agricultural commodities to the government. The CACP takes into account factors like cost of production, demand-supply dynamics, domestic and international prices, price parity between agricultural and non-agricultural commodities, and the terms of trade. The Union Cabinet approves the MSPs."
+        },
+        {
+          "id": "q4",
+          "question": "The e-NAM (National Agriculture Market) is designed to:",
+          "options": ["Provide crop insurance to farmers", "Create an online platform integrating APMCs across India", "Distribute subsidized fertilizers to farmers", "Provide direct income support to farmers"],
+          "correctIndex": 1,
+          "explanation": "e-NAM (National Agriculture Market) is a pan-India electronic trading portal launched in April 2016 that networks existing Agricultural Produce Market Committee (APMC) mandis to create a unified national market for agricultural commodities. It allows farmers to sell their produce online, improving price discovery and transparency, reducing middlemen, and providing better market access. As of 2024, it covers over 1,000 mandis across multiple states."
+        },
+        {
+          "id": "q5",
+          "question": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is related to:",
+          "options": ["Providing loans to farmers at subsidized rates", "Insurance coverage for agricultural crops", "Providing direct income support to farmer families", "Establishing Farmer Producer Organizations"],
+          "correctIndex": 1,
+          "explanation": "The Pradhan Mantri Fasal Bima Yojana (PMFBY), launched in 2016, is a crop insurance scheme that provides financial support to farmers suffering crop loss due to unforeseen events like natural calamities, pests, and diseases. Premium rates are low (2% for Kharif, 1.5% for Rabi food crops, 5% for annual commercial/horticultural crops), with the government bearing the remaining premium cost. PM-KISAN provides direct income support; Kisan Credit Card provides credit."
+        }
+      ]
+    },
+    {
+      "id": "economic_reforms_liberalisation",
+      "title": "Economic Reforms & Liberalisation",
+      "notes": "India's Economic Reforms of 1991 were triggered by a severe balance of payments crisis — India's foreign exchange reserves fell to about USD 1 billion (barely 3 weeks of imports), and India had to pledge 67 tonnes of gold with the Bank of England and Bank of Japan to avoid defaulting on its international payments. Under Prime Minister P.V. Narasimha Rao and Finance Minister Dr. Manmohan Singh, India undertook structural adjustment with IMF/World Bank support, initiating the LPG (Liberalisation, Privatisation, Globalisation) reforms.\n\nLiberalisation involved dismantling the 'License Raj' — reducing government control over private sector decisions. Key measures included: abolition of industrial licensing (except for a few sensitive sectors), reduction of import duties and removal of quantitative restrictions, current account convertibility (allowing free exchange for trade purposes under FEMA 1999, replacing FERA), deregulation of interest rates, and opening up sectors previously reserved for the public sector. Privatisation involved disinvestment of public sector enterprises (PSEs) — reducing the government's stake — though outright privatisation remained limited. The Disinvestment Commission was set up in 1996.\n\nGlobalisation led to India's integration with the world economy through increasing trade, FDI (Foreign Direct Investment), FII (Foreign Institutional Investment, now called FPI — Foreign Portfolio Investment), and technology transfer. India joined the World Trade Organization (WTO) as a founding member on January 1, 1995. Major economic institutions: IMF (provides financial assistance, promotes international monetary cooperation), World Bank (provides development loans for infrastructure, poverty reduction), WTO (governs international trade rules, ministerial conferences), and ADB (Asian Development Bank, headquartered in Manila, Philippines).\n\nPost-1991 key reforms include: SEBI strengthening, FEMA 1999, VAT introduction (replaced Sales Tax), GST (Goods and Services Tax) implementation in July 2017 (the biggest indirect tax reform, 'One Nation One Tax' replacing multiple indirect taxes), Insolvency and Bankruptcy Code (IBC) 2016, demonetisation (November 2016 — withdrawal of Rs. 500 and Rs. 1000 notes), JAM Trinity (Jan Dhan-Aadhaar-Mobile for direct benefit transfer), UDAY (UJWAL Discom Assurance Yojana for power sector reforms), and the Production Linked Incentive (PLI) scheme to boost domestic manufacturing.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The 1991 economic reforms in India were primarily triggered by:",
+          "options": ["High inflation and unemployment", "A foreign exchange crisis with reserves barely covering 3 weeks of imports", "Excessive government borrowing causing hyperinflation", "Failure of the Green Revolution"],
+          "correctIndex": 1,
+          "explanation": "India's 1991 crisis was primarily a balance of payments crisis. Foreign exchange reserves depleted to about USD 1 billion (barely 2–3 weeks of import cover), and India had to pledge 67 tonnes of gold to avoid sovereign default. The crisis was caused by fiscal profligacy, oil price shock of 1990 (Gulf War), reduced remittances, and loss of confidence. This forced India to seek IMF assistance and undertake structural reforms under Finance Minister Manmohan Singh."
+        },
+        {
+          "id": "q2",
+          "question": "The Goods and Services Tax (GST) was implemented in India on:",
+          "options": ["April 1, 2016", "January 1, 2017", "July 1, 2017", "October 1, 2017"],
+          "correctIndex": 2,
+          "explanation": "India's GST (Goods and Services Tax) was launched on July 1, 2017, by President Pranab Mukherjee and Prime Minister Narendra Modi at a special midnight session of Parliament. GST is a comprehensive indirect tax that replaced around 17 central and state taxes and 23 cesses including Central Excise, Service Tax, VAT, and CST. It is a destination-based, multi-stage tax with four main slabs: 5%, 12%, 18%, and 28%."
+        },
+        {
+          "id": "q3",
+          "question": "India became a founding member of the World Trade Organization (WTO) in which year?",
+          "options": ["1991", "1993", "1995", "1999"],
+          "correctIndex": 2,
+          "explanation": "India became a founding member of the World Trade Organization (WTO) when it came into existence on January 1, 1995, replacing the General Agreement on Tariffs and Trade (GATT, established 1947). India had been a contracting party to GATT since 1948. The WTO administers trade agreements, provides a forum for trade negotiations, handles trade disputes (Dispute Settlement Body), and monitors national trade policies."
+        },
+        {
+          "id": "q4",
+          "question": "The 'JAM Trinity' in the context of India's economic reform refers to:",
+          "options": ["Japan-Australia-Malaysia trade agreement", "Jute-Agriculture-Manufacturing sector reforms", "Jan Dhan-Aadhaar-Mobile for direct benefit transfer", "Joint Agriculture Markets for farmers"],
+          "correctIndex": 2,
+          "explanation": "The JAM Trinity refers to the convergence of Jan Dhan Yojana (PMJDY — universal banking), Aadhaar (biometric unique identification), and Mobile telephony to enable direct benefit transfers (DBT) to beneficiaries, eliminating middlemen and leakages. The concept was highlighted in the Economic Survey 2015. It has been used for direct transfer of LPG subsidies (PAHAL), scholarships, MGNREGA wages, and other welfare schemes."
+        },
+        {
+          "id": "q5",
+          "question": "The Insolvency and Bankruptcy Code (IBC), 2016 primarily aims to:",
+          "options": ["Provide financial assistance to bankrupt individuals", "Create a time-bound resolution mechanism for insolvency and bankruptcy cases", "Regulate foreign direct investment in India", "Provide insurance to depositors of failed banks"],
+          "correctIndex": 1,
+          "explanation": "The Insolvency and Bankruptcy Code (IBC), 2016 was enacted to create a unified, time-bound framework for resolving insolvency cases involving companies, partnerships, and individuals. Before the IBC, India had multiple overlapping laws and courts for resolving defaults, making the process slow and inefficient. The IBC sets a 330-day timeline for resolution, with the National Company Law Tribunal (NCLT) as the adjudicating authority. It has significantly improved India's ranking in the 'Ease of Doing Business' index."
+        }
+      ]
+    }
+  ]
+}

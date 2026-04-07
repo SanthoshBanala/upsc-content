@@ -1,0 +1,215 @@
+{
+  "subjectId": "polity",
+  "topics": [
+    {
+      "id": "constitution_of_india_overview",
+      "title": "Constitution of India — Overview",
+      "notes": "The Constitution of India is the supreme law of the land, adopted by the Constituent Assembly on November 26, 1949, and it came into force on January 26, 1950 (celebrated as Republic Day). The Constituent Assembly was set up in 1946 under the Cabinet Mission Plan and held its first session on December 9, 1946. Dr. Rajendra Prasad was the President of the Constituent Assembly, while Dr. B.R. Ambedkar chaired the Drafting Committee and is widely regarded as the 'Father of the Indian Constitution'. It took 2 years, 11 months, and 18 days to draft the Constitution.\n\nThe original Constitution had a Preamble, 395 Articles in 22 Parts, and 8 Schedules. After decades of amendments (106 amendments as of 2023), the Constitution now has about 470 Articles and 12 Schedules. India has the world's longest written constitution for a sovereign nation. The Constitution was heavily influenced by the Government of India Act 1935 (the single biggest source), as well as constitutions of the USA (judicial review, fundamental rights), UK (parliamentary government, rule of law), Ireland (Directive Principles), Canada (federal structure), Australia (concurrent list), and USSR/Russia (Fundamental Duties, five-year plans).\n\nThe Preamble describes the nature of the Indian state and the objectives of the Constitution. The 42nd Amendment (1976) added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble. The Preamble declares India to be a Sovereign, Socialist, Secular, Democratic, Republic with the objectives of securing Justice (social, economic, political), Liberty (of thought, expression, belief, faith, worship), Equality (of status and opportunity), and Fraternity (assuring dignity of individual and unity and integrity of the nation).\n\nThe Constitution establishes India as a federal state with a strong unitary bias — the term 'federation' is not used; it is called a 'Union of States'. The unitary features include: a single Constitution, single citizenship, all-India services, strong Centre (residuary powers with the Centre, Articles 356 and 360), integrated judiciary, and the Governor's appointment by the President. Federal features include: division of powers (Union List, State List, Concurrent List), dual government, and independent judiciary.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Constitution of India was adopted by the Constituent Assembly on:",
+          "options": ["January 26, 1950", "August 15, 1947", "November 26, 1949", "December 9, 1946"],
+          "correctIndex": 2,
+          "explanation": "The Constitution of India was adopted by the Constituent Assembly on November 26, 1949 — celebrated as Constitution Day (Samvidhan Diwas). It came into force on January 26, 1950 — the date chosen to commemorate the Purna Swaraj (Complete Independence) Declaration of January 26, 1930. November 26 is also celebrated as National Law Day."
+        },
+        {
+          "id": "q2",
+          "question": "Which single act or document was the most important source for the Constitution of India?",
+          "options": ["United States Constitution", "British Parliamentary Acts", "Government of India Act, 1935", "Irish Constitution"],
+          "correctIndex": 2,
+          "explanation": "The Government of India Act, 1935 was the single most important source for the Indian Constitution, providing the blueprint for federal structure, parliamentary system, emergency provisions, public service commissions, and the judiciary. Many of its provisions were incorporated almost verbatim. Dr. Ambedkar himself noted that the Constitution of India was largely based on this Act, though with significant modifications to better suit Indian conditions."
+        },
+        {
+          "id": "q3",
+          "question": "The words 'Socialist', 'Secular', and 'Integrity' were added to the Preamble of the Constitution by which Amendment?",
+          "options": ["24th Amendment, 1971", "42nd Amendment, 1976", "44th Amendment, 1978", "86th Amendment, 2002"],
+          "correctIndex": 1,
+          "explanation": "The 42nd Constitutional Amendment Act, 1976 (often called the 'Mini Constitution' due to the large number of changes it made) added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble. This was done during the Emergency period under Prime Minister Indira Gandhi. The 44th Amendment (1978) reversed many other changes made by the 42nd Amendment but did not change the Preamble."
+        },
+        {
+          "id": "q4",
+          "question": "The concept of 'Directive Principles of State Policy' in the Indian Constitution was borrowed from which country's constitution?",
+          "options": ["USA", "UK", "Ireland", "Canada"],
+          "correctIndex": 2,
+          "explanation": "The Directive Principles of State Policy (Part IV, Articles 36–51) were borrowed from the Irish Constitution of 1937, which itself drew inspiration from the Spanish Constitution. The DPSP are non-justiciable guidelines for the state in making laws and policies for social and economic welfare. The concept of judicial review and Fundamental Rights comes from the USA, parliamentary government from the UK, and the Concurrent List from Australia."
+        },
+        {
+          "id": "q5",
+          "question": "How many schedules does the original Constitution of India contain?",
+          "options": ["8", "10", "12", "14"],
+          "correctIndex": 0,
+          "explanation": "The original Constitution of India had 8 Schedules. Over the years, four more schedules have been added through amendments (the 9th Schedule by the 1st Amendment 1951, the 10th by the 52nd Amendment 1985, the 11th by the 73rd Amendment 1992 for Panchayats, and the 12th by the 74th Amendment 1992 for Municipalities). The Constitution now has 12 Schedules in total."
+        }
+      ]
+    },
+    {
+      "id": "fundamental_rights",
+      "title": "Fundamental Rights",
+      "notes": "Fundamental Rights are enshrined in Part III (Articles 12–35) of the Indian Constitution. They are justiciable rights — enforceable by courts — and are available primarily to citizens, with some available to all persons (including foreigners). The concept was borrowed from the US Bill of Rights. Originally there were 7 Fundamental Rights; the Right to Property (Article 31) was removed from Part III by the 44th Amendment (1978) and made a legal right under Article 300A. The six remaining Fundamental Rights are: Right to Equality (Articles 14–18), Right to Freedom (Articles 19–22), Right against Exploitation (Articles 23–24), Right to Freedom of Religion (Articles 25–28), Cultural and Educational Rights (Articles 29–30), and Right to Constitutional Remedies (Article 32).\n\nThe Right to Equality includes: equality before law and equal protection of laws (Article 14), prohibition of discrimination on grounds of religion, race, caste, sex, or place of birth (Article 15), equality of opportunity in public employment (Article 16), abolition of untouchability (Article 17), and abolition of titles (Article 18). The Right to Freedom under Article 19 originally protected 7 freedoms (of speech, assembly, association, movement, residence, profession, and property); the freedom of property was removed by the 44th Amendment, leaving 6 freedoms.\n\nThe Right to Freedom of Religion (Articles 25–28) guarantees freedom of conscience and the right to freely profess, practice, and propagate religion. However, this right is subject to public order, morality, and health. The state is not prohibited from regulating secular activities associated with religious practice. Article 25(2)(b) permits the state to provide for social welfare and reform or for throwing open Hindu religious institutions of public character to all classes of Hindus (including Sikhs, Jains, and Buddhists who are deemed to be Hindus for this purpose).\n\nArticle 32, which provides the right to move the Supreme Court for enforcement of Fundamental Rights, is itself a Fundamental Right. Dr. Ambedkar called it the 'heart and soul of the Constitution'. The Supreme Court can issue five writs: Habeas Corpus (to produce the body — against illegal detention), Mandamus (command to perform public duty), Prohibition (to prohibit inferior courts from exceeding jurisdiction), Certiorari (to quash orders of inferior tribunals), and Quo Warranto (to challenge a person's claim to a public office). High Courts can also issue these writs under Article 226 for both Fundamental Rights and other legal rights.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which Fundamental Right is described by Dr. Ambedkar as the 'heart and soul of the Constitution'?",
+          "options": ["Right to Equality (Article 14)", "Right to Freedom of Speech (Article 19)", "Right to Constitutional Remedies (Article 32)", "Right to Life (Article 21)"],
+          "correctIndex": 2,
+          "explanation": "Dr. B.R. Ambedkar called the Right to Constitutional Remedies (Article 32) the 'heart and soul of the Constitution'. Article 32 guarantees the right to move the Supreme Court for the enforcement of Fundamental Rights. It makes Fundamental Rights meaningful and effective by providing a remedy for their violation. Without it, all other rights would be hollow. The Supreme Court itself is the guardian of Fundamental Rights."
+        },
+        {
+          "id": "q2",
+          "question": "The writ of 'Habeas Corpus' is issued to:",
+          "options": ["Command a public authority to perform its legal duty", "Quash the order of an inferior court or tribunal", "Produce an illegally detained person before the court", "Challenge a person's claim to a public office"],
+          "correctIndex": 2,
+          "explanation": "Habeas Corpus (Latin: 'you shall have the body') is a writ that commands a person detaining another to produce the detained person before the court, along with the reasons for detention. If detention is found unlawful, the court orders immediate release. It is the most important writ for protection of individual liberty and is available even against the executive. Mandamus commands performance of duty; Quo Warranto challenges public office."
+        },
+        {
+          "id": "q3",
+          "question": "Which article of the Indian Constitution abolishes untouchability?",
+          "options": ["Article 14", "Article 15", "Article 17", "Article 21"],
+          "correctIndex": 2,
+          "explanation": "Article 17 of the Indian Constitution abolishes untouchability in any form and makes its practice a punishable offence. The Protection of Civil Rights Act, 1955 (originally the Untouchability (Offences) Act, 1955) and the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 give legal teeth to this constitutional provision. Untouchability is not just made illegal between individuals but in any form, including in religious institutions."
+        },
+        {
+          "id": "q4",
+          "question": "The Right to Property was removed from the list of Fundamental Rights by which Constitutional Amendment?",
+          "options": ["42nd Amendment, 1976", "44th Amendment, 1978", "25th Amendment, 1971", "1st Amendment, 1951"],
+          "correctIndex": 1,
+          "explanation": "The 44th Constitutional Amendment Act, 1978 (under the Janata Party government led by Morarji Desai) removed the Right to Property from the list of Fundamental Rights (deleting Articles 19(1)(f) and 31) and made it a mere legal right under Article 300A, which states that no person shall be deprived of their property save by authority of law. This also removed the right from the protected category against constitutional amendments."
+        },
+        {
+          "id": "q5",
+          "question": "Under Article 19(1), Indian citizens originally had how many freedoms guaranteed?",
+          "options": ["5", "6", "7", "8"],
+          "correctIndex": 2,
+          "explanation": "Originally, Article 19(1) guaranteed 7 freedoms to Indian citizens: freedom of speech and expression, peaceful assembly without arms, forming associations or unions, free movement throughout the territory of India, residing and settling in any part of India, practising any profession or occupation, and the right to acquire, hold, and dispose of property. The 44th Amendment (1978) removed the freedom to acquire, hold, and dispose of property (Article 19(1)(f)), reducing the freedoms to 6."
+        }
+      ]
+    },
+    {
+      "id": "directive_principles_state_policy",
+      "title": "Directive Principles of State Policy",
+      "notes": "The Directive Principles of State Policy (DPSP) are contained in Part IV (Articles 36–51) of the Indian Constitution. They represent the socio-economic goals that the state should strive to achieve through its laws and policies. Unlike Fundamental Rights, DPSPs are non-justiciable — they cannot be enforced through courts. However, they are fundamental in the governance of the country and it is the duty of the state to apply them in making laws (Article 37). They were borrowed from the Irish Constitution of 1937.\n\nThe DPSPs can be classified into three categories based on their ideology: Socialistic DPSPs (Articles 38, 39, 39A, 41, 42, 43, 43A, 47) — promote social and economic welfare; Gandhian DPSPs (Articles 40, 43, 43B, 46, 47, 48) — reflect the principles of Mahatma Gandhi, including organization of village panchayats, promotion of cottage industries, prohibition of cow slaughter, and upliftment of weaker sections; and Liberal-Intellectual DPSPs (Articles 44, 45, 48A, 49, 50, 51) — reflect the ideology of liberalism, including Uniform Civil Code, free and compulsory education, protection of environment, separation of judiciary from executive, and promotion of international peace.\n\nArticle 44 directs the state to secure a Uniform Civil Code (UCC) for citizens throughout India — a highly debated provision relating to common personal laws irrespective of religion. Article 45 originally directed free and compulsory education for children up to 14 years; after the 86th Amendment (2002), this was made a Fundamental Right under Article 21A (Right to Education), and Article 45 was modified to provide early childhood care and education to children below 6 years. Article 48A (added by 42nd Amendment) directs protection and improvement of the environment and safeguarding of forests and wildlife.\n\nThe relationship between Fundamental Rights and DPSP has been a matter of judicial interpretation. Initially, the Supreme Court held that Fundamental Rights prevailed over DPSP (State of Madras v. Champakam Dorairajan, 1951). Parliament responded with the 1st Amendment (1951) adding the 9th Schedule. In Minerva Mills case (1980), the Supreme Court held that Fundamental Rights and DPSP are complementary and supplementary to each other, and that harmony between them must be maintained. The Basic Structure doctrine (Kesavananda Bharati, 1973) also limited Parliament's power to amend Fundamental Rights to implement DPSP.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which of the following is NOT a feature of Directive Principles of State Policy?",
+          "options": ["They are non-justiciable", "They are borrowed from the Irish Constitution", "They can be enforced in courts of law", "They are fundamental in governance of the country"],
+          "correctIndex": 2,
+          "explanation": "Directive Principles of State Policy (DPSPs) are non-justiciable — they CANNOT be enforced in courts. Article 37 states that while DPSPs shall not be enforceable by any court, they are fundamental to governance and it shall be the duty of the state to apply them in making laws. This distinguishes them from Fundamental Rights, which are justiciable and can be enforced through the Supreme Court (Article 32) or High Courts (Article 226)."
+        },
+        {
+          "id": "q2",
+          "question": "Article 44 of the Indian Constitution directs the state to secure:",
+          "options": ["Free legal aid to poor", "Equal pay for equal work", "A Uniform Civil Code for citizens", "Living wage for workers"],
+          "correctIndex": 2,
+          "explanation": "Article 44 directs the state to endeavour to secure for citizens a Uniform Civil Code (UCC) throughout the territory of India. UCC means a common set of civil laws (governing marriage, divorce, inheritance, adoption) applicable to all citizens irrespective of religion. It replaces personal laws based on religious scriptures. This remains one of the most controversial DPSPs, with debates about balancing secularism and minority rights."
+        },
+        {
+          "id": "q3",
+          "question": "Which Amendment to the Indian Constitution added Article 21A (Right to Education as a Fundamental Right)?",
+          "options": ["73rd Amendment, 1992", "86th Amendment, 2002", "93rd Amendment, 2005", "44th Amendment, 1978"],
+          "correctIndex": 1,
+          "explanation": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making free and compulsory education for children between 6 and 14 years of age a Fundamental Right. This was followed by the Right to Education (RTE) Act, 2009, which gave effect to this constitutional provision. The same amendment also modified the DPSP under Article 45 to focus on early childhood care for children below 6 years."
+        },
+        {
+          "id": "q4",
+          "question": "The Gandhian Directive Principle that relates to the organization of village panchayats is covered under:",
+          "options": ["Article 38", "Article 40", "Article 43", "Article 46"],
+          "correctIndex": 1,
+          "explanation": "Article 40 directs the state to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government. This is a Gandhian DPSP reflecting Gandhi's vision of Gram Swaraj (village self-governance). This principle was given constitutional status through the 73rd Amendment Act (1992), which added the 11th Schedule and made Panchayati Raj institutions constitutional bodies."
+        },
+        {
+          "id": "q5",
+          "question": "In the landmark Minerva Mills case (1980), the Supreme Court held that:",
+          "options": ["Fundamental Rights are absolute and cannot be restricted", "DPSP are superior to Fundamental Rights", "Fundamental Rights and DPSP are complementary to each other", "Parliament cannot amend Part III of the Constitution"],
+          "correctIndex": 2,
+          "explanation": "In Minerva Mills Ltd. v. Union of India (1980), the Supreme Court held that the Constitution is founded on a balance between Fundamental Rights (Part III) and DPSP (Part IV) — they are complementary and supplementary to each other, and neither can be given absolute priority over the other. The Court also struck down Clauses 4 and 5 of the 42nd Amendment, which had tried to give DPSP absolute supremacy over Fundamental Rights, as violating the Basic Structure of the Constitution."
+        }
+      ]
+    },
+    {
+      "id": "parliament_of_india",
+      "title": "Parliament of India",
+      "notes": "The Parliament of India consists of the President, the Rajya Sabha (Council of States), and the Lok Sabha (House of the People). The President, though not a member of Parliament, is an integral part of the parliamentary system and must give assent to bills. The Rajya Sabha is the upper house — a permanent body that cannot be dissolved. It has a maximum strength of 250 members (238 elected by state legislatures + 12 nominated by the President for their expertise in literature, science, art, and social service). The Rajya Sabha is chaired by the Vice-President of India who is its ex-officio Chairman.\n\nThe Lok Sabha is the lower house and represents the people directly. It has a maximum strength of 552 members (530 from states + 20 from Union Territories + 2 Anglo-Indians nominated by the President, though the 104th Amendment 2019 removed Anglo-Indian nominations). The Speaker of the Lok Sabha presides over its sessions. The normal term of Lok Sabha is 5 years, but it can be dissolved earlier by the President on the advice of the Prime Minister. During a national emergency, its term can be extended by Parliament by one year at a time.\n\nLegislative functions: Most bills can be introduced in either house, but Money Bills (Article 110) can only be introduced in the Lok Sabha. If the Rajya Sabha disagrees with a Money Bill, the Lok Sabha's version prevails. For ordinary bills, if there is disagreement between the two houses, a joint sitting of both houses is convened (chaired by the Speaker of Lok Sabha). Joint sittings have been held only three times in India's history: Dowry Prohibition Bill (1961), Banking Service Commission (Repeal) Bill (1978), and Prevention of Terrorism Act (POTA) Bill (2002).\n\nParliament exercises control over the executive through various mechanisms: Question Hour (the first hour of every parliamentary sitting for asking questions to ministers), Zero Hour (informal device, questions raised by members without prior notice, begins at 12 noon), Adjournment Motion (draws attention to a definite matter of urgent public importance), Censure Motion (criticizes a specific minister), No-Confidence Motion (against the entire council of ministers — if passed, government must resign), and the Annual Financial Statement (Budget).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "A Money Bill can be introduced only in the:",
+          "options": ["Rajya Sabha", "Lok Sabha", "Either House", "A Joint Sitting of both Houses"],
+          "correctIndex": 1,
+          "explanation": "Under Article 110 read with Article 109, a Money Bill can only be introduced in the Lok Sabha on the recommendation of the President. After the Lok Sabha passes it, it is transmitted to the Rajya Sabha which has only 14 days to return it with recommendations. The Lok Sabha may accept or reject these recommendations. If not returned within 14 days, the bill is deemed to have been passed by both Houses. The Speaker certifies whether a bill is a Money Bill."
+        },
+        {
+          "id": "q2",
+          "question": "The Rajya Sabha is a permanent body because:",
+          "options": ["All its members have permanent tenure", "It cannot be dissolved — one-third of its members retire every two years", "The Vice-President chairs it permanently", "It has been given this status by the Supreme Court"],
+          "correctIndex": 1,
+          "explanation": "The Rajya Sabha is a permanent body because it is not subject to dissolution. Its members serve six-year terms, but one-third of them retire every two years. This ensures continuity — there is always a functioning Rajya Sabha. This is in contrast to the Lok Sabha, which has a five-year term and can be dissolved by the President. The Rajya Sabha ensures that federal units (states) are continuously represented at the national level."
+        },
+        {
+          "id": "q3",
+          "question": "The joint sitting of both Houses of Parliament, convened when there is disagreement on a bill, is presided over by the:",
+          "options": ["President of India", "Vice-President of India", "Speaker of Lok Sabha", "Prime Minister of India"],
+          "correctIndex": 2,
+          "explanation": "A joint sitting of both Houses of Parliament (Article 108) is presided over by the Speaker of the Lok Sabha. The Deputy Speaker presides in the absence of the Speaker. A joint sitting is convened by the President when: a bill is rejected by the other house, the houses disagree on amendments, or six months pass without the other house passing the bill. However, Money Bills and Constitutional Amendment Bills cannot be passed at joint sittings."
+        },
+        {
+          "id": "q4",
+          "question": "Zero Hour in the Indian Parliament refers to:",
+          "options": ["The first hour of every parliamentary session devoted to questions", "The time when the Parliament building is closed at midnight", "An informal device allowing members to raise matters without prior notice", "The time allocated for Private Member's Bills"],
+          "correctIndex": 2,
+          "explanation": "Zero Hour is an informal parliamentary convention (not mentioned in the Rules of Procedure) that begins at 12 noon — when the Question Hour ends (hence the name 'Zero' being the hour after 12). During Zero Hour, members can raise any matter of urgent public importance without prior notice to the Chair or the Government. It is a peculiarly Indian innovation that allows Parliament to discuss matters not on the day's agenda."
+        },
+        {
+          "id": "q5",
+          "question": "The maximum strength of the Rajya Sabha as provided by the Constitution is:",
+          "options": ["238 members", "250 members", "245 members", "260 members"],
+          "correctIndex": 1,
+          "explanation": "Article 80 of the Constitution provides that the Rajya Sabha shall consist of not more than 250 members — 238 representatives of states and union territories (elected by their respective legislatures using single transferable vote with proportional representation) and 12 members nominated by the President for their expertise in literature, science, art, and social service. Currently, the Rajya Sabha has 245 members (233 elected + 12 nominated)."
+        }
+      ]
+    },
+    {
+      "id": "judiciary_supreme_court",
+      "title": "Judiciary & Supreme Court",
+      "notes": "The Supreme Court of India, established on January 28, 1950, is the apex court and the final interpreter of the Constitution. It is located at Tilak Marg, New Delhi. The Supreme Court consists of the Chief Justice of India (CJI) and up to 33 other judges (increased from 31 by the Supreme Court (Number of Judges) Amendment Act, 2019). Judges are appointed by the President of India under the collegium system (after the three Judges Cases — 1982, 1993, 1998). The collegium consists of the CJI and the four most senior judges of the Supreme Court.\n\nThe Supreme Court has three types of jurisdiction: Original Jurisdiction (Article 131) — hearing disputes between the Centre and states or between states; Appellate Jurisdiction (Articles 132–136) — hearing appeals from High Courts and other courts; and Advisory Jurisdiction (Article 143) — the President can refer questions of law or fact of public importance to the Supreme Court for its opinion. The Supreme Court also has Writ Jurisdiction (Article 32) for enforcement of Fundamental Rights.\n\nThe doctrine of Judicial Review empowers the Supreme Court to examine the constitutional validity of legislative and executive actions. If found inconsistent with the Constitution, they can be declared null and void. The Supreme Court in the landmark Kesavananda Bharati v. State of Kerala (1973) propounded the 'Basic Structure' doctrine — Parliament cannot amend the basic structure of the Constitution. The basic features include supremacy of Constitution, rule of law, judicial review, federalism, secularism, democratic republic, parliamentary system, separation of powers, free and fair elections, and unity and integrity of India.\n\nPublic Interest Litigation (PIL) is an important innovation of the Indian judiciary — any citizen can approach the Supreme Court (under Article 32) or a High Court (under Article 226) on behalf of the public interest. The concept was developed by Justice P.N. Bhagwati in the 1970s–80s. It has been used extensively for protecting the environment, rights of prisoners and bonded laborers, and checking executive arbitrariness. High Courts are the highest courts in each state, with supervisory jurisdiction over all courts and tribunals within their territorial jurisdiction (Article 227).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The 'Basic Structure' doctrine of the Indian Constitution was propounded in which landmark case?",
+          "options": ["Golaknath v. State of Punjab (1967)", "Kesavananda Bharati v. State of Kerala (1973)", "Minerva Mills Ltd. v. Union of India (1980)", "Maneka Gandhi v. Union of India (1978)"],
+          "correctIndex": 1,
+          "explanation": "The Basic Structure doctrine was propounded by the Supreme Court in Kesavananda Bharati v. State of Kerala (1973) in a 13-judge bench verdict (7:6). The Court held that while Parliament has wide powers to amend the Constitution under Article 368, it cannot alter or destroy its 'basic structure' or 'essential features'. The court listed several features as part of basic structure including supremacy of Constitution, democratic republic, federalism, secular character, and separation of powers."
+        },
+        {
+          "id": "q2",
+          "question": "The 'Collegium System' for appointment of judges to the Supreme Court emerged from which set of cases?",
+          "options": ["Three Judges Cases (1982, 1993, 1998)", "Vishaka Guidelines Case (1997)", "Kesavananda Bharati Case (1973)", "Golaknath Case (1967)"],
+          "correctIndex": 0,
+          "explanation": "The Collegium system for judicial appointments evolved through three Supreme Court judgments: the First Judges Case (S.P. Gupta v. Union of India, 1982) which gave primacy to the executive; the Second Judges Case (Supreme Court Advocates-on-Record Association v. Union of India, 1993) which established that the CJI's opinion is primary; and the Third Judges Case (Presidential Reference, 1998) which expanded the collegium to include the CJI and the four most senior judges."
+        },
+        {
+          "id": "q3",
+          "question": "Under Article 143, the President of India can seek the Supreme Court's opinion on:",
+          "options": ["Constitutional validity of laws only", "Questions of law or fact of public importance", "Appointments to constitutional bodies", "Inter-state water disputes only"],
+          "correctIndex": 1,
+          "explanation": "Article 143 grants advisory jurisdiction to the Supreme Court — the President may refer to it any question of law or fact of public importance for its opinion. The Supreme Court may give or refuse to give its opinion. The opinion is not binding on the President but is of great persuasive value. Notable Advisory Opinions include: Re: Delhi Laws Act (1951), Special Reference No. 1 of 2002 regarding the Ayodhya dispute, and the Ram Janmabhoomi reference."
+        },
+        {
+          "id": "q4",
+          "question": "Public Interest Litigation (PIL) in India is filed under which article in the Supreme Court?",
+          "options": ["Article 19", "Article 21", "Article 32", "Article 226"],
+          "correctIndex": 2,
+          "explanation": "Public Interest Litigation (PIL) at the Supreme Court level is filed under Article 32, which grants the right to move the Supreme Court for enforcement of Fundamental Rights. In High Courts, PIL is filed under Article 226. PIL was developed by Justice P.N. Bhagwati and Justice V.R. Krishna Iyer in the late 1970s–80s to democratize access to justice by allowing any citizen to seek judicial redress for rights violations affecting the public."
+        },
+        {
+          "id": "q5",
+          "question": "A High Court has 'supervisory jurisdiction' over all courts and tribunals in its territorial jurisdiction under which Article?",
+          "options": ["Article 214", "Article 215", "Article 226", "Article 227"],
+          "correctIndex": 3,
+          "explanation": "Article 227 grants High Courts superintendence over all courts and tribunals throughout their territorial jurisdiction. Under this power, a High Court can call for returns, make general rules for court procedures, and prescribe forms for court proceedings. This supervisory power is broader than the writ jurisdiction under Article 226, which is limited to examining legal rights. Article 214 establishes High Courts, Article 215 declares them courts of record."
+        }
+      ]
+    }
+  ]
+}

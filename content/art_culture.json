@@ -1,0 +1,215 @@
+{
+  "subjectId": "art_culture",
+  "topics": [
+    {
+      "id": "temple_architecture_india",
+      "title": "Temple Architecture of India",
+      "notes": "Indian temple architecture evolved over centuries and is broadly divided into three styles: Nagara (North Indian), Dravida (South Indian), and Vesara (a hybrid). The Nagara style, prevalent in northern India, is characterized by a curvilinear tower (Shikhara) over the sanctum sanctorum (Garbhagriha), an entrance hall (Mandapa), and lacks a surrounding wall. Major sub-styles include Odisha style (Lingaraja Temple, Konark Sun Temple), Chandela style (Khajuraho temples), and Solanki/Maru-Gurjara style (Modhera Sun Temple, Dilwara temples in Mount Abu).\n\nThe Dravida (South Indian) style, found in Tamil Nadu and surrounding states, is characterized by a pyramidal tower (Vimana/Gopuram) over the sanctum, large gateway towers (Gopurams — the most prominent feature), and a large compound with multiple enclosures (Prakarams). The tanks (Pushkarinis) inside the temple complex are important. Key examples include: Brihadeeswarar Temple, Thanjavur (built by Rajaraja Chola I, a UNESCO World Heritage Site — the Vimana is 216 feet tall, built entirely of granite without mortar); Meenakshi Amman Temple, Madurai; and Ranganathaswamy Temple, Srirangam (the largest temple complex in India).\n\nThe Vesara style, found in Karnataka and Andhra Pradesh, combines elements of both Nagara and Dravida styles. The Chalukya and Hoysala dynasties were its chief patrons. Hoysala temples (Belur, Halebid, Somnathpur) are known for their star-shaped platforms (Stellate plan), highly intricate lathe-turned sculptures on the outer walls, and the use of schist (soapstone) which allows fine detailed carving. The Chalukyan temples of Pattadakal are a UNESCO World Heritage Site and show both Nagara and Dravida influences in a single complex.\n\nOther important architectural traditions: Buddhist architecture — rock-cut caves (Ajanta, Ellora), Stupas (Sanchi Stupa — the oldest stone structure in India, from the Mauryan period, with elaborate carved Toranas/gateways), and Viharas (monasteries). The Shore Temple at Mahabalipuram (Pallava period) is India's oldest stone structural temple. Rock-cut temples represent a distinct tradition — the Kailasa Temple at Ellora (Cave 16, Rashtrakuta period) is the world's largest monolithic rock-cut temple, carved downward into the rock, not constructed upward.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Brihadeeswarar Temple at Thanjavur, a UNESCO World Heritage Site, was built by which king?",
+          "options": ["Kulottunga Chola I", "Rajendra Chola I", "Rajaraja Chola I", "Vikramaditya VI"],
+          "correctIndex": 2,
+          "explanation": "The Brihadeeswarar (Brihadisvara) Temple at Thanjavur was built by the great Chola Emperor Rajaraja Chola I (985–1014 CE) and was completed around 1010 CE. It is dedicated to Lord Shiva. The Vimana (tower over the sanctum) stands 216 feet tall and is built of granite without the use of mortar — stones are interlocked. The temple is part of the UNESCO World Heritage 'Great Living Chola Temples' group."
+        },
+        {
+          "id": "q2",
+          "question": "The 'Shikhara' in North Indian (Nagara) temple architecture refers to:",
+          "options": ["The inner sanctum where the deity is housed", "The curvilinear tower above the sanctum sanctorum", "The entrance gateway to the temple", "The pillared hall for devotees"],
+          "correctIndex": 1,
+          "explanation": "The Shikhara (meaning 'mountain peak') is the curvilinear tower that rises above the Garbhagriha (inner sanctum/womb-chamber) in the Nagara style of North Indian temple architecture. It symbolizes Mount Meru, the cosmic mountain. The Shikhara is distinct from the Vimana of South Indian temples and the Gopuram (the imposing gateway towers of Dravidian temples). In the Odisha Nagara sub-style, the Shikhara is called a Rekha Deul."
+        },
+        {
+          "id": "q3",
+          "question": "The Kailasa Temple at Ellora (Cave 16) is notable because it is:",
+          "options": ["The oldest Buddhist cave temple in India", "The world's largest monolithic rock-cut temple", "A UNESCO World Heritage Site dedicated to Brahma", "Built using the Dravida architectural style"],
+          "correctIndex": 1,
+          "explanation": "The Kailasa Temple (Cave 16) at Ellora, Maharashtra, is the world's largest monolithic rock-cut temple — it was carved downward into a single basalt cliff face, rather than built upward. Commissioned by the Rashtrakuta king Krishna I (8th century CE), it represents Mount Kailash and is dedicated to Lord Shiva. It is part of the Ellora Caves UNESCO World Heritage Site, which contains 34 caves representing Hindu, Buddhist, and Jain traditions."
+        },
+        {
+          "id": "q4",
+          "question": "The Hoysala temples (Belur, Halebid, Somnathpur) are known for their distinctive architectural feature of:",
+          "options": ["Very tall Gopurams at the entrance", "Star-shaped (stellate) platform plan and intricate sculptural carvings", "Underground sanctums accessible by steep steps", "Use of marble imported from Rajasthan"],
+          "correctIndex": 1,
+          "explanation": "Hoysala temples (12th–14th century CE, Karnataka) are renowned for two distinctive features: a star-shaped (stellate or asterisk) floor plan where the walls zigzag in and out following the star pattern, and extraordinarily intricate sculptural carvings covering every surface of the outer walls. They were built using schist (chloritic schite/soapstone) which softens when freshly quarried, allowing fine detailed carving, and then hardens on exposure to air."
+        },
+        {
+          "id": "q5",
+          "question": "The Sanchi Stupa, considered one of India's oldest stone structures, was originally built by which ruler?",
+          "options": ["Chandragupta Maurya", "Ashoka", "Kanishka", "Samudragupta"],
+          "correctIndex": 1,
+          "explanation": "The Great Stupa at Sanchi (in present-day Madhya Pradesh) was originally built by Emperor Ashoka in the 3rd century BCE as a simple brick stupa. It was enlarged during the Shunga period and received its famous elaborately carved stone gateways (Toranas) during the Satavahana period (1st century BCE). The Sanchi Stupa complex is a UNESCO World Heritage Site and is one of the oldest surviving stone structures in India."
+        }
+      ]
+    },
+    {
+      "id": "classical_dance_forms",
+      "title": "Classical Dance Forms",
+      "notes": "India has eight classical dance forms recognized by the Sangeet Natak Akademi (the national academy for performing arts, established 1952): Bharatanatyam (Tamil Nadu), Kathak (North India), Kathakali (Kerala), Kuchipudi (Andhra Pradesh), Odissi (Odisha), Manipuri (Manipur), Mohiniyattam (Kerala), and Sattriya (Assam). These are based on the principles laid down in the Natyashastra, an ancient treatise on performing arts attributed to Bharata Muni (approximately 2nd century BCE to 2nd century CE). The Natyashastra describes the Navarasas (nine emotions): Shringara (love/beauty), Hasya (humor), Karuna (sorrow), Raudra (fury), Vira (heroism), Bhayanaka (terror), Bibhatsa (disgust), Adbhuta (wonder), and Shanta (peace/serenity).\n\nBharatanatyam is the oldest classical dance, originating in Tamil Nadu, traditionally performed by Devadasis (temple dancers). It has three aspects: Nritta (pure abstract dance), Nritya (expressive dance with abhinaya — expression), and Natya (dance drama). It was systematized by the Tanjore Quartet in the 19th century and was revived in the 20th century by Rukmini Devi Arundale (Kalakshetra) and E. Krishna Iyer. Kathak of North India evolved from temple storytelling (Katha — story) by Kathakas (storytellers), later absorbing Persian/Mughal influences, resulting in emphasis on fast spins (chakkar), intricate footwork, and a courtly aesthetic. Major gharanas: Jaipur, Lucknow (Wajid Ali Shah's court), and Benares.\n\nKathakali is a dance-drama from Kerala characterized by elaborate face makeup (using natural pigments), colourful costumes (Kavacha), the use of Mudras (hand gestures), and pure Nritya. It primarily depicts episodes from the Mahabharata and Ramayana. The makeup takes hours and uses complex colour codes (green = hero, black = villain, red = evil). Kuchipudi from Andhra Pradesh also uses elaborate costumes and is a dance-drama that tells stories from the Bhagavata Purana; dancers traditionally perform on brass plates (Tarangam). Odissi from Odisha is characterized by the Tribhanga (three-body-bend) posture and devotional themes centered on Lord Jagannath and Radha-Krishna.\n\nSattriya is the most recently recognized classical form, included in the list in 2000. It originated in the Vaishnava Sattras (monasteries) of Assam and was propagated by the saint-reformer Srimanta Shankardev in the 15th–16th century. Manipuri dance from Manipur is known for its graceful, lyrical movements (no strong footwork), depicting the Raas Leela of Radha-Krishna. Mohiniyattam (Dance of the Enchantress) from Kerala is a feminine, lyrical solo form named after Mohini (the female avatar of Vishnu). It uses pure white and gold costume (Kasavu).",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Natyashastra, the foundational text for Indian classical dance and drama, is attributed to:",
+          "options": ["Patanjali", "Bharata Muni", "Kalidasa", "Vishwanatha"],
+          "correctIndex": 1,
+          "explanation": "The Natyashastra is an ancient Sanskrit treatise on the performing arts — dance, drama, and music — attributed to Bharata Muni. It is estimated to have been composed between 200 BCE and 200 CE. It covers all aspects of dramatic production including acting, dance, music, stage design, and aesthetics. It describes the Navarasas (nine emotional states), Mudras (hand gestures), Nritta (pure dance), Nritya (expressive dance), and Natya (drama)."
+        },
+        {
+          "id": "q2",
+          "question": "Kathakali, the classical dance-drama of Kerala, uses a colour coding system in its makeup. The colour 'Green' (Pacha) represents:",
+          "options": ["Villainous characters", "Divine or heroic characters", "Female characters", "Forest-dwelling characters"],
+          "correctIndex": 1,
+          "explanation": "In Kathakali's elaborate makeup system (Chutti/Chutti makeup), the colour coding indicates character types: Pacha (green) represents noble, heroic, or divine characters like Krishna, Rama, and Arjuna. Kathi (red marks on green) represents characters who are heroic but have villainous streaks. Minukku (shining) represents feminine characters and saints in natural tones. Tadi (beard) represents fierce characters: red beard for evil, white for monkeys like Hanuman, black for hunters."
+        },
+        {
+          "id": "q3",
+          "question": "The 'Tribhanga' posture, a characteristic stance with the body bent at three points, is associated with which classical dance?",
+          "options": ["Kathak", "Bharatanatyam", "Odissi", "Manipuri"],
+          "correctIndex": 2,
+          "explanation": "Tribhanga (meaning 'three bends' — at the neck, torso, and knee) is the quintessential posture of Odissi dance, a classical dance form of Odisha. The curved, lyrical Tribhanga stance is inspired by the sculptural representations of Lord Jagannath and devout figures in Odisha's temples. Odissi is one of the most lyrical classical forms and depicts devotional themes centered around Vaishnavism, particularly Radha-Krishna and Lord Jagannath."
+        },
+        {
+          "id": "q4",
+          "question": "Sattriya dance was included in the list of Indian classical dances by the Sangeet Natak Akademi in which year?",
+          "options": ["1952", "1975", "1990", "2000"],
+          "correctIndex": 3,
+          "explanation": "Sattriya dance was included in the Sangeet Natak Akademi's list of Indian classical dances in November 2000, making it the most recently recognized. It originates from the Vaishnava Sattras (monasteries) of Assam and was propagated by the saint-reformer Srimanta Shankardev in the 15th–16th century as part of Neo-Vaishnava movement (Ekasarana Dharma). It was traditionally performed by male monks (Bhokots) in the monastery context."
+        },
+        {
+          "id": "q5",
+          "question": "The Lucknow Gharana of Kathak dance was greatly patronized under which ruler of Awadh?",
+          "options": ["Akbar", "Nawab Asaf-ud-Daula", "Wajid Ali Shah", "Nawab Shuja-ud-Daula"],
+          "correctIndex": 2,
+          "explanation": "The Lucknow Gharana of Kathak dance flourished under Nawab Wajid Ali Shah (1822–1887), the last Nawab of Awadh, who was himself a great patron of music, dance, and poetry. The Lucknow style emphasizes grace, expressiveness (Abhinaya), gentle footwork, and courtly refinement (thumri-based compositions). Bindadin Maharaj and his nephew Birju Maharaj are among the greatest exponents of the Lucknow Gharana. The Jaipur Gharana emphasizes vigorous footwork (tatkaar) and complex rhythms."
+        }
+      ]
+    },
+    {
+      "id": "music_of_india",
+      "title": "Music of India",
+      "notes": "Indian classical music has two main traditions: Hindustani (North Indian) and Carnatic (South Indian). Both are based on the concept of Raga (a melodic framework) and Tala (rhythmic cycle). The Samaveda is considered the source of Indian music. The foundational text is the Natyashastra, and later Sangita Ratnakara by Sarngadeva (13th century) is important. The current division into Hindustani and Carnatic traditions occurred around the 13th–14th century with the advent of Persian/Islamic influences in North India.\n\nHindustani Classical Music is based on improvisation around a Raga. A performance typically begins with a slow, meditative Alap (exploring the raga without rhythm), followed by Jor and Jhala (increasing tempo), and then the main composition with rhythmic accompaniment. The Tabla (percussion instrument) accompanies most performances. Major vocal forms include Dhrupad (the oldest and most classical form), Khayal (the most popular form today — developed in the 15th century), Thumri (semi-classical, devotional), Dadra, and Ghazal. Major Gharanas (schools): Gwalior, Agra, Kirana, Jaipur-Atrauli, Patiala (for Khayal). Ravi Shankar popularized the sitar globally.\n\nCarnatic Music is more structured and composition-based compared to Hindustani. The 'Trinity of Carnatic Music' — Tyagaraja, Muthuswami Dikshitar, and Syama Sastri — lived contemporaneously in the late 18th to early 19th century and composed thousands of Kritis (devotional compositions). Other forms include Varnam, Padam, Javali, Tillana, and Ragamalika. The Mridangam is the primary percussion instrument; the Violin (introduced by Baluswami Dikshitar) and Veena are also key instruments. Carnatic music uses 72 parent Ragas (Melakarta scheme by Venkatamakhin, 17th century).\n\nFolk music of India is immensely diverse: Baul music (Bengal — syncretic spiritual folk songs), Lavani (Maharashtra — rhythmic, erotic folk dance music), Bihu songs (Assam), Bhangra and Giddha (Punjab — harvest festival music), Dandiya Raas and Garba (Gujarat), Maand (Rajasthan), Sohar and Birha (Uttar Pradesh), and Yakshagana (Karnataka — musical folk drama). India's contribution to world music includes the influence of Ragas on jazz and Western music through musicians like John Coltrane, who was influenced by Indian music.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The 'Trinity of Carnatic Music' refers to which three composers?",
+          "options": ["Tyagaraja, Muthuswami Dikshitar, Syama Sastri", "Thyagaraja, Purandaradasa, Kshetrayya", "Annamacharya, Narayana Tirtha, Swati Tirunal", "Balamurali Krishna, M.S. Subbulakshmi, D.K. Pattammal"],
+          "correctIndex": 0,
+          "explanation": "The Trinity of Carnatic Music — Tyagaraja, Muthuswami Dikshitar, and Syama Sastri — were three contemporaneous composers who lived in Tiruvarur (Tamil Nadu) in the late 18th to early 19th century. Tyagaraja (1767–1847) composed primarily in Telugu, Dikshitar (1775–1835) in Sanskrit, and Syama Sastri (1762–1827) in Sanskrit and Telugu. Together they elevated Carnatic music to its classical peak. Purandaradasa (15th–16th century) is considered the 'Pitamaha' (grandfather) of Carnatic music."
+        },
+        {
+          "id": "q2",
+          "question": "Dhrupad is significant in Hindustani classical music because it is:",
+          "options": ["The most recently developed vocal form", "The oldest and most classical form of Hindustani vocal music", "A semi-classical form associated with romantic themes", "A form of devotional music associated with Sufism"],
+          "correctIndex": 1,
+          "explanation": "Dhrupad is the oldest and most austere classical form of Hindustani vocal music, originating in the temple devotional music of the medieval period. It is characterized by a slow, meditative Alap followed by compositions in four sections (Sthayi, Antara, Sanchari, Abhog), sung to the accompaniment of a Pakhawaj (barrel drum). It was patronized by the Mughal Emperor Akbar and Raja Man Singh Tomar of Gwalior. The Dagar, Darbhanga, and Talwandi Gharanas are known for Dhrupad."
+        },
+        {
+          "id": "q3",
+          "question": "The 'Mridangam' is the primary percussion instrument used in which musical tradition?",
+          "options": ["Hindustani classical music", "Carnatic classical music", "Manipuri folk music", "Odissi dance accompaniment"],
+          "correctIndex": 1,
+          "explanation": "The Mridangam (a two-headed barrel drum made of jackwood with goatskin heads) is the primary percussion instrument in Carnatic classical music from South India. It is mentioned in ancient texts including the Natyashastra. The Tabla (a set of two drums — a small right-hand drum called tabla and a larger left-hand drum called bayan) is the primary percussion instrument in Hindustani music. In Odissi dance, the Mardala (similar to Mridangam) is used."
+        },
+        {
+          "id": "q4",
+          "question": "Baul music, a syncretic folk music tradition, belongs to which Indian state?",
+          "options": ["Rajasthan", "Punjab", "West Bengal", "Odisha"],
+          "correctIndex": 2,
+          "explanation": "Baul music is a folk music tradition from Bengal (West Bengal and Bangladesh). The Bauls are wandering minstrels who compose and sing spiritual songs with influences from Vaishnavism, Sufism, and Tantra, reflecting a syncretic approach to spirituality. Their songs focus on the search for the divine within the human body. The Baul tradition was inscribed on UNESCO's Intangible Cultural Heritage list in 2008. The Nobel laureate Rabindranath Tagore was deeply influenced by Baul music."
+        },
+        {
+          "id": "q5",
+          "question": "A 'Raga' in Indian classical music is best described as:",
+          "options": ["A fixed composition with set lyrics and melody", "A melodic framework with specific ascending/descending scales and characteristic phrases", "A rhythmic cycle used to organize musical time", "A type of folk song performed during harvest festivals"],
+          "correctIndex": 1,
+          "explanation": "A Raga is a melodic framework that specifies certain notes (Swaras) to be used, their ascending (Arohana) and descending (Avarohana) sequences, important notes, characteristic phrases (Gamaka/ornaments), time of day or season for performance, and associated emotional quality (Rasa/Bhava). It provides a framework within which musicians improvise, rather than being a fixed composition. Each Raga evokes a specific mood — e.g., Bhairavi (morning, devotional), Yaman (evening, romantic). Tala is the rhythmic cycle."
+        }
+      ]
+    },
+    {
+      "id": "indian_paintings_sculpture",
+      "title": "Indian Paintings & Sculpture",
+      "notes": "Indian painting has a history spanning over 30,000 years, from prehistoric cave paintings at Bhimbetka (near Bhopal, Madhya Pradesh — a UNESCO World Heritage Site) to elaborate medieval miniatures and the modern period. The Ajanta caves (Maharashtra, 2nd century BCE to 6th century CE) contain some of the finest examples of ancient Indian fresco/tempera paintings on Buddhist themes. Ajanta's paintings are notable for their naturalistic style, deep emotional content, and mastery of perspective. The Bagh caves (Madhya Pradesh) and Badami cave temples also have notable ancient paintings.\n\nMedieval Indian miniature painting developed under royal patronage and is classified into: Mughal Miniatures (developed under Akbar with the fusion of Persian and Indian styles — Akbarnama, Hamzanama; Jahangir excelled in portraiture and nature studies); Rajput Miniatures (from Rajasthan and Pahari hills — characterized by bold colours, flat perspectives, and themes from Ramayana, Mahabharata, Bhagavata Purana, and Ragamalas); Pahari Miniatures (from the Himalayan foothills — Basholi, Kangra, Guler schools — known for lyrical beauty, especially Kangra school's depiction of Radha-Krishna). Deccan Miniatures (from Golconda, Bijapur, Ahmadnagar) have distinct characteristics.\n\nIndian sculpture: The Indus Valley Civilization produced notable sculptures including the 'Dancing Girl' (bronze, Mohenjo-daro), the 'Priest-King' (steatite, Mohenjo-daro), and terracotta figurines. Mauryan sculpture is characterized by polished sandstone with an animal capital at the top — the Ashoka pillars are the finest examples. The Lion Capital from Sarnath is India's national emblem. The Gandhara school (northwest India, 1st–5th century CE) developed under Kushan patronage and was heavily influenced by Greek/Hellenistic art — produced the first human representation of the Buddha. The Mathura school (contemporary, developed from Indian tradition — used spotted red sandstone) also produced iconic images of the Buddha.\n\nThe Gupta period (4th–6th century CE) is considered the 'Golden Age' of Indian art, producing the ideal synthesis of Gandhara and Mathura styles. The Gupta Buddha images at Mathura and Sarnath represent serene spirituality — thin robes, ushnisha (cranial protuberance), and elongated earlobes became canonical. South Indian bronze sculpture under the Chola dynasty (9th–13th century) is considered the pinnacle of metal sculpture — the Nataraja (dancing Shiva) is the most iconic, representing the cosmic dance of creation and destruction. The lost-wax (cire perdue) technique was used for casting these bronzes.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The prehistoric cave paintings at Bhimbetka are located in which state of India?",
+          "options": ["Chhattisgarh", "Uttarakhand", "Madhya Pradesh", "Jharkhand"],
+          "correctIndex": 2,
+          "explanation": "Bhimbetka Rock Shelters are located in the Vindhya Range, near Bhopal in Raisen district of Madhya Pradesh. They contain paintings from the Upper Palaeolithic period (approximately 30,000 years ago) to the Medieval period. Declared a UNESCO World Heritage Site in 2003, they are one of the oldest evidence of human life in India. The paintings depict animals (bison, rhinoceros, tigers, lions), hunting scenes, dances, and geometric patterns, using natural pigments."
+        },
+        {
+          "id": "q2",
+          "question": "The Ajanta cave paintings are significant primarily because they depict:",
+          "options": ["Hindu mythological scenes from the Mahabharata and Ramayana", "Buddhist Jataka tales and the life of the Buddha", "Historical events from the Gupta empire", "Secular scenes from the daily life of the Mauryan period"],
+          "correctIndex": 1,
+          "explanation": "The Ajanta cave paintings (2nd century BCE to 6th century CE) in Maharashtra primarily depict Buddhist themes: the Jataka tales (stories of the Buddha's previous lives), scenes from the life of the historical Buddha (Siddhartha Gautama), and Bodhisattvas. The most famous is the Bodhisattva Padmapani (holding a lotus). The paintings are a blend of the fresco and tempera techniques (painted on a dry surface with mineral pigments). They are a UNESCO World Heritage Site."
+        },
+        {
+          "id": "q3",
+          "question": "The Gandhara school of sculpture is notable for producing the first human images of the Buddha, and its style shows influence from:",
+          "options": ["Persian (Achaemenid) art", "Chinese Buddhist art", "Greek/Hellenistic art", "Egyptian art"],
+          "correctIndex": 2,
+          "explanation": "The Gandhara school (developed in modern Afghanistan and northwest Pakistan under Kushan rulers, 1st–5th century CE) was heavily influenced by Greek/Hellenistic art — a legacy of Alexander the Great's campaigns in the region and the subsequent Greco-Bactrian kingdom. Features include wavy hair, facial features, and draped robes similar to Greek Apollo. This school produced the first anthropomorphic (human form) images of the Buddha, before which the Buddha was only represented symbolically (by footprints, wheel, empty throne)."
+        },
+        {
+          "id": "q4",
+          "question": "The iconic Nataraja sculpture depicting Lord Shiva as the Cosmic Dancer was perfected by which dynasty?",
+          "options": ["Pallava dynasty", "Rashtrakuta dynasty", "Chola dynasty", "Vijayanagara dynasty"],
+          "correctIndex": 2,
+          "explanation": "The Nataraja sculpture was developed and perfected by the Chola dynasty (9th–13th century CE) of Tamil Nadu. These bronze sculptures were cast using the lost-wax (cire perdue/Madhuchishtha Vidhana) technique. The Nataraja shows Shiva dancing within a ring of fire (Prabhamandala), with one foot on the dwarf demon Apasmara (ignorance), four arms, and matted hair flying. It symbolizes the five divine acts: creation (Srishti), preservation (Sthiti), dissolution (Samhara), concealment (Tirobhava), and grace (Anugraha)."
+        },
+        {
+          "id": "q5",
+          "question": "The Kangra school of miniature painting, known for its lyrical beauty, is associated with which region?",
+          "options": ["Rajasthan", "Deccan plateau", "Pahari (Himalayan foothills) region of Himachal Pradesh", "Bengal"],
+          "correctIndex": 2,
+          "explanation": "The Kangra school of miniature painting developed in the Pahari (hill) region of present-day Himachal Pradesh, particularly under the patronage of Raja Sansar Chand of the Kangra kingdom in the late 18th to early 19th century. It is known for its lyrical, romantic depiction of Radha-Krishna themes with soft colours, slender figures, lush landscapes, and poetic sensibility. The Kangra style reached its peak under Nainsukh and his family. Other important Pahari schools include Basholi (known for bold colours and intense expressions) and Guler."
+        }
+      ]
+    },
+    {
+      "id": "fairs_festivals_unesco_heritage",
+      "title": "Fairs, Festivals & UNESCO Heritage",
+      "notes": "India's festivals reflect its cultural diversity. Major Hindu festivals include Diwali (Festival of Lights — celebrates Lord Rama's return to Ayodhya, also Lakshmi Puja), Holi (Festival of Colors — marks the end of winter, associated with Radha-Krishna and Holika-Prahlad legend), Dussehra/Vijayadashami (victory of Rama over Ravana, or Durga over Mahishasura), Navratri (nine nights of Goddess worship), Ganesh Chaturthi (Maharashtra — immersion of Ganesha idols), Onam (Kerala harvest festival — celebrates King Mahabali's return), Pongal (Tamil Nadu — harvest festival), Makar Sankranti (transition of sun into Capricorn — celebrated as Lohri in Punjab, Uttarayan in Gujarat, Bihu in Assam).\n\nMajor fairs of India: Pushkar Fair (Rajasthan — one of the world's largest cattle fairs, held during Kartik month, associated with the Pushkar Brahma temple), Kumbh Mela (rotates among Prayagraj, Haridwar, Nasik, Ujjain — largest human gathering in the world, held every 12 years at each location — the Prayagraj Maha Kumbh 2025 was historic), Sonepur Mela (Bihar — Asia's largest cattle fair), and Hemis Festival (Ladakh — largest festival of Tibetan Buddhist culture in India, celebrates the birth of Guru Padmasambhava). The Gangasagar Mela (West Bengal, Makar Sankranti) and Urs of Khwaja Moinuddin Chishti at Ajmer are also prominent.\n\nUNESCO Intangible Cultural Heritage (ICH) of India: Koodiyattam (Kerala — Sanskrit theatre, 2008), Vedic Chanting (2008), Ramman religious festival of Garhwal (2009), Mudiyettu ritual theatre of Kerala (2010), Kalbelia folk songs and dances of Rajasthan (2010), Chhau dance (2010), Buddhist chanting of Ladakh (2012), Sankirtana of Manipur (2013), Traditional brass and copper craft of Thatheras (2014), Yoga (2016), Nowruz (2016), Kumbh Mela (2017), Kolkata's Durga Puja (2021), and Garba of Gujarat (2023). India has the largest number of ICH elements in UNESCO's list among Asian countries.\n\nUNESCO World Heritage Sites in India: India has 42 UNESCO World Heritage Sites (as of 2024) — 34 cultural, 7 natural, and 1 mixed. Notable cultural sites include Taj Mahal (Agra), Qutb Minar (Delhi), Red Fort (Delhi), Ajanta Caves, Ellora Caves, Sun Temple at Konark, Mahabalipuram Group of Monuments, Khajuraho Temples, Hampi, Pattadakal, Champaner-Pavagadh, Jantar Mantar (Jaipur), Victorian Gothic architecture of Mumbai, etc. Natural sites include Kaziranga, Manas, Sundarbans, Nanda Devi and Valley of Flowers, Western Ghats, and Great Himalayan National Park.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The Kumbh Mela was inscribed on UNESCO's Intangible Cultural Heritage list in which year?",
+          "options": ["2010", "2013", "2017", "2021"],
+          "correctIndex": 2,
+          "explanation": "The Kumbh Mela was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in December 2017 at the 12th session of the Intergovernmental Committee in Jeju, South Korea. It was recognized as the world's largest peaceful gathering of people, embodying knowledge, beliefs, practices, and traditions passed through generations. The Kumbh Mela rotates among Prayagraj (Allahabad), Haridwar, Ujjain, and Nashik every 12 years."
+        },
+        {
+          "id": "q2",
+          "question": "Garba, a folk dance form of Gujarat, was inscribed on UNESCO's Intangible Cultural Heritage list in:",
+          "options": ["2016", "2019", "2021", "2023"],
+          "correctIndex": 3,
+          "explanation": "Garba of Gujarat was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in December 2023 at the 18th session in Kasane, Botswana. Garba is a circular dance form performed during the nine nights of Navratri, centered on a lamp or image of the Goddess Amba/Shakti. It symbolizes the female creative energy. India now has 15 elements on the UNESCO ICH list, with Garba being the most recently inscribed."
+        },
+        {
+          "id": "q3",
+          "question": "The Pushkar Fair, one of the world's largest cattle fairs, is held in which state?",
+          "options": ["Gujarat", "Madhya Pradesh", "Rajasthan", "Maharashtra"],
+          "correctIndex": 2,
+          "explanation": "The Pushkar Fair (Pushkar Camel Fair) is held annually in the month of Kartik (October/November) at Pushkar in Ajmer district of Rajasthan. It is one of the world's largest camel fairs and also features cattle, horse trading, folk music, and cultural events. Pushkar is also home to the famous Brahma Temple — one of the very few temples dedicated to Lord Brahma in India. The fair coincides with the Kartik Purnima (full moon night)."
+        },
+        {
+          "id": "q4",
+          "question": "India has how many UNESCO World Heritage Sites as of 2024?",
+          "options": ["38", "40", "42", "45"],
+          "correctIndex": 2,
+          "explanation": "India has 42 UNESCO World Heritage Sites as of 2024 — 34 cultural, 7 natural, and 1 mixed (Khangchendzonga National Park, Sikkim — the only mixed World Heritage Site in India). The most recent additions include Hoysala temples (2023) and Dholavira (2021). India has the 6th highest number of World Heritage Sites in the world, after Italy, China, Germany, France, and Spain."
+        },
+        {
+          "id": "q5",
+          "question": "Kolkata's Durga Puja was inscribed on UNESCO's Intangible Cultural Heritage list in which year?",
+          "options": ["2019", "2020", "2021", "2022"],
+          "correctIndex": 2,
+          "explanation": "Kolkata's Durga Puja was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in December 2021 at the 16th session in Paris. It was recognized as a major festival celebrated in Kolkata (West Bengal) during autumn, featuring elaborately decorated temporary structures (pandals), artistic idol creation, music, food, and communal worship of Goddess Durga over five days. It is considered a major social and cultural event that unifies diverse communities."
+        }
+      ]
+    }
+  ]
+}
